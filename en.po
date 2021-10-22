@@ -1,0 +1,5604 @@
+#
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "92cba777c8bb49dc82e263fa4fd9e109"
+msgstr "Thus have I heard, at one time,"
+
+msgid "d1edca836684403ea7682f596dafbae0"
+msgstr ""
+"the Bhagavat was dwelling on the Vulture Peak Mountain in Rājgir, on a "
+"summit of infinite gems, in the Womb of Dharmadhātu Palace,"
+
+msgid "86734b9ef86d4eacbcfe8f45c256b212"
+msgstr ""
+"together with a great assembly of twenty-five thousand monks. All of them "
+"were arhats who had exhausted their outflows."
+
+msgid "652bfa78f5a448cca78f9efdfe813804"
+msgstr "They were without afflictions and controlled."
+
+msgid "15e4dfc1476c42c483aceb65584e1e39"
+msgstr "Their minds were perfectly liberated,"
+
+msgid "e8414e7246d944799c0d5269e610c8f7"
+msgstr "and their wisdom was perfectly free."
+
+msgid "d1330b7fbbaa4791941b5ffb9f5a780f"
+msgstr ""
+"They were knowledgeable great elephants who had accomplished what needed to "
+"be done."
+
+msgid "8f081969afb546c99e95ee685dbea267"
+msgstr "They had laid down their burden and fulfilled their own benefit."
+
+msgid "e2a02708ffae47579ed441886898eb02"
+msgstr "They had destroyed the bonds of existence and,"
+
+msgid "5e7c998173474b69b84a7d712884ce66"
+msgstr ""
+"thanks to their correct knowledge, their minds were perfectly liberated."
+
+msgid "4294b3b5ad654ab6bab1bf5ecd8e20dc"
+msgstr "youthful Mañjuśrī,"
+
+msgid "5e6a7b3b8b9b482ba8003d47180c0e14"
+msgstr "Dhanaśrī,"
+
+msgid "876a113cee9847db8902628ddc17b180"
+msgstr "Buddhiśrī,"
+
+msgid "27f758cadb3e49f9bfbd7622345f7605"
+msgstr "Bhaiṣajyarāja, and"
+
+msgid "5d56fa52a6e7438697de5bb462ac961e"
+msgstr "Bhaiṣajya­samudgata."
+
+msgid "cc3f851b4daf444ca1078cd1c5c6c738"
+msgstr "All of them were turning the Dharma wheel that does not turn back."
+
+msgid "3fc5677430884d76b1b00a61c8b4fb15"
+msgstr ""
+"They were skilled in inquiring about the vaipulya sūtras of the Heap of "
+"Jewels and"
+
+msgid "dea5e0ee1c6344e79763b12c5924f1b6"
+msgstr "and had obtained the level called Cloud of Dharma."
+
+msgid "8acc28834f08464b9396007e9b5666ce"
+msgstr "In terms of wisdom, they were like Sumeru,"
+
+msgid "c046a1af8c944529b035f9b2e8eda214"
+msgstr ""
+"and all of them had thoroughly cultivated the dharmas of emptiness, no sign,"
+" no wish, no arising, no birth, and no existence."
+
+msgid "d390734f4c3a42f8a5de86d729233cd3"
+msgstr "The greatly profound Dharma appeared to them ,"
+
+msgid "b4b04e878b2f4e55b3b17064dae87abb"
+msgstr "and they had the postures of the tathāgatas."
+
+msgid "958b69344f1b49cea923d1356e0a7129"
+msgstr ""
+"In other world spheres, they had been sent out by quintillions of "
+"tathāgatas."
+
+msgid "3b183158b82742468e98a7e75f4e7b11"
+msgstr ""
+"All of them were fully clairvoyant and well settled in the essential nature "
+"of all dharmas."
+
+msgid "8e08512653cf4496b7dcd43053c9fbc0"
+msgstr "At that time,"
+
+msgid "a55d4455d28d48069b636de7daec8a72"
+msgstr ""
+"the Bhagavat thought, “To generate great swiftness, strength, impetus, and "
+"stamina in the bodhisattva great beings,"
+
+msgid "4f099c896c7744aa877951163056db9f"
+msgstr "I shall give a Dharma discourse."
+
+msgid "a8ce31607cd945939d0d7ad9fb37f5e8"
+msgstr ""
+"From as many world spheres as there are grains of sand in the river Ganges,"
+
+msgid "3c3dd7761e1a4834821a744c67c4f341"
+msgstr "I shall cause splendorous bodhisattva great beings to assemble."
+
+msgid "d8f1ebad01f84dd1bd866ab6b6029f14"
+msgstr ""
+"Hence, I will display a sign to show that there is to be a great teaching of"
+" the Dharma."
+
+msgid "8ae7130281cd4e179389349fdf56103f"
+msgstr ""
+"I shall cause a great light, so that bodhisattva great beings shall come to "
+"me and ask for a great Dharma teaching.”"
+
+msgid "8b5a9cbf88bf4755bccf51706ec6a6d4"
+msgstr ""
+"the Bhagavat illuminated the ten directions with great clouds of light rays "
+"that shone in as many worlds as there are atoms of dust in the great "
+"trichiliocosm—an uncountable and inconceivable number."
+
+msgid "bfb4f2b5b9354271a749eb8c9cb98da3"
+msgstr ""
+"as many bodhisattva great beings as there are atoms of dust in ten ineffable"
+" quintillion buddhafields approached him from all the ten directions;"
+
+msgid "85d142118bea4735967493139223a65e"
+msgstr "present with the Bhagavat were seventy-two quintillion bodhisattvas,"
+
+msgid "4bd7cb35d8e04506882e2893003e0339"
+msgstr ""
+"each and every bodhisattva great being arrived with exceptional feats beyond"
+" imagination."
+
+msgid "7a78e24f4df6492da3db2f6c1725bac8"
+msgstr ""
+"They first performed a fitting, inconceivable worship of the Bhagavat,"
+
+msgid "42004f5f552b4d388ff2207c6b10e44a"
+msgstr ""
+"and then sat down in front of him on lotus seats that appeared through the "
+"force of their aspirations."
+
+msgid "8b08d2474d7b4d44a4dbc7b7ea357bcf"
+msgstr "They stayed still, looking at the Bhagavat without blinking."
+
+msgid "1098fbc39f1d41e7a8877070bf40ab01"
+msgstr ""
+"A lion throne within a great, jeweled lotus then appeared at the center of "
+"the Womb of Dharmadhātu Palace. It was an uncountable number of leagues in "
+"width, and of unprecedented height."
+
+msgid "c4bed861c2b44c87a47a53305e7b1ba8"
+msgstr "It was made of gems and jewels sparkling in every way,"
+
+msgid "9bac563bdd3849c6a7d685808e424c60"
+msgstr ""
+"with lightning for lamps, and a surrounding railing made of gems and jewels."
+
+msgid "04916f6d939a4ffba19942474d32bf89"
+msgstr "Its staffs were of gems and jewels of inconceivable brilliance,"
+
+msgid "288938f589524460983c6d1219f587f1"
+msgstr "and incomparable gems and jewels enclosed it."
+
+msgid "9f61e0aa56664011bb7a851f388b1e9e"
+msgstr "Jewel garlands splendid beyond comparison beautified the throne,"
+
+msgid "16bb1033f7b4434ca587f43b6a830a4e"
+msgstr "studded with many types of precious gems."
+
+msgid "a03da9a7f1e8480f83690776042832e4"
+msgstr "It was hung about with raised parasols, standards, and flags."
+
+msgid "d84cdaf1225a42518899904238f9d8f5"
+msgstr ""
+"From above the lion throne within the great lotus of gems and jewels, ten "
+"innumerable quintillions of light rays now issued forth"
+
+msgid "397b7b54bc7949f2ab551aee0c0a5105"
+msgstr ""
+"in all directions and illumined the very many world spheres in the ten "
+"directions by their great brightness."
+
+msgid "c70a8c13ba0d4df29d7805f60be82dcd"
+msgstr ""
+"And at that very time, from each and every one of the ten directions, gods,"
+
+msgid "900cf17ffdec492d847ac096aae24a8f"
+msgstr "nāgas,"
+
+msgid "823d347263df4514ab7c5ae17ee02b1a"
+msgstr "yakṣas,"
+
+msgid "c98f0aad110a4511b23f5ce942662b9f"
+msgstr "gandharvas,"
+
+msgid "3dd4938484ec4d8c80b8d064cc7f0fa1"
+msgstr "demigods,"
+
+msgid "0aee760199644960bdbc94ad1172f0df"
+msgstr "garuḍa,"
+
+msgid "668f8ad7594e43b194f6b871de03c5c9"
+msgstr "kinnaras,"
+
+msgid "0199c482500f4ee397802486e6fbff98"
+msgstr "great serpents,"
+
+msgid "ee864265210f45e5ab7c40a4fb577495"
+msgstr "śakras,"
+
+msgid "1168d383771e49c3b66eece75718fc66"
+msgstr "brahmās,"
+
+msgid "10290d91866345bd8955c85030afd3d1"
+msgstr ""
+"and world protectors arrived, as many as there are atoms of dust in the "
+"ineffable quintillion buddhafields."
+
+msgid "d47d80c6c2cc4e5e936f4869c4f7639a"
+msgstr ""
+"Some of them arrived together with a quintillion apsaras, uncountable and "
+"beyond conception, singing and playing musical instruments while they sat in"
+" jeweled palaces."
+
+msgid "25c94f9f68a94032b00e7329cd9205d6"
+msgstr "Some arrived with palaces that were made of flowers,"
+
+msgid "15d3dc535ee1463ebd28383f72381fc8"
+msgstr "others with palaces were made of heaps of uragasāra sandalwood."
+
+msgid "7135c56840584745825c2787d6206dfb"
+msgstr "Some palaces were made of pearls, others of diamonds,"
+
+msgid "03d54554b2ab4a9cabfb7ae83569bcac"
+msgstr "and others still of gems and jewels that shone like diamonds."
+
+msgid "b61f3f7fc7ec4bc79cdf0051625a8cec"
+msgstr "Some were made of gold from the river Jāmbū,"
+
+msgid "e6eee820ef774047a1873cb906ba30c7"
+msgstr "and others were built with gems that shone in all colors."
+
+msgid "f4e5699f2b614fd8bf6e7e3975d7bbfa"
+msgstr ""
+"Some were made of the vaśirāja gem and others of wish-fulfilling jewels."
+
+msgid "f24005620e124b19b5fbec3c8d085c0e"
+msgstr "Still other palaces were made of those gems worn by Śakra."
+
+msgid "072dbf79da3a475aae1a26504be556bd"
+msgstr ""
+"Yet others arrived with uncountable, inconceivable quadrillions of apsaras, "
+"singing and playing musical instruments while they sat in palaces of great "
+"jewels, gems beaming uninterruptedly from the array of pure, ocean-ground "
+"jewels."
+
+msgid "ba9ad734ced441eda7593a4859b1978e"
+msgstr ""
+"As they arrived, they first worshipped the Bhagavat in an inconceivable, "
+"matchless, immeasurable, and limitless manner."
+
+msgid "4955c59468a44f6da4417e198f0141f0"
+msgstr ""
+"Then they arranged themselves on one side, on seats that manifested through "
+"their own aspirations."
+
+msgid "8c419bc7807d485f8a355e79b41f6163"
+msgstr "they stayed still, looking at the Bhagavat without blinking."
+
+msgid "67e8c846370b4bf98ea25c2c09406b82"
+msgstr ""
+"At that very moment this world sphere, a great trichiliocosm, turned into "
+"Jāmbū River gold."
+
+msgid "da2ad510639740e8b0cecb64b61fdff8"
+msgstr "It was adorned with trees of many great gems and jewels,"
+
+msgid "5f09ccf433714f2c89a43f54aa565f8a"
+msgstr "divine flowering trees,"
+
+msgid "6ba0f8bb41844d96848a783d117fe1ef"
+msgstr "trees of fine fabrics,"
+
+msgid "80602e8d30a14af7bd535cdb601980c6"
+msgstr ""
+"It was covered with a net of precious moon gems, sun gems, and vidyutpradīpa"
+" gems."
+
+msgid "7395a97936bb4940b1952329780feead"
+msgstr "Parasols, standards, and flags were hoisted."
+
+msgid "39402de2ea684aadb191e2539a3f9223"
+msgstr ""
+"nnumerable quintillions of apsaras with half their bodies in sight thronged "
+"all trees, which were enveloped by strings of pearls and garlands of great "
+"precious jewels."
+
+msgid "756ab70c0c17474fad006fdd22d418f7"
+msgstr ""
+"At that time these verses rang out from the lion throne with its great, "
+"jeweled lotus inside:"
+
+msgid "bf17b9f68f834951bef4285cd11b40bd"
+msgstr "I came about by the force of your merit."
+
+msgid "43b8016c83ec463ca065f173b0c166cb"
+msgstr "“Come, be seated, king of the best among men!"
+
+msgid "de900f755b43442fa4d9b47fc76e594c"
+msgstr "Victor, best among the two-footed."
+
+msgid "292c49834e204025b7babebe7437a445"
+msgstr "Fulfilling my wish, today I shall support you,"
+
+msgid "00237aeb4fde4d46bae4e3ad0fe65853"
+msgstr "“My body is made of jewels."
+
+msgid "80933eca331643e283180ba362078ea4"
+msgstr "Oh Guide, for your sake, At my center is a beautiful jewel lotus;"
+
+msgid "ae59c1bef57c40aab1c7d7d28f0842e1"
+msgstr "Protector, please fulfill my wish today!"
+
+msgid "96a0d068f7294007af4b1bc277a9fefa"
+msgstr "“Seated on this jewel lotus,"
+
+msgid "3dd961203cb64b4ba1a4f528b8f062f3"
+msgstr "You shall beautify this entire world and me."
+
+msgid "eda956aa533d4678bc6c507bf2293a06"
+msgstr "Hearing such Dharma, one obtains a lion throne like this!"
+
+msgid "52d41515a67a4e9790d60674a5d39527"
+msgstr "You shall teach the Dharma to many millions of living beings."
+
+msgid "172e475888a94f1b9dbc3dc8098afeff"
+msgstr ""
+"“Thousands of light rays shining from your limbs Illuminate many world "
+"spheres."
+
+msgid "57f8de48256346f2967b4f7bf9f0d54a"
+msgstr "This is the sign of someone in whom joy is born."
+
+msgid "727cc1f630394b02bc334db810e96300"
+msgstr "Guide, ascend to me!"
+
+msgid "46d3fd0fd91245ac8524049c8019cef5"
+msgstr ""
+"In the past, in this very place, I have supported eighty million self-arisen"
+" sages."
+
+msgid "326658fdd8654dbfb80f230c8c01ce90"
+msgstr "“Quickly, take your seat and grant your favor!"
+
+msgid "cd3089007e19425782bf35aa4e7aabc6"
+msgstr "May the Bhagavat also, today, bestow his favor!”"
+
+msgid "de8501275b7347cdaaadc3e505c33c40"
+msgstr "At this the Bhagavat arose from his previous seat and"
+
+msgid "ef687980b008433d83b4fab41068ad73"
+msgstr ""
+"sat down on the lion throne with its great jewel lotus inside. He sat with "
+"his legs crossed and observed the entire gathering of bodhisattvas."
+
+msgid "305d4f28c4f447f980417a787f7b2873"
+msgstr ""
+"Then, to those bodhisattva great beings, he signaled that he was about to "
+"deliver a distinguished Dharma teaching."
+
+msgid "6e5a394e0a1342b9b9fb57ade168ec42"
+msgstr ""
+"At that very time, the entire assembly of bodhisattvas had the thought,"
+
+msgid "dd348d95d2254a7abab00ebb0beec66f"
+msgstr ""
+"“The youthful Mañjuśrī should now inquire of the Tathāgata, the Arhat, the "
+"Perfect and Complete Buddha, about non-arising and non-cessation. We have "
+"not heard that Dharma teaching for a long time.”"
+
+msgid "c8ddb8a2fa7a4ef7833cfaf7bb1697e7"
+msgstr "The youthful Mañjuśrī had understood the Bhagavat’s signal,"
+
+msgid "f981c48b899745c2b4475ded4f2968a2"
+msgstr "and he also knew what the bodhisattva great beings were thinking."
+
+msgid "15c41d98376a4e03a77c4f821c09a7df"
+msgstr ""
+"So he arose and adjusted his upper robe so that one shoulder was uncovered."
+
+msgid "0363f2c958e24368b3106f9bf05c3fee"
+msgstr ""
+"He then knelt in front of the Bhagavat with his right knee placed in the "
+"center of a lotus."
+
+msgid "29916381d4194e8894d06c4a059257ae"
+msgstr "With joined palms he then addressed this question to the Bhagavat:"
+
+msgid "cef065258093474495ad83b7e09d916c"
+msgstr "“Bhagavat, ‘non-arising’ and ‘non-cessation’ have been spoken of."
+
+msgid "046b21b3b92642fb90d96154dd576837"
+msgstr ""
+"Bhagavat, to what dharma do the terms ‘non-arising’ and ‘non-cessation’ "
+"refer?”"
+
+msgid "9d5ff6144a8d4cc2922cafea8addeb2a"
+msgstr "He also expressed his question in verse:"
+
+msgid "55687d0e71484522bcda65faf3aca4f6"
+msgstr "Of ‘non-cessation’ and ‘non-arising.’"
+
+msgid "70db697b37d74b0aa28d6c8745521634"
+msgstr "“Guide, you speak"
+
+msgid "f5ee8a4b0ab14eee89e674f2d6015a00"
+msgstr "Greatly wise one, How do you explain those terms?"
+
+msgid "cbff6db5a80f4e4a9a9293fc8cecdd1a"
+msgstr "“ ‘Non-cessation’ and ‘non-arising,’"
+
+msgid "df5266bc87f54bf4b6753787c249ba60"
+msgstr "Why are they called so?"
+
+msgid "b6d9d7ba34704a06bd78017719e709f8"
+msgstr "Through analogies and reasons!"
+
+msgid "020f3c98028b4493977803f090f3e61b"
+msgstr "Great sage, please tell us"
+
+msgid "80c24ed707054204859563034b3768a6"
+msgstr "“These many bodhisattvas have come here,"
+
+msgid "b27365bfdf3c4b03b91a590915e841d0"
+msgstr "Wishing for awareness; They were sent to salute you,"
+
+msgid "b587ba00b1704e4d901d3f348ff085fb"
+msgstr "by many guides of the world."
+
+msgid "1e537020a24a4b6bba91819e8910dcd9"
+msgstr "So please teach the lofty and excellent, good Dharma!”"
+
+msgid "0baf1f286cc34b78830b79cb68f2757b"
+msgstr "the Bhagavat said to the youthful Mañjuśrī:"
+
+msgid "b202d02fd85c4fd1b6c92cd0bfe384e1"
+msgstr ""
+"You are striving for the benefit of many people, for the happiness of many "
+"people, and with compassion for the world."
+
+msgid "a3e43ef8b7414dbf817fc0f83073353c"
+msgstr ""
+"You are doing so for the goodness, benefit, and happiness of a great group "
+"of beings, both gods and men."
+
+msgid "17b7cb0dc7404967bc28185360fc09cd"
+msgstr ""
+"You are also acting so that the bodhisattva great beings who have come here "
+"may obtain the level of a buddha."
+
+msgid "fbf49d9055ee4639994ef64c2c26f28b"
+msgstr "“Good, Mañjuśrī, good!"
+
+msgid "89bc1b1a6a4a4735b69caeac64b97d9f"
+msgstr ""
+"Mañjuśrī, it is good that you think to ask the Tathāgata about this matter."
+
+msgid "2f6bf227f0714d10bb3510c7bdf383d9"
+msgstr ""
+"you should apply yourself to this point without alarm, without fear, and "
+"without hesitation."
+
+msgid "f5214cef22a745e68def022cf54f6b64"
+msgstr "And, Mañjuśrī, you must rely on awareness."
+
+msgid "9d36beedbc124c4ea97c90826dc51183"
+msgstr ""
+"“It is as follows. Mañjuśrī, imagine that this wide earth were made entirely"
+" of beryl,"
+
+msgid "3a50306b840f43acb72378ca26fac435"
+msgstr ""
+"so that in that beryl one could see reflections of the abode of the Thirty-"
+"Three; of Śakra, lord of the gods; and of his Palace of Victory."
+
+msgid "74da6b06d0a4427fa68a5164ac3b3b97"
+msgstr ""
+"And imagine that Śakra, lord of the gods, could be seen there, playing and "
+"enjoying himself with the five divine objects of pleasure."
+
+msgid "16282db39c6a429297c39241cacc2886"
+msgstr ""
+"“At that time, the gods might call out to all the men, women, boys, and "
+"girls of Jambūdvīpa,"
+
+msgid "9169b7a51449460d875982744345fc34"
+msgstr "‘Come here, men and women!"
+
+msgid "a762ebb91f7d4b3fb9c573359d902e07"
+msgstr ""
+"Look at Śakra, lord of the gods, as he is playing, enjoying, and amusing "
+"himself with the five divine objects of pleasure in his Palace of Victory."
+
+msgid "92a1bd498fee4cb0ba6db14d286cad18"
+msgstr "Come, all men and women,"
+
+msgid "7f2df2a6cefb42ae9820f042d027a74e"
+msgstr "offer gifts and make merits."
+
+msgid "4dc00e384b6f4ab0946d9a788b774723"
+msgstr "Take up discipline and abide by it."
+
+msgid "a221a8121959422493a344a4f3dec42e"
+msgstr ""
+"hen you shall also get to play, enjoy, and amuse yourself in such Palaces of"
+" Victory."
+
+msgid "8546f955d6aa4723a378b3026cdae6cb"
+msgstr ""
+"You will become like Śakra himself and will come to possess wealth like his."
+" The lord of the gods, Śakra, has all divine enjoyments, and so shall you.’"
+
+msgid "15037d4fa7ac47248295c61cec9045f1"
+msgstr ""
+"“Then, Mañjuśrī, all those men, women, girls, and boys, who could see the "
+"abode of the Thirty-Three along with Śakra, lord of the gods, and his Palace"
+" of Victory reflected in the wide earth of beryl,"
+
+msgid "7ca3210404ce4799852a5912a7ababd1"
+msgstr ""
+"would fold their hands toward this reflection. They would scatter flowers "
+"and offer perfumes toward it, saying,"
+
+msgid "e6033c8a0b634e9aab899be40f8f2b3d"
+msgstr "‘May we also obtain such a body as that of Śakra, lord of the gods;"
+
+msgid "12bfede1e4fe4429ae644dbee223f470"
+msgstr ""
+"may we also play, enjoy, and amuse ourselves in the Palace of Victory, just "
+"like Śakra, lord of the gods.’"
+
+msgid "131fe0fcd8f54bb5ac03a5bba93ee5a8"
+msgstr ""
+"“However, those beings would not understand that this would merely be a "
+"reflection in the wide earth of beryl, a reflection occurring due to the "
+"complete purity of the beryl, wherein the abode of the Thirty-Three, along "
+"with Śakra, lord of the gods, and his Palace of Victory, could be seen."
+
+msgid "349418b724584707a103a8b3ce4d2de0"
+msgstr ""
+"Wishing for the state of Śakra, they would then offer gifts and make merits."
+
+msgid "4a44d569170549908433df459845ee84"
+msgstr ""
+"They would take up discipline and abide by that. They would then dedicate "
+"the roots of what is wholesome toward birth in that reflection of the abode "
+"of the Thirty-Three."
+
+msgid "dd542f0924584a9e9ebe52706913fb74"
+msgstr ""
+"“Mañjuśrī, in that wide earth of beryl there would, of course, be no abode "
+"of the Thirty-Three, and neither would there be a Palace of Victory, or "
+"Śakra, lord of the gods."
+
+msgid "1b3807a1b5184b6686ad8b54c015ec3d"
+msgstr "However, due to the purity of the great beryl,"
+
+msgid "ec8940d8d69a4318b6ff288695ad7afd"
+msgstr ""
+"the abode of the Thirty-Three along with the Palace of Victory and Śakra, "
+"lord of the gods would all be visible."
+
+msgid "f43de92020084b30aeb8f296a27957d6"
+msgstr ""
+"Non-existent, non-arisen, and non-ceased, their reflections would be seen "
+"because of the purity of the great beryl."
+
+msgid "6b48cc7eb8d04b359c8591719a641a08"
+msgstr ""
+"“In the same way, Mañjuśrī, it is due to the complete purity of the mind, as"
+" well as due to proper cultivation, that sentient beings see the body of a "
+"tathāgata."
+
+msgid "b2b23de9dd0d469bbb3ae127c230cf93"
+msgstr ""
+"Mañjuśrī, it is due to the power of the Tathāgata that sentient beings see "
+"him."
+
+msgid "f008d3d9897b4690852e23bdc1384e6b"
+msgstr "And still he remains non-existent, non-arisen, and non-ceased."
+
+msgid "e86c159a6f43455e8f63ea193aa6c654"
+msgstr "He is neither existence nor non-existence,"
+
+msgid "f3b79115bc014505a968799458347cce"
+msgstr "neither visible nor invisible,"
+
+msgid "37aaa71b143346bb91d686f219fb8b34"
+msgstr "neither worldly nor unworldly,"
+
+msgid "aa7404522b0746b69fd5c426249fac00"
+msgstr "neither an object of thinking nor not an object of thinking,"
+
+msgid "133e25ab88444ac4b92cac27ee3ae42e"
+msgstr "neither existent nor non-existent."
+
+msgid "5d900b3a69834581b6f6f1e7615ad086"
+msgstr ""
+"“It is so, Mañjuśrī, that sentient beings focus on the reflection of the "
+"Tathāgata"
+
+msgid "ad056b9d078a47dc93c288a804cb95c4"
+msgstr ""
+"and offer it flowers, perfumes, garments, and jewels while making this "
+"aspiration:"
+
+msgid "282cde9bb1cb4a56ba2ceb078624f4d4"
+msgstr ""
+"‘May we also become like the Tathāgata, the Arhat, the Perfect and Complete "
+"Buddha.’"
+
+msgid "2abc533089cf46a2906b3e9931975ed1"
+msgstr "Wishing for a buddha’s awareness,"
+
+msgid "d88510c2ba95458d8e4fb9687313d419"
+msgstr "they offer gifts and make merit."
+
+msgid "7a1ba9570676467b828774d10264ce3c"
+msgstr "They take up discipline and abide by it."
+
+msgid "65400b76c32243008ddf8a870e18c3be"
+msgstr ""
+"Then they dedicate that root of what is wholesome toward obtaining a "
+"tathāgata’s awareness."
+
+msgid "ae7705b9f9fa45b9a4e4117175eafb00"
+msgstr "“It is as follows: Mañjuśrī,"
+
+msgid "787ba89c24284e539dfa1695bb7fbcba"
+msgstr ""
+"the reflection of Śakra, ruler of the gods, on that wide earth made of beryl"
+" does not move."
+
+msgid "a87b512d717d4c0f859083409125c67f"
+msgstr "Nor does he think, elaborate, construct, or conceptualize."
+
+msgid "495c1abdd08e4513a880cc93826a601e"
+msgstr ""
+"It is not a construct, not a concept, inconceivable, and not a mental "
+"placement."
+
+msgid "c253dd0f7562439bad951635ab4cab1f"
+msgstr "He is peaceful and cool, non-arising and non-cessation,"
+
+msgid "dd2fe5dd04054fbc9e71e30fa5509fd6"
+msgstr "not seen, not heard, not smelt, not tasted, not touched,"
+
+msgid "c5906a1afbc8492693bdc8dd98d09fb8"
+msgstr ""
+"not a sign, not a cognition, and not something that can be made known."
+
+msgid "c23565b86b014955a0bd3741de93d4bb"
+msgstr ""
+"“In the same way, Mañjuśrī, the Tathāgata, the Arhat, the Perfect and "
+"Complete Buddha does not move."
+
+msgid "613aed61bc954144a3b2ef9417668691"
+msgstr ""
+"He is not a construct, not a concept, inconceivable, not a mental placement."
+
+msgid "74079836686340c683854ae389728f10"
+msgstr "“Mañjuśrī, the Tathāgata is in the realm of non-arising."
+
+msgid "6b39e29fe05f4861a09f4e3b48963c6c"
+msgstr "On the other hand, he appears in the world as a reflected image."
+
+msgid "ae93f359748b44dea5e01403bfd4466b"
+msgstr ""
+"According to the beliefs of sentient beings he displays diverse appearances "
+"and diverse lifespans."
+
+msgid "b1f70930b2df4ee39c2ce9ec5a08c636"
+msgstr ""
+"He appears among sentient beings who have become fitting receptacles for "
+"awakening thanks to their maturation and belief."
+
+msgid "b3b8553e52c342309d30edae0040d1a7"
+msgstr ""
+"These sentient beings then hear the Dharma according to their dispositions "
+"and beliefs."
+
+msgid "5ea7a93d794c4c608e7cf46da036b980"
+msgstr "According to their dispositions they understand the three vehicles"
+
+msgid "5fce6dd53c3347589b86d888bc32f04c"
+msgstr "“It is as follows: Mañjuśrī,"
+
+msgid "ccfd9b863b3b407baa043a7a38ee670a"
+msgstr ""
+"a great Dharma drum for making sounds of Dharma, which come about through "
+"the force of merit of the gods of the Thirty-Three,"
+
+msgid "54978e6da6fa4f1aa7455b70529aacbb"
+msgstr "is placed in the atmosphere above the Vaijayanta Palace,"
+
+msgid "6cea04c4705a4fad9404dd92d376ded0"
+msgstr "beyond visible range. The divine scions cannot see it or behold it."
+
+msgid "58aba29b934742e091755fc7933ba151"
+msgstr "“However, Mañjuśrī, it is a great Dharma drum."
+
+msgid "9cd1f1a2493c4f4ea0da80bf3d616e9d"
+msgstr ""
+"Sometimes the gods in the heaven of the Thirty-Three become so intensely and"
+" continuously oblivious from playing with, enjoying, and delighting "
+"themselves with their divine pleasures"
+
+msgid "88776daf0656450a8322b7627702bee2"
+msgstr ""
+"that they fail to enter the divine hall called Sudharma to jointly chant the"
+" Dharma."
+
+msgid "f393b2cbdd0f4e2d994bfa3526c1a785"
+msgstr ""
+"And, Mañjuśrī, Śakra, lord of the gods, becomes so intensely and "
+"continuously oblivious from playing with, enjoying, and delighting himself "
+"with his divine pleasures"
+
+msgid "d9f728c702fe4718b1d3e7511ce2d810"
+msgstr "that he fails to sit on his Dharma seat to speak of the Dharma."
+
+msgid "078c1da879364907b8cf239655196348"
+msgstr "“Mañjuśrī, at such times, that great Dharma drum,"
+
+msgid "b783009bf2fd47cc88bf2de6c5501879"
+msgstr ""
+"not to be seen or beheld, hanging in the atmosphere beyond visible range,"
+
+msgid "bb120b474c414ac3b92675a6913cd233"
+msgstr ""
+"plays a Dharma sound that addresses all the gods in the heaven of the "
+"Thirty-Three,"
+
+msgid "c000eb57cf7940ed85a319ebc0ae5376"
+msgstr "‘Friends! Form, sound, smell, flavor, and touch are impermanent;"
+
+msgid "29cd652af66b418c8402c131b31197bb"
+msgstr "do not be careless."
+
+msgid "8f846924b00542e78f6dbf1d661fd909"
+msgstr "Do not quickly fall down from this abode!"
+
+msgid "a9089ce049234cb78f25299e0a0547fa"
+msgstr "Friends, all co-producing factors are suffering!"
+
+msgid "fd88a70814334c4db2918ad0883ebb8a"
+msgstr "Friends, all co-producing factors are empty!"
+
+msgid "c842252cd1b543bcbf0a59c1ffac1ebe"
+msgstr "Friends, all co-producing factors are without self!"
+
+msgid "e894e514611e496ab95413a0f7ded826"
+msgstr ""
+"for those who die and fall from here, to take birth here once again is "
+"difficult."
+
+msgid "e41c94a6ebd04933ad0782ac51a7cba2"
+msgstr "Do not become careless:"
+
+msgid "da4a29b8a9c54cb3b1c3b8f360319dcf"
+msgstr "delight in the pleasant joy of Dharma."
+
+msgid "8b6714cd788e4c438690f2d6a5101be5"
+msgstr "being inclined toward the Dharma,"
+
+msgid "cc19ce46314b4debbba6d380c3c92959"
+msgstr ""
+"with Dharma pouring like rain, recollecting and placing the Dharma in the "
+"mind."
+
+msgid "ac007036c75a495eb6c857ac84fbc286"
+msgstr ""
+"You shall not then have to part from these divine enjoyments and delights in"
+" games of pleasure.’"
+
+msgid "2b2aeadcea3246f59379d4431063c48b"
+msgstr "“At that time, Mañjuśrī, due to the sound of that great Dharma drum—"
+
+msgid "1fb865c84814401d91dc220c9f159360"
+msgstr "invisible, formless, inconceivable, not a mental construct,"
+
+msgid "25d31ba596274ad6ba542d9d734117d9"
+msgstr "out of sight,"
+
+msgid "0c3b036b366e44dd90a53a696cbfadcc"
+msgstr "unborn, unceasing, beyond the way of words,"
+
+msgid "f9ea6cf315c44a1fa4ae41a6c3d2f7c4"
+msgstr "and devoid of mind, mentality, and consciousness"
+
+msgid "b67ea66f6d26421ea1255b2e34228918"
+msgstr ""
+"—all the gods in the heaven of the Thirty-Three are roused, scared, alarmed,"
+" and very distressed."
+
+msgid "d35008fe541e4e17b297519b93041cfd"
+msgstr "They enter the divine hall called Sudharma"
+
+msgid "bb2bfcb679184c3ab14f90d47308b989"
+msgstr "delighting in the pleasant joy of Dharma."
+
+msgid "1ee4cff502d548198499d5ecf59a2684"
+msgstr "They make the Dharma their essence,"
+
+msgid "c6a738c411ea4872bc26ab261973a8bf"
+msgstr "they become inclined toward the Dharma,"
+
+msgid "c364224f7926448fb76479cb1db6ba38"
+msgstr "recollecting and keeping the Dharma in mind."
+
+msgid "2680b38ecbb94b47af8aa27e1ad63382"
+msgstr ""
+"When they die and fall from that abode, they will again reach excellent "
+"places."
+
+msgid "22a008e6c38342a2b97cefa3a90b6c47"
+msgstr "Śakra, the king of the gods, then enters Sudharma, the divine hall,"
+
+msgid "7ed5f15c69ec414ea3431c523f0b74a6"
+msgstr "takes a seat on the Dharma throne, and teaches the Dharma."
+
+msgid "1d1a405e49014c2ebf9f44808b4f4edb"
+msgstr "“Mañjuśrī, when the demigods battle against the gods,"
+
+msgid "1a0124449c8d45a29811c4e46bf4aea8"
+msgstr ""
+"whenever the gods of the heaven of the Thirty-Three are being defeated,"
+
+msgid "4cea5cac34d74fad8587b1a04faec385"
+msgstr ""
+"the Dharma drum emits a sound that makes the demigods so frightened, "
+"alarmed, agitated, and distressed that they flee."
+
+msgid "ce676f8292a545099091c8cab6e165d6"
+msgstr ""
+"Nevertheless, Mañjuśrī, that great Dharma drum does not have a producer,"
+
+msgid "e57240dba9f746d291275d6fa4a29284"
+msgstr "nor does it have a body."
+
+msgid "5fd199f02dcd497a80f604b6b9bb683d"
+msgstr "Mañjuśrī, that Dharma drum is invisible,"
+
+msgid "6a3a4160c2924d8696627122fc2f5c37"
+msgstr "not to be beheld, not true,"
+
+msgid "b466347995124b8cb666e50820e3e8a7"
+msgstr "not real, with no mind, without intention,"
+
+msgid "779d1564f41344258b82d50c36191c77"
+msgstr "sign-less,"
+
+msgid "f1bb9ec5ab754ab2bf5920901f642ec5"
+msgstr "voiceless,"
+
+msgid "dc59f6ff8250407a9eaf8fab866d1cd9"
+msgstr "immaterial,"
+
+msgid "3730d755f66348908761c1fe416d6b7c"
+msgstr "non-dual,"
+
+msgid "867405dc6d324ad59bc83c663aca6f6b"
+msgstr "and out of sight."
+
+msgid "a71f9a62e8514cf196a5966e39d8196b"
+msgstr ""
+"“Nevertheless, Mañjuśrī, for those gods in the heaven of the Thirty-Three "
+"who have previously purified themselves,"
+
+msgid "1384080d119240efbc02d58a07e93675"
+msgstr "a sound comes forth from the great Dharma drum."
+
+msgid "e17f11710a3b48228875dc0a4438b4c3"
+msgstr ""
+"It occurs to pacify all the misfortunes, troubles, and afflictions of the "
+"gods of the Thirty-Three."
+
+msgid "e23fc30039574dca81150b87286f18c0"
+msgstr "“Mañjuśrī, in the same way that from that great Dharma drum,"
+
+msgid "65ab448018fe4692b0645f1782c9f69c"
+msgstr "invisible,"
+
+msgid "d592fce41f684f3d8dd69d6b561a7238"
+msgstr "not to be beheld,"
+
+msgid "88a56174c1284311b8af1f3cb108adb2"
+msgstr "not true, not real, with no mind, without intention,"
+
+msgid "f109b9844fce44999583c342554874f7"
+msgstr "sign-less,"
+
+msgid "bd0e921e3dcd416399539dce259f5c10"
+msgstr "formless,"
+
+msgid "5acc119cd29543d0afb7d86af329a331"
+msgstr "voiceless, immaterial,"
+
+msgid "af0d8895469644b3ac928558d16fbf1d"
+msgstr "non-dual,"
+
+msgid "5cffa2b9c3fa41f58b9ce1bcd12bf9c8"
+msgstr "and out of sight"
+
+msgid "ebe395714f084becb7cde23ee3d4b09d"
+msgstr ""
+"that sound of Dharma occurs to pacify all the misfortunes, troubles, and "
+"afflictions of the gods of the Thirty-Three,"
+
+msgid "47421213928f444f9dec701b8343e19b"
+msgstr ""
+"so, too, Mañjuśrī, although the Tathāgata, the Arhat, the Perfect and "
+"Complete Buddha is invisible,"
+
+msgid "86c0600717684045962893cd482b17fa"
+msgstr "not true, not real,"
+
+msgid "d6d6df156d234c929814e7343ec9423b"
+msgstr "with no mind, without intention,"
+
+msgid "35ba74b2583c457883a86b80f8a81936"
+msgstr "and out of sight, nevertheless,"
+
+msgid "7afd7571b95d43e2b18ce3c49b5ecd54"
+msgstr ""
+"Mañjuśrī, sentient beings perceive the voice of Dharma due to the maturation"
+" of previous karma, according to their individual aspirations and interests."
+
+msgid "55ba21fc4c634a659370bca5864f2fa9"
+msgstr ""
+"And that sound of Dharma occurs to pacify all misfortunes, troubles, and "
+"afflictions of all sentient beings."
+
+msgid "ed4997b5ab1d4202bc2e34cb5a84b6f5"
+msgstr ""
+"Being the voice of Dharma, it is regarded in the world as the voice of the "
+"Tathāgata."
+
+msgid "ac8cb45b56bd4dfc9104ac960b8f5971"
+msgstr "“Mañjuśrī, there is no Tathāgata."
+
+msgid "df45b4ac4aad4177aaf041dfee06cc22"
+msgstr ""
+"However, the designation ‘Tathāgata’ comes about in the world because of the"
+" voice of Dharma."
+
+msgid "1671916b2463454b93e18ccb5fff67ac"
+msgstr ""
+"It is exclusively due to the maturation of sentient beings’ previous "
+"wholesome karma"
+
+msgid "d70f7432742e4a0bb5839693abe4dc42"
+msgstr "that they perceive the voice of the Tathāgata."
+
+msgid "8584b675d7af46de996f8a63634a8a8a"
+msgstr ""
+"That voice emerges in order to produce happiness for all sentient beings and"
+" to prompt those who are careless."
+
+msgid "d75d2372a588473a8d86064a773c50ff"
+msgstr "Mañjuśrī, as those sentient beings hear that sound,"
+
+msgid "7986f009ac2943a2a42a5e7aa83919bc"
+msgstr ""
+"they form the concept of a tathāgata, thinking, ‘This is the Tathāgata’s "
+"body.’"
+
+msgid "eec8b57b46304383b3046ad52b3e50fa"
+msgstr ""
+"“The speech of the Tathāgata is heard so that beginner bodhisattvas and all "
+"immature, ordinary people may generate roots of what is wholesome by taking "
+"the Tathāgata as their reference point."
+
+msgid "45fa5f7863c34d11aeb230ea0159cb43"
+msgstr ""
+"However, Mañjuśrī, the Tathāgata should be known to be non-arisen and non-"
+"ceasing."
+
+msgid "8480aa426e0b464f9c742a43d77948d1"
+msgstr "“It is as follows: Mañjuśrī,"
+
+msgid "0dcf702db544476780eb231a857a8c47"
+msgstr "at the end of summertime, during the first month of rains,"
+
+msgid "2e402541fd97486abcb17924a04fe20f"
+msgstr "due to the maturation of sentient beings’ previous karma,"
+
+msgid "1cf258d199f24131b94d3a9b2daa8cde"
+msgstr ""
+"and to generate, out of the multitudes of seeds and elements, all the grass,"
+" thickets, medicinal herbs, and trees on earth,"
+
+msgid "7ace88209710405eb99f34a0d73b888a"
+msgstr "winds begin to blow in the atmosphere and the sky above;"
+
+msgid "cf0920b20d214d6490b8ac983b8aa5b0"
+msgstr ""
+"then water comes about due to that wind, and it falls on the great earth."
+
+msgid "8b9510f69e2b4d35af29e4a15fa8ef91"
+msgstr "Thus, the great earth is satisfied,"
+
+msgid "293db7cc4d394d06ba1e770aeda50ee6"
+msgstr "and all sentient beings in Jambūdvīpa are joyful and happy."
+
+msgid "123bf4c5bea446d49171f0b8f892972e"
+msgstr "Referring to this, the notion of a ‘cloud’ comes about in the world."
+
+msgid "331851a13a744778af415d2a9310ba22"
+msgstr ""
+"“Mañjuśrī, whenever not much rain falls from the atmosphere and the sky "
+"above,"
+
+msgid "1f06849cefbc4a498a9da25986ec5f1d"
+msgstr ""
+"all the sentient beings in Jambūdvīpa think, ‘Here there is not a cloud.’"
+
+msgid "4f219acfbdb54e6a8336eff4d366b737"
+msgstr ""
+"But when, Mañjuśrī, a lot of rain falls on the great earth from the "
+"atmosphere and the sky above,"
+
+msgid "b9de6413eaee41c98f1c1bd3e943a695"
+msgstr "they say: ‘Oh, a great cloud is pouring down water,"
+
+msgid "3947e360635442e1b004b3410ba2fa2d"
+msgstr "satisfying the great earth.’"
+
+msgid "0d522b698aed4d03806ba9f5572ebf1c"
+msgstr ""
+"“However, Mañjuśrī, when this happens there is neither a cloud, nor anything"
+" that can be designated as a cloud."
+
+msgid "797e7acdd4924958941d6bf5ca7e32c7"
+msgstr ""
+"a large mass of water is generated by the wind, and then it falls from the "
+"atmosphere above."
+
+msgid "5e376d674b044e44ae7c48a7d571ec4a"
+msgstr "disappears in the atmosphere itself,"
+
+msgid "49d5444f06224ed28be7377b961f6fbf"
+msgstr ""
+"“Mañjuśrī, that cumulus of water above in the atmosphere, stirred by the "
+"wind and releasing water, is designated a cloud due to the maturation of "
+"sentient beings’ previous karma."
+
+msgid "660562242f5d46f0b0a2a126532f9470"
+msgstr "Mañjuśrī, no cloud can be found there,"
+
+msgid "6309d86909cb47e6b363f5fc9c457e5f"
+msgstr "nor anything that could be designated a cloud."
+
+msgid "74dd093d8ef644a7a0acbf00714c80be"
+msgstr "Mañjuśrī, the cloud is non-arisen and non-ceasing;"
+
+msgid "91c2fd375554469e9e1a3917371fcfec"
+msgstr ""
+"it does not enter the way of mind, and it is free from coming and going."
+
+msgid "e59877262176415d9538b792c2cc632d"
+msgstr ""
+"“In the same way, Mañjuśrī, for bodhisattva great beings who have "
+"accumulated previous roots of what is wholesome;"
+
+msgid "09a05bd20f6a4e3c947cc1da1f5bf231"
+msgstr ""
+"for other sentient beings who wish for the awareness of a hearer or a "
+"pratyekabuddha;"
+
+msgid "4b4a8e6546144c39a0da7abe40d61b87"
+msgstr ""
+"and for those sentient beings who have accumulated roots of what is "
+"wholesome and possess the causes to be shown the path to nirvāṇa,"
+
+msgid "84aa34c06c0c48c793881467f23da121"
+msgstr ""
+"the Tathāgata, the Arhat, the Perfect and Complete Buddha with unobstructed "
+"brilliance comes to be counted as arisen in the world."
+
+msgid "e849bbd16903461b9130459715c73c86"
+msgstr ""
+"“Whatever he says is thus (tathā), undistorted, thus and not otherwise. "
+"Therefore,"
+
+msgid "19fc2862c95947389cd0cb0a6f0f9e36"
+msgstr "he was given the name Tathāgata among gods and men."
+
+msgid "f3463f2e535945d69c78019b80b2f9b4"
+msgstr "Mañjuśrī, this word appears among gods and men: Tathāgata."
+
+msgid "a3a06d63db474caba1483e72e8149d71"
+msgstr "However, Mañjuśrī, there is no Tathāgata to be found."
+
+msgid "318bae1513c24445b7705b3a1caeb353"
+msgstr "The Tathāgata, Mañjuśrī, is not a sign,"
+
+msgid "dbb9d7047958452084ce427e0eef75d3"
+msgstr "and he is free from signs."
+
+msgid "731c5e3a335c4ec1a72d8c34ebf48556"
+msgstr "He is unreal, non-arisen, and non-ceasing."
+
+msgid "5943c99e81bd44d59c497a4c044b69ff"
+msgstr ""
+"“On the other hand, Mañjuśrī, the appearance of the Tathāgata satisfies and "
+"entertains this world, including the gods,"
+
+msgid "86448afefcf34c279c2cac9ba7d0490c"
+msgstr ""
+"And then, due to the ripening of previous karma of beginner bodhisattvas and"
+" immature, ordinary people who are guided by means of nirvāṇa,"
+
+msgid "c756d7eb803743b2a015a8f2ed9c027c"
+msgstr "They think, ‘The Tathāgata has passed into complete nirvāṇa.’"
+
+msgid "41365e32940348829011d1cca3a6ecc2"
+msgstr "However, Mañjuśrī, the Tathāgata neither arises nor ceases."
+
+msgid "da3a128fd0e94cdabed96deeb9b46f67"
+msgstr "The Tathāgata, Mañjuśrī, is non-arisen and non-ceasing."
+
+msgid "eea27c475f6349b78dccb16d15345feb"
+msgstr ""
+"“Mañjuśrī, when some water is taken as a point of reference for an unreal "
+"cloud"
+
+msgid "a2d5a346397642ed9807959a1b34d7af"
+msgstr "that has not arisen nor ceased, and is non-existent,"
+
+msgid "6fcf25162b194b2ca526d3a6576cbdd5"
+msgstr ""
+"the designation ‘cloud’ is established in the world. In the very same way,"
+
+msgid "45733f27c80746a8bf91376b56761507"
+msgstr "“It is as follows: Mañjuśrī,"
+
+msgid "0dd0481ff92d4b3b9da0b7ab44273dfd"
+msgstr ""
+"every day the great and unsurpassed Brahmā, who controls ten trichiliocosms,"
+" looks upon all the classes of gods, as far as the class of the gods of the "
+"Four Great Kings."
+
+msgid "c33595616cda49c9975b13f19cf8afab"
+msgstr ""
+"At that time, Mañjuśrī, while the great Brahmā, who controls ten "
+"trichiliocosms, looks upon all the classes of gods,"
+
+msgid "3583a4171d9548fda278d46fd6c06db1"
+msgstr "they all abandon their games of pleasure, delights, and enjoyments."
+
+msgid "0ce65e76c52f49ed98379042e7ce0692"
+msgstr "they respectfully fold their hands"
+
+msgid "402ebd3d289d43ec8777189531ea115c"
+msgstr "and look toward the great Brahmā without blinking."
+
+msgid "95bb53099e4a459fa7a3465cb6ecf8ba"
+msgstr ""
+"For a moment, the great Brahmā offers sight of himself to all the classes of"
+" gods."
+
+msgid "ebd8986fdc224c6bbe98a26f714e310d"
+msgstr ""
+"At that time, the gods all long to be born in the world of the great Brahmā,"
+
+msgid "a91d1e605e02463eb77770d71a83d317"
+msgstr ""
+"and they dedicate their roots of what is wholesome toward taking birth in "
+"the world of the great Brahmā."
+
+msgid "d357c30938e64b04be719c4b6a3f609d"
+msgstr ""
+"“Moreover, Mañjuśrī, that great Brahmā, without falling down from that "
+"Brahmā Palace,"
+
+msgid "46df63f68f874a04a4d4f88dcf62b47b"
+msgstr ""
+"thanks to the power of his previous aspirations and due to the prior "
+"accumulation of virtue on the part of the gods."
+
+msgid "8dcdf57c29864dd7ab9ea4ed63825c47"
+msgstr ""
+"empowers another great Brahmā as the controller of ten trichiliocosms,"
+
+msgid "3d256456422b41fbadc8517a66560762"
+msgstr ""
+"“Mañjuśrī, that emanated great Brahmā looks upon all the classes of gods, as"
+" far as the class of the gods of the Four Great Kings."
+
+msgid "6250a33492984a75b595ea78a289f1f2"
+msgstr "At that time, Mañjuśrī,"
+
+msgid "3a691952ae06410ea46761e758159541"
+msgstr ""
+"among all the classes of gods, all the scions of the gods abandon their "
+"games of pleasure, delights, and enjoyments."
+
+msgid "b82e8ba0d6cf4bff9f06eb13f120d17b"
+msgstr ""
+"They stop playing their percussion instruments and halt their singing."
+
+msgid "0420e7a836724d178bc3b03719e150e6"
+msgstr "Shifting their attention from their games of pleasure and delights,"
+
+msgid "f5c203cde23b46049d4e6a77b263876a"
+msgstr ""
+"they respectfully fold their hands and look toward the great Brahmā without "
+"blinking."
+
+msgid "9dff43e3af3b43929510de5154d8961b"
+msgstr ""
+"At that time, the gods all long to be born in the world of the great Brahmā,"
+" and they dedicate their roots of what is wholesome toward taking birth in "
+"the world of the great Brahmā."
+
+msgid "9b9478247df2464c8c71809a572ced0b"
+msgstr "“Still, Mañjuśrī, no Brahmā is there to be found."
+
+msgid "fb14a7dd85ef4fb6ad3d175f682ff6d7"
+msgstr "Mañjuśrī, Brahmā is empty, dependent,"
+
+msgid "64a10791c57b457c8cdd1410b593cb37"
+msgstr "unreal, without syllables,"
+
+msgid "3d65bed2e5894efa84ee33bb88354893"
+msgstr "without voice, without place,"
+
+msgid "b9fdb2e997a44b29b1fbdba8b498cb8a"
+msgstr "and also not an existent thing. He is inconceivable,"
+
+msgid "2fb4f45a46c54c6ba27d5e68630eac32"
+msgstr "without signs, and free from mentality, mind, and consciousness."
+
+msgid "8dde62f33d4f4738b23723ea864e5f18"
+msgstr "He is non-arisen and unceasing."
+
+msgid "4a79f7a8b08042acab7b27c06e6d2b79"
+msgstr ""
+"And yet, Mañjuśrī, a semblance of him offering sight of himself appears "
+"among all the classes of gods, by the power of his own previous roots of "
+"what is wholesome and aspirations, and due to the previous accumulations of "
+"roots of what is wholesome on the part of those gods."
+
+msgid "b1e3efd0cea54d99bb3e67ab08d91d83"
+msgstr ""
+"“Yet, Mañjuśrī, those gods do not think, ‘This Brahmā is an emanation."
+
+msgid "e3118626df5944f2a14e804690008417"
+msgstr "empty, dependent,"
+
+msgid "5898f1af80504466a18ec1a78285c4be"
+msgstr "unreal, without syllables,"
+
+msgid "337c2aa226a34782890a27085ed16376"
+msgstr "without voice, without place,"
+
+msgid "280cd7089ca042e78c57fd55b1c1b2c1"
+msgstr "not an existent thing."
+
+msgid "373d7e28238040a2882e302addd35dba"
+msgstr "and free from mentality, mind, and consciousness."
+
+msgid "d38bc94633b44fc18289e8663d091ff2"
+msgstr "He is non-arisen and unceasing.’"
+
+msgid "eb0188e6b59a4ada87d8e9af810f2ba1"
+msgstr ""
+"“Mañjuśrī, in the same manner the Tathāgata, the Arhat, the Perfect and "
+"Complete Buddha is empty,"
+
+msgid "77f15223d9174235ba63330ec9218464"
+msgstr ""
+"dependent, unreal, without syllables, without voice, without place, and also"
+" not an existent thing."
+
+msgid "0d3e068058f5438cb106f8b4f382faa9"
+msgstr ""
+"He is inconceivable, without signs, and free from mentality, mind, and "
+"consciousness."
+
+msgid "13c4c1333d0848dd8c40dba500c8bdcd"
+msgstr ""
+"This is due to the power of his previous aspirations during his practice as "
+"a bodhisattva, and also due to the power of all the roots of what is "
+"wholesome of the beginner bodhisattvas, of those who set out on the vehicles"
+" of the hearers and the pratyekabuddhas, as well as of all the immature, "
+"ordinary people."
+
+msgid "1ebc8a5c1a6e4d97a63bd6cce3537450"
+msgstr ""
+"He is seen in the world as a tathāgata adorned with hundreds of thousands of"
+" marks, like a reflected image; and he does not move from his place."
+
+msgid "035bd112af594eb49f26e698ba7e79e0"
+msgstr ""
+"“Yet, Mañjuśrī, from the body of the Tathāgata, adorned with hundreds of "
+"thousands of marks, during all the empty postures of a tathāgata,"
+
+msgid "3e6a75603695429d8733de9f388ea675"
+msgstr ""
+"a great Dharma teaching emanates for the sake of varied sentient beings with"
+" diverse beliefs."
+
+msgid "558fb7c71d334a23b16862b41360f60a"
+msgstr ""
+"“That Dharma teaching occurs to pacify all the troubles, harms, and "
+"afflictions of all sentient beings."
+
+msgid "8a155c0707a7434a99ce20e6bc5de0a6"
+msgstr ""
+"In that regard, the Tathāgata is the same, neutral, without concepts, and "
+"does not make any distinctions."
+
+msgid "cbe2750ee1714bb8ba3a1add3226d3cb"
+msgstr ""
+"Thus, Mañjuśrī, through this explanation you should understand that ‘non-"
+"arising and non-cessation’ is an appellation of the Tathāgata.”"
+
+msgid "cc9008bc1c004c84ba59d252cdbc3522"
+msgstr "Then, at that time, the Bhagavat spoke the following two stanzas:"
+
+msgid "68731a92a0894baeada0a58d596fcd3c"
+msgstr "“The Tathāgata always has the quality of non-arising,"
+
+msgid "42ac68605422430e8f67a86401451201"
+msgstr "And all dharmas resemble the Sugata."
+
+msgid "0515b2cf581e445484976e7aa563d87e"
+msgstr "Yet immature minds, by their grasping at signs,"
+
+msgid "28fad9d5ae3c4a429de6031f92116748"
+msgstr "Roam the world among non-existent dharmas."
+
+msgid "1778d01994cb49e584c1e81f8762b675"
+msgstr "“The Tathāgata is a reflected image"
+
+msgid "c70e095dd9a043ce8a8bea6404c39f2b"
+msgstr "Of the wholesome Dharma without ."
+
+msgid "e984cb8bf6ae450b9cf01ee2da2ab7a6"
+msgstr "Yet here there is no tathatā and no Tathāgata,"
+
+msgid "6b3837ae1bcb4730a448f2e28240bd9d"
+msgstr "While an image is seen in the entire world."
+
+msgid "d4b982b4a06f42839210f856467c04c0"
+msgstr "“It is as follows: Mañjuśrī,"
+
+msgid "767d29e56cb34542a1252b47f921ed03"
+msgstr ""
+"here in Jambūdvīpa the rays of the sun only shine at first on the great king"
+" of mighty mountains."
+
+msgid "a854d8156fee484f954469efd11e577f"
+msgstr "After that, they shine on the Cakravāḍa and Mahācakravāḍa ranges."
+
+msgid "ca4674ed815046cf974cce5650fb101c"
+msgstr "After that, they shine on the elevated regions of the earth."
+
+msgid "5b89ab09a9c54ae18beb5b7a44043406"
+msgstr ""
+"After that, they shine on the low-lying regions of the earth here in "
+"Jambūdvīpa."
+
+msgid "d4231c1bc45e4666951dac1a1c26be76"
+msgstr ""
+"“Yet those sun rays, Mañjuśrī, do not form mental constructs or concepts."
+
+msgid "d8d2028fa8b547948d461d88b82529c7"
+msgstr "They do not think or ponder."
+
+msgid "afa794bec12c4bee8f3f60af9ef9ffb9"
+msgstr ""
+"The rays of the sun, Mañjuśrī, are free from mentality, mind, and "
+"consciousness;"
+
+msgid "e0e06ef061a7418b9fa4a55941c77dfe"
+msgstr ""
+"they are unborn and unceasing, without characteristics, free from "
+"characteristics;"
+
+msgid "8a893d23833e4bc6882c46b732b5e7fe"
+msgstr "without mental placement, free from mental placement,"
+
+msgid "09ef3a78d3b74ec6ac8d481051e6724e"
+msgstr "without elaboration, free from elaboration;"
+
+msgid "c3c231e366214a59bc92fb935aa2f084"
+msgstr "without torment, free from torment;"
+
+msgid "c1c59ff04f8a4d5597edd160da692026"
+msgstr "not abiding hither, not abiding thither;"
+
+msgid "6d69ebace5fc464093ed883d0701aa06"
+msgstr "not high, not low;"
+
+msgid "1430432515e6449892191e8fd4a26d4c"
+msgstr "not bound, not liberated;"
+
+msgid "46e5417e8562402eb2fd39b1a9eec9a3"
+msgstr "not knowing, not ignorant;"
+
+msgid "8723f0114af44a2b8cb9727a42fc69ff"
+msgstr "not afflictions, not free from afflictions;"
+
+msgid "438a1ed0ddd4455fae5969b6d4e6f412"
+msgstr "not speaking the truth, not speaking falsely;"
+
+msgid "f6359b1be413480fac1795dac699b914"
+msgstr "not over there, not here;"
+
+msgid "1febb883da8744eab44fb19ba2966f88"
+msgstr "not on dry land, not in the stream;"
+
+msgid "f812ee9c0dc64384b25cd78c39aec1ca"
+msgstr "not the domain of reasoning, not the domain of non-reasoning;"
+
+msgid "aac3d90027c04e20af2face6e738ba90"
+msgstr "neither with form, nor formless."
+
+msgid "d48432d3ee4d4847911758a7148a6849"
+msgstr ""
+"Yet, Mañjuśrī, due to the distinction of higher, middling, and lower places "
+"on the earth,"
+
+msgid "1c520a316128415abb9927cfbb5db412"
+msgstr ""
+"the light shines differently, at higher, middling, and lower degrees causing"
+" varied shades."
+
+msgid "80dc5aaa46354067ac67156c3a98c3d3"
+msgstr ""
+"“In the same way, Mañjuśrī, the Tathāgata, the Arhat, the Perfect and "
+"Complete Buddha does not form mental constructs or concepts."
+
+msgid "69fe4544cf8749318b9c2895e198abc2"
+msgstr ""
+"Mañjuśrī, the Tathāgata is free from mind, mentality, and consciousness."
+
+msgid "1913f414c8964bd6bc1305af97df712b"
+msgstr "not speaking the truth, not speaking falsely;"
+
+msgid "2a292f69f4b341a2ac60772bd1f84348"
+msgstr "not on the shore, nor on the non-shore;"
+
+msgid "4368c907dd094d44892c04531822fd4b"
+msgstr "“He is not omniscient, not non-omniscient;"
+
+msgid "37e502228b34436eb5fcf190ec0da378"
+msgstr "not reasoning, not non-reasoning;"
+
+msgid "43754f0d7a5a48ae810f2ebe4e85feb7"
+msgstr "not acting, not non-acting;"
+
+msgid "69be631199a04f57b4d8dba778951a88"
+msgstr "neither mindful nor unmindful,"
+
+msgid "e9e0e4b6a20640a4a486c7741ace7cb9"
+msgstr "neither with intention nor free from intention;"
+
+msgid "0891f351161d42b4a11eb1dad16d9701"
+msgstr "neither mind nor without mind;"
+
+msgid "57b0c6f04a0945909b53a3c05ee5e822"
+msgstr "neither originated nor unoriginated;"
+
+msgid "7edb37d67f0943d88376df9d6dbd8481"
+msgstr "neither name nor no name;"
+
+msgid "99b2502bebed4f698c76129126c96494"
+msgstr "neither form nor no form;"
+
+msgid "16fac88d606247f3b4ef434fe8e2b234"
+msgstr "neither verbal expression nor non-verbal expression;"
+
+msgid "ca86188d41314250b3484ef5d229ba4f"
+msgstr ""
+"neither a possible object of imputation, nor not a possible object of "
+"imputation;"
+
+msgid "dda96da4ee72402d91cb5b126745d4c4"
+msgstr "neither visible nor invisible;"
+
+msgid "c340b729b4e34511a13460dc7934f2ce"
+msgstr "neither a conducive way nor not a conducive way;"
+
+msgid "1e4a2b8139ca4f54bdec019c25648af6"
+msgstr "neither leading along the way, nor not leading along the way;"
+
+msgid "759f5285b35f4ef6a5d0020db5a2de22"
+msgstr ""
+"neither having obtained the result, nor not having obtained the result;"
+
+msgid "588f32da7e7b4f7aa22e937d57ae629e"
+msgstr "neither a concept, nor not a concept;"
+
+msgid "8fe6318d913d4e8e9a68bffc43155955"
+msgstr "neither free from concepts, nor not free from concepts."
+
+msgid "578e1c04dc144aad995a379c16a50142"
+msgstr ""
+"“Similarly, Mañjuśrī, the rays of awareness from the round sun of the "
+"Tathāgata shine brilliantly in the three realms, unimpeded throughout the "
+"dharmadhātu with neither edge nor center."
+
+msgid "71913b18d8ba43f99f1775ecd8509bee"
+msgstr ""
+"Once they shine, they first descend upon the bodies of bodhisattvas, whose "
+"aspirations are like the great lord of mountains."
+
+msgid "107f57654cdf4fad8b2025b60632a477"
+msgstr ""
+"After that, they descend upon the bodies of those who set forth on the "
+"Vehicle of Pratyekabuddhas."
+
+msgid "710b67b28ee3414c8321520b49062ef0"
+msgstr ""
+"Then they descend upon the bodies of those who have set forth on the "
+"Hearers’ Vehicle."
+
+msgid "4bb68e5d0f144b098dc7eb733b99088a"
+msgstr ""
+"After that, they descend upon the body of sentient beings with wholesome "
+"aspirations, according to their specific inclinations."
+
+msgid "e1ef7bdedfd04a3590982d59191dbf0a"
+msgstr ""
+"After that, the rays of awareness from the round sun of the Tathāgata even "
+"descend upon the body of those sentient beings with mental continua that are"
+" stuck in what is wrong."
+
+msgid "cfc796fc02214e81b33bda76bb421867"
+msgstr ""
+"The rays assist all these beings by producing causes for what will come "
+"later, and increase their wholesome dharmas."
+
+msgid "f8b185f5022e40a1a365b11652867a25"
+msgstr ""
+"“In that respect, Mañjuśrī, the Tathāgata is everywhere the same, neutral, "
+"without concepts, and does not make any distinctions."
+
+msgid "5a534b061d534dfea42933385cc88591"
+msgstr ""
+"Moreover, Mañjuśrī, the round sun of the Tathāgata’s awareness does not "
+"think, ‘I will teach this person the vast Dharma,"
+
+msgid "39df785d6bfd47d695e394d0a3813330"
+msgstr "but I will not teach that one.’ Neither do they have the concept"
+
+msgid "05a3dd00aa0e42049f180dff14319d89"
+msgstr "‘This person has vast beliefs"
+
+msgid "797fb7e2540d460fa56e312142ab9bab"
+msgstr "that one has middling beliefs"
+
+msgid "a34365fd24ad4d479c5aacc44656feec"
+msgstr "This one has belief in the Hearers’ Vehicle."
+
+msgid "a1fef5a7b4374870964e69e04cf57c2e"
+msgstr "This one has wholesome aspirations"
+
+msgid "1a73040f19984a919c969dbdea310ee1"
+msgstr ""
+"while that one is low, with wrong aspirations.’ “Mañjuśrī, the round sun of "
+"the Tathāgata’s awareness does not think"
+
+msgid "3d7c86a9fc164e6c99373ece12706f9a"
+msgstr ""
+"This sentient being has vast beliefs, so I will teach him the Great Vehicle."
+
+msgid "ad91e20c14a14444aac53d38f8ffa39a"
+msgstr "This one has middling beliefs"
+
+msgid "ff64c9a4e520428dbf17d1c79d4468b1"
+msgstr "so I will teach him the Pratyekabuddha Vehicle"
+
+msgid "d9f606f1d4e74d869ba8ad2cef084792"
+msgstr "This one has belief in the Hearers’ Vehicle,"
+
+msgid "2f5c160d64954840850e2b8639e94420"
+msgstr "so I will teach him the Hearers’ Vehicle."
+
+msgid "1ecdc1ca8ae44fd1b537824f133ef806"
+msgstr ""
+"I shall come to understand the aspirations of sentient beings with either "
+"wholesome or unwholesome aspirations"
+
+msgid "56bb5937638f4ce293730f43acc06c89"
+msgstr "then purify them"
+
+msgid "da26d907fdfd473ab729c839d3a8bb82"
+msgstr ""
+"and straighten up their view. Even for sentient beings stuck in what is "
+"wrong"
+
+msgid "dceeb1a8b5614b1db882ff5482815995"
+msgstr ""
+"The light of the rays of awareness from the round sun of the Tathāgata does "
+"not have any such concepts."
+
+msgid "c57147cbd6c24a689d9def4df8992c47"
+msgstr "And why?"
+
+msgid "38e200ebaa524c17a2026e48cd21c25e"
+msgstr ""
+"On the other hand, Mañjuśrī, because of variations in sentient beings’ "
+"inclinations to wholesome intent, the light of the rays of awareness from "
+"the round sun of the Tathāgata is varied too."
+
+msgid "21f495ddda3445a6a3db7ffb5bf74303"
+msgstr ""
+"Because the light of the rays of awareness from the round sun of the "
+"Tathāgata has cut off all constructs, concepts, and elaborations."
+
+msgid "a1fe99ef02874e0ebd3950562378a2a6"
+msgstr "“It is as follows: Mañjuśrī,"
+
+msgid "0d532a043a9f47f4b88f713e213dc036"
+msgstr ""
+"in the great ocean there is a great, precious jewel called Fulfilling All "
+"Wishes."
+
+msgid "9f275717b3dd4bb4af18389b90c2cec5"
+msgstr "I shall teach a fitting dharma."
+
+msgid "945c57ffabf14e139650dfa217f6e408"
+msgstr ""
+"Mañjuśrī, when the teaching of the Dharma is taken as a point of reference "
+"for an unreal tathāgata who has not arisen nor ceased, and who is non-"
+"existent and primordially unborn,"
+
+msgid "21c41b5d3e1046cb982c923904e8ac5b"
+msgstr ""
+"the designation ‘the Tathāgata, the Arhat, the Perfect and Complete Buddha’ "
+"becomes established in the world."
+
+msgid "09de21eba1984e2b8b8522b8e3d3a25b"
+msgstr ""
+"“In the very same way, Mañjuśrī, the Tathāgata, the Arhat, the Perfect and "
+"Complete Buddha does not form mental constructs"
+
+msgid "7e00dcf81de14948b067cb37c1cacb0e"
+msgstr ""
+"It is inconceivable, free from what can be conceived, and free from mind, "
+"mentality, and consciousness."
+
+msgid "507916f87a4447c2af6b5f98907e93a5"
+msgstr "He does not think or ponder."
+
+msgid "b1055b6f3630484bb75fa108a67eb42a"
+msgstr "He is not obtained, not obtainable."
+
+msgid "68e129693d784bc1912057e549c81630"
+msgstr ""
+"He is inconceivable, free from what can be conceived, and free from mind, "
+"mentality, and consciousness."
+
+msgid "da2df99e2703479cad9c6090acbdfa94"
+msgstr "He is non-grasping, the act of not holding on."
+
+msgid "f939a82dbfcf43d4965fbb29bdfc6d34"
+msgstr ""
+"He has eliminated arbitrary truths as well as attachment, aversion, and "
+"delusion."
+
+msgid "7f8d33f1887c42c58e755037c8275f25"
+msgstr "He is neither true nor false,"
+
+msgid "10d2b4a1571e4ad38b77029a77a5989f"
+msgstr "neither permanent nor impermanent,"
+
+msgid "84d3dcb43c274000b29b8d7eadde0f65"
+msgstr "neither shining nor not shining,"
+
+msgid "5e1e466f28634dfe813b65182381f295"
+msgstr "neither worldly nor non-worldly."
+
+msgid "6e682de348c64d9784f8c11d15844d9f"
+msgstr ""
+"He is without deliberation or analysis. He is non-arisen and unceasing."
+
+msgid "616cd9e9bce1411ba78f6121f311d1a4"
+msgstr ""
+"“He is inconceivable, imponderable, essence-less, and not possibly an "
+"essence."
+
+msgid "ebe20283316b4bf6bb51cce4ab4ea023"
+msgstr "He is empty of non-existence;"
+
+msgid "6f250ecdc63344ebbb209896539dd2ea"
+msgstr "He is not bliss,"
+
+msgid "89906e2a9a834db19b40d4ead1de1bcb"
+msgstr "he is free from bliss;"
+
+msgid "66d21deef54e43ae8c97a0de0e6f15a4"
+msgstr "he is the destruction of bliss."
+
+msgid "509025246b17412abbb71af0a1b21a3d"
+msgstr "When it is attached to the top of a banner"
+
+msgid "026f08e86ca24448b0a99b0c811ce1cb"
+msgstr ""
+"and a sentient being makes a wish, sentient beings will perceive "
+"corresponding words coming forth from the jewel. However, that great, "
+"precious jewel does not form mental constructs or concepts."
+
+msgid "c9393da9a0a14513aa4441b3cdebba74"
+msgstr "He is not a conventional expression;"
+
+msgid "692ca229ce0747e499bc452b8aee98aa"
+msgstr "he is the cutting off of conventional expressions."
+
+msgid "a1dccc75835540cda2ab6ec703c698d3"
+msgstr "He cannot be clung to."
+
+msgid "c0eac1c5a9f04911aade9a6e21e53263"
+msgstr "he is free from striving or giving anything up."
+
+msgid "cdd4107fd1544fad9dace51ff93b62a2"
+msgstr "It does not think or ponder."
+
+msgid "7e67e603ccb3448a88bc8c1dc84800d6"
+msgstr "He cannot be counted;"
+
+msgid "53f00ab491624c7cbe295251d6fbddbb"
+msgstr "he is free from counting."
+
+msgid "653bb5575a7f447da9b99cfb89890cf1"
+msgstr "and has cut off all conventional expressions."
+
+msgid "3e66c652e6a647768c502cf7dfd5cc54"
+msgstr "he has cut off all movement"
+
+msgid "27cf7be1e9524f5aa1735e4bcc9c2f07"
+msgstr "He is not movement, he has reached non-movement;"
+
+msgid "47efd2adc14245b68e167c70c4800b95"
+msgstr "He is not space,"
+
+msgid "09820680cd85449e8b8410684d45a8b1"
+msgstr "he is ungraspable."
+
+msgid "81a06ed18ff44a05a7f9f663007d37f1"
+msgstr "“He cannot be seen or beholden,"
+
+msgid "65cf0bc719e242809d3c3f1985656739"
+msgstr "not lack of space."
+
+msgid "bc7f990e96324405a1bd898cd65f6319"
+msgstr "not an assemblage,"
+
+msgid "d1d0094acc9c4482b9a4d7f328ed5b19"
+msgstr "and not a non-assemblage."
+
+msgid "eb6732a795974f31897439db0861a826"
+msgstr "He is neither mentally constructed nor not mentally constructed."
+
+msgid "2823750686e244ffa58d070eeb184d6c"
+msgstr "He is not visible,"
+
+msgid "6472d9a1aad1480d88f2f23dc9efeb9e"
+msgstr "not to be described,"
+
+msgid "d0143223a8464c06923486bfc5541cbf"
+msgstr "He is not established, shown, afflicted, or purified."
+
+msgid "2b2308f2c4aa4a8e8c7ce2cb839cafa4"
+msgstr "He is not established, shown, afflicted, or purified."
+
+msgid "d2bcc1ad73e54aec975d36a260a71c48"
+msgstr "He is not name,"
+
+msgid "8a5bccfab028470b96bcab3c62f95952"
+msgstr "not form,"
+
+msgid "1c0549ee581a405782fd0a4e23040e54"
+msgstr "not sign;"
+
+msgid "c6c302deb4fb41fb8a6a4d1db70b90c4"
+msgstr "not karma,"
+
+msgid "a93a861a18044e90bfb5a21cb34839c7"
+msgstr "not the maturation of karma."
+
+msgid "103c319b54944ceb8585e7430f7c36c3"
+msgstr "He is not past,"
+
+msgid "1608fb2537c54e06816c8dc32ed7d32a"
+msgstr "not future,"
+
+msgid "e60fa6c2e0144ab8b39651470c620117"
+msgstr "not present."
+
+msgid "e2b1f5dbd05b43c4a63393a344c3ed86"
+msgstr "He is nothing whatsoever."
+
+msgid "b4aab87e47904c33bd22a9fa7e0a9030"
+msgstr "He is without impurity,"
+
+msgid "28e7a971de6d4b019858554ebfd2a093"
+msgstr "without syllables,"
+
+msgid "71156059f55d4b25b49fe74355ab25e2"
+msgstr "without voice,"
+
+msgid "dc31721f435e469c97ed3c8b7029f3d5"
+msgstr "not speech."
+
+msgid "0212521c5a2446358897bfab6aab5ab5"
+msgstr "beyond a voice,"
+
+msgid "19eb7de07a9c4dc7a361bd8c8fcda47a"
+msgstr "He is not a characteristic,"
+
+msgid "acd321d967eb4bf5b1ef714a7f87431f"
+msgstr "he is free from all characteristics;"
+
+msgid "54cf2529a3674ef5823f3817fe87a999"
+msgstr "not perceived inside, outside, or in between."
+
+msgid "2b2b6def9fd945cf8f72cd227379192d"
+msgstr ""
+"“And Mañjuśrī, the awareness jewel of the Tathāgata is completely pure in "
+"its intent, and is fixed at the top of the banner of great compassion."
+
+msgid "15f7a4bc3e2446b6a65e13c8a22fa983"
+msgstr ""
+"According to his or her inclinations and beliefs, a sentient being perceives"
+" a Dharma teaching issuing forth from that jewel."
+
+msgid "a4b7bfe7a131408fbe6380dc7c705549"
+msgstr ""
+"And in this respect, Mañjuśrī, the Tathāgata is the same, neutral, without "
+"concepts, and does not make any distinctions."
+
+msgid "fdf4f03e0f8d47bdb82c7fc0045162e7"
+msgstr "“It is as follows: Mañjuśrī,"
+
+msgid "acdd96f9e4f74b528c23e2772b3385a8"
+msgstr ""
+"sentient beings perceive an echo issuing forth as the intimation of someone "
+"else’s speech."
+
+msgid "1ab7f56d83a34c718358ea0b774d008a"
+msgstr "“But that echo is not past, future, or present."
+
+msgid "2b9cd85c365b4b7ead4a51732e45c5f6"
+msgstr "It cannot be perceived inside, outside, or in between."
+
+msgid "55b2f9d48956474d9656d9db51a2480a"
+msgstr "It is non-arisen"
+
+msgid "3b3da1fbb6c64a02baad76ddfa04d6f4"
+msgstr "and unceasing."
+
+msgid "862126576003426e843c38524ad107bd"
+msgstr "It is not cut off,"
+
+msgid "73bf9cddf84c4797bd072dcfc8563c40"
+msgstr "not permanent;"
+
+msgid "de7fcd612b5b46fea58852cba6321307"
+msgstr "it is not endowed with awareness,"
+
+msgid "93edded14c684839a481c6e54aae9fb4"
+msgstr "nor is it without awareness."
+
+msgid "fb194127945749a4950381ca8f169eb9"
+msgstr "It is neither wisdom"
+
+msgid "17814826acf44cf98cc802022efe70e4"
+msgstr "nor not wisdom,"
+
+msgid "f49ed0e544b04852baf78f8636d08848"
+msgstr "neither knowledge"
+
+msgid "b6a8c788a8624e27a6788adf743fdf36"
+msgstr "nor ignorance,"
+
+msgid "74ecaafe83ec4c1794fb021d85e9bf9b"
+msgstr "neither liberation"
+
+msgid "43d94fdcf6d6475ca739152ee253cdd3"
+msgstr "nor not liberation."
+
+msgid "40b20326ad0c46618e1f30d5dc2a5c1c"
+msgstr "“It is neither blameworthy"
+
+msgid "5ddc41be357e45e6ba6a75f535feba1c"
+msgstr "nor free from blame,"
+
+msgid "87970af0082d4ab8ad2469f28d7f3e0d"
+msgstr "neither recollection"
+
+msgid "ff97fb3ee30046d6971f71fd3e382ede"
+msgstr "nor non-recollection,"
+
+msgid "83cc0f866ed64b8e9e7f15df694ebf35"
+msgstr "neither placed"
+
+msgid "808ea677cde94de684bb200559914ed0"
+msgstr "nor unplaced,"
+
+msgid "90167222b4d6442a9dc95f9a429bc505"
+msgstr "nor not sitting."
+
+msgid "83be6d6d7d3448f5a3f8cdf48423d66c"
+msgstr "neither sitting"
+
+msgid "24198ee7df1c429c8dd6a04d3e19ee2f"
+msgstr "It is not the earth element,"
+
+msgid "262a782513cb4ac8b82cddae6118e2b8"
+msgstr "not the water element,"
+
+msgid "3201ae0c1ebb47778277eec71e56ab4f"
+msgstr "not the fire element,"
+
+msgid "edcb195f670e4cf38d89421826335a3f"
+msgstr "and not the wind element."
+
+msgid "63a5dce4ec0c4f558195e6c21048f958"
+msgstr "It is neither co-produced"
+
+msgid "c32fe1b5df404a1ca10ad7ae0fdedfaa"
+msgstr "nor unproduced,"
+
+msgid "66f3c4013a5d4391996e920c3f9f4673"
+msgstr "neither free from elaboration"
+
+msgid "717d4e6879604667851a2d52d4724242"
+msgstr "nor with elaboration,"
+
+msgid "f946bc5490bc4ddf9cf54267c2d36aea"
+msgstr "neither speech"
+
+msgid "aa63ff1d12b342709f5d963393eee1d1"
+msgstr "nor not speech,"
+
+msgid "dbdc8e4fbc0a48168d5155b877a548b0"
+msgstr "and neither visible"
+
+msgid "ed4ac571b90d4db784e0062b141e3acf"
+msgstr "nor invisible."
+
+msgid "49ecd072aa124119b41b22fe2776d17a"
+msgstr "“It is without syllables,"
+
+msgid "bfc039a4fecd48dcaf7a5513e4797fa5"
+msgstr "without voice,"
+
+msgid "adc2d07ef26a43c8a0ca4afb0463c810"
+msgstr "beyond voice"
+
+msgid "b091e21138694bbaa182774f5b5c938d"
+msgstr "without comparison,"
+
+msgid "8e6d279d986a4463993d8eaed5ea225c"
+msgstr "beyond comparison,"
+
+msgid "ec01ee9243f44cf5b238c27561e4b2c8"
+msgstr "not a characteristic,"
+
+msgid "bf197c0bdee745d98a47715747ed3346"
+msgstr "free from characteristics."
+
+msgid "821d913d67194933945b99dace1756ea"
+msgstr "It is neither peace nor not peace,"
+
+msgid "1173a2c2ec184acb83a3ab34ba28af44"
+msgstr "neither long nor short,"
+
+msgid "86bb23b32b664d969cf5a2055f7d2b24"
+msgstr "neither sentient nor insentient,"
+
+msgid "1a575f76a5ff4fbc9b360818237d85cb"
+msgstr "neither mental nor not mental."
+
+msgid "82d4778255f64ccdae90b4fa94ec0b63"
+msgstr "It is neither to be beheld, nor not to be beheld."
+
+msgid "b0448a8f61b54c1891b6e436cca915fa"
+msgstr "free from mind, mentality, and consciousness."
+
+msgid "acbe0855825a4e1f89391b36707519d6"
+msgstr "not analysis,"
+
+msgid "a13de814a48d459daf6f036bbd226fff"
+msgstr "It is not deliberation,"
+
+msgid "d6c45487176c4218b74cf53501061cd9"
+msgstr "It is empty of the nature of seeing."
+
+msgid "5450b8bbc54b4740b9d6dfd5f4c318c9"
+msgstr "It is non-recollection,"
+
+msgid "3dc0a8f376584c7694f72ffb6c6a8bd9"
+msgstr "non-mental-placement."
+
+msgid "e9230d2e0efd4768beb45e4c8490541f"
+msgstr ""
+"In all regards it is the same, neutral, without concepts, and does not make "
+"any distinctions."
+
+msgid "f28b7899f0334c59a299d68ef9a4fa03"
+msgstr "It is beyond the three times."
+
+msgid "5ca0284fd735414ea408e4015c60c004"
+msgstr "However,"
+
+msgid "ba8d0b24a4a1460693c5afce363203a5"
+msgstr ""
+"“In the very same way, Mañjuśrī, the Tathāgata, the Arhat, the Perfect and "
+"Complete Buddha is not past, future, or present."
+
+msgid "96f25abaeee94498b4a13e36c1a2108c"
+msgstr "He cannot be perceived inside, outside, or in between."
+
+msgid "22bca5678f164ccb81c7ae41fb035d93"
+msgstr "He is non-arisen"
+
+msgid "9bb39ba7437e46d5a1bf6abdd8a004c9"
+msgstr "unceasing."
+
+msgid "444466acc97e43ff97a984959e7f3761"
+msgstr "He is not cut off,"
+
+msgid "0a4f208e555840d6a167615bd67a5d2e"
+msgstr "not permanent;"
+
+msgid "486d9061176e4c85bac9dba034d816fb"
+msgstr "he is not endowed with awareness, nor is he without awareness."
+
+msgid "35759fab1fa44ba88f41d2fe7552aac3"
+msgstr "He is neither with wisdom nor without wisdom."
+
+msgid "7fe4546c9de74f3ea1132e1416066b7b"
+msgstr "He is neither knowledge nor ignorance,"
+
+msgid "9a3c768ce070492f85babe41918c486a"
+msgstr "neither liberation nor not liberation."
+
+msgid "20ff0856145f46c7a0b4ce4110cad085"
+msgstr "“He is neither blameworthy nor free from blame,"
+
+msgid "65d6c8c4e89d4f90a958c5af076b8aa6"
+msgstr "neither with recollection nor without recollection,"
+
+msgid "ccd93402fa89410cb6cfcd8e9f1e9cb1"
+msgstr "neither placed nor unplaced,"
+
+msgid "dca7e27d4c0e465c98b399dc8f35ad32"
+msgstr "neither sitting nor not sitting."
+
+msgid "8cddd955b66c4fdea6237fd29e04450a"
+msgstr "He is not the earth element,"
+
+msgid "0ff29068b4634999bbefcfe4eb7bbc9c"
+msgstr "not the water element,"
+
+msgid "904b731d1fc54a56b295eb46496b9b44"
+msgstr "not the fire element,"
+
+msgid "fb98ebdbd96c4cb9b916d3bf87faec7a"
+msgstr "and not the wind element."
+
+msgid "0a4096db96804095a2ac09064526706d"
+msgstr "and sentient beings perceive it to be just that way."
+
+msgid "bb7b1bb0d93441e6ad9d930975fda8d1"
+msgstr ""
+"Mañjuśrī, the echo, the voice of many sounds, comes forth for sentient "
+"beings with varied inclinations, as the intimation of the voice of many "
+"sounds,"
+
+msgid "43c21b49377a48e698614c1ec4356000"
+msgstr "not the water element,"
+
+msgid "5049618026f245d79925db5e93c6c675"
+msgstr "not the fire element,"
+
+msgid "61b8a2f1f8ff4926a3e72f466f15c31c"
+msgstr "and not the wind element."
+
+msgid "38f6863d04924b4e8e46634a3d19c8a8"
+msgstr "He is neither co-produced nor unproduced,"
+
+msgid "77816b28bb0f482181a22a6e11e6099c"
+msgstr "neither elaboration nor non-elaboration,"
+
+msgid "801467a52ad54c9aaa6264c9eadcf32b"
+msgstr "neither speech nor not speech,"
+
+msgid "7395c8847c4f40e48acd055235c43fe9"
+msgstr "and neither visible nor invisible."
+
+msgid "469262fed754411db050956386d544b3"
+msgstr "“He is without syllables,"
+
+msgid "53f5255f09734cbb82b24c3f1685c3a2"
+msgstr "without voice,"
+
+msgid "a21af9a37f2648f48f6fb48119f7bf79"
+msgstr "beyond voice,"
+
+msgid "7cf9d5806d6e40cc9fdeb39dc50cc5b8"
+msgstr "without comparison,"
+
+msgid "c2c3666935c44583b8bcaa574d5d8ae8"
+msgstr "beyond comparison,"
+
+msgid "86e82f7937fc4615b1b34499bb3b7715"
+msgstr "not a characteristic,"
+
+msgid "8b8d497d9ac640d59d8f2d806a29df71"
+msgstr "free from characteristics."
+
+msgid "f41ef8ea54e546e88dc862b2a4cf3fde"
+msgstr "He is neither peaceful nor not peaceful,"
+
+msgid "cb92ee780d8042948c60fd766fb24b31"
+msgstr "neither long nor short,"
+
+msgid "896b6424ac344b2585f9c5bb8c9507dd"
+msgstr "neither mental nor not mental."
+
+msgid "af4ac9a5343d46989667337b4ea25d5c"
+msgstr "He is neither to be beheld, nor not to be beheld."
+
+msgid "f8f0d2f5ad6c4989a16efd9658001269"
+msgstr "He is non-recollection"
+
+msgid "92d565e8840042cda62ca5514b7cbff1"
+msgstr "He is empty of the nature of seeing."
+
+msgid "cd201216fd904f35bb98e1cc809831b0"
+msgstr "and non-mental-placement."
+
+msgid "d6167cd9f7ff4de09b039cc6c17eb743"
+msgstr "He is not deliberation,"
+
+msgid "ba28b8e302af410da99f894d46805c21"
+msgstr "not analysis,"
+
+msgid "ae3472880c97408a8278c685c9dc33a9"
+msgstr "and free from mind, mentality, and consciousness."
+
+msgid "75175be220e84839b74e26df79a5e2d3"
+msgstr "He is beyond the three times."
+
+msgid "7151959673014ae1b0fc41d9dfd11902"
+msgstr ""
+"In all regards he is the same, neutral, without concepts, and does not make "
+"any distinctions."
+
+msgid "2c81f3ff396244e0ac5e5f1232cbe5c0"
+msgstr "Yet, Mañjuśrī, sentient beings with varied beliefs perceive"
+
+msgid "5deafe09c5ed456f8da00bbeda593b96"
+msgstr ""
+"Yet, Mañjuśrī, sentient beings with varied beliefs perceive the speech of "
+"the Tathāgata, issuing forth in accordance with their manifold inclinations."
+
+msgid "895ec35baf7945a1938ce675ece57b28"
+msgstr ""
+"the speech of the Tathāgata, issuing forth in accordance with their manifold"
+" inclinations."
+
+msgid "6e68f19f9a934344a1651a778c6f8b0c"
+msgstr "“It is as follows: Mañjuśrī,"
+
+msgid "861f7a2a40894000abefbec3aa47fb95"
+msgstr ""
+"it is through having the earth as their basis and support that all grass, "
+"thickets, herbs, and trees grow to become sizeable."
+
+msgid "4174227fe3af482fa18363b59eb1ecc1"
+msgstr "But, Mañjuśrī, the earth does not form mental constructs or concepts."
+
+msgid "4224d037f9f04047a31e3eba61b2e34d"
+msgstr "With respect to everything it is the same, free from concepts,"
+
+msgid "e6abaa30866449efad99e6697f6e72c7"
+msgstr "and free from mind, mentality, and consciousness."
+
+msgid "e6c6c75bc7084fe5b4deb7c1b3ea891b"
+msgstr "and free from mind, mentality, and consciousness."
+
+msgid "5d9611edb5c64c458f8d4f75fbd3680a"
+msgstr "free from distinctions."
+
+msgid "de024f2dc9274af0a332e7c8232f837f"
+msgstr "It is free from speculations"
+
+msgid "3ebcfddc51974072b28f2e61c2345f7d"
+msgstr ""
+"“In the same way, Mañjuśrī, it is through having the Tathāgata as their "
+"basis and support"
+
+msgid "24d76ca131f040e0b64b5cdaf58b30d9"
+msgstr ""
+"or of all tīrthikas such as the Carakas, Parivrājakas, and Nirgranthas, and "
+"so forth; or of any others, down to the roots of what is wholesome of those "
+"stuck in what is wrong; it is through having the Tathāgata as their basis "
+"and support that they grow and become sizeable."
+
+msgid "3cff6bb7d1904afc92894d831363d84c"
+msgstr ""
+"that all the roots of what is wholesome of all sentient beings grow and "
+"become sizeable. Whether it is the roots of what is wholesome of those on "
+"the Vehicle of the Hearers, on the Pratyekabuddha Vehicle, or on the Great "
+"Vehicle;"
+
+msgid "483137845a0f472f9ee70dad8f4a1232"
+msgstr ""
+"“However, Mañjuśrī, the Tathāgata does not form mental constructs or "
+"concepts."
+
+msgid "4da1d3849ed64299a3a6b4096fa7cf90"
+msgstr ""
+"or of all tīrthikas such as the Carakas, Parivrājakas, and Nirgranthas, and "
+"so forth; or of any others, down to the roots of what is wholesome of those "
+"stuck in what is wrong; it is through having the Tathāgata as their basis "
+"and support that they grow and become sizeable."
+
+msgid "dbe03139a4b245d9a96992fc59f31b05"
+msgstr ""
+"Mañjuśrī, the Tathāgata, the Arhat, the Perfect and Complete Buddha has cut "
+"off all mental constructs, concepts, points of reference, and mental "
+"engagement."
+
+msgid "01fc0cf1b1ba4105890695f18c58775a"
+msgstr "He is free from mind, mentality, and consciousness;"
+
+msgid "c6ff64edb3a54c7fa8d0216868882a43"
+msgstr "he is neither speculation nor the domain of speculation."
+
+msgid "d94ec625c8554bb9b012bb751f68cd42"
+msgstr "He is invisible,"
+
+msgid "0a42861244a94d21a44461f0ac2359bb"
+msgstr "not to be beheld,"
+
+msgid "cea59c364c1d4ec09faec3520b68aa46"
+msgstr "not an object of thought or deliberation."
+
+msgid "a0d63dc09b264aa6b0e51ec7582ffd87"
+msgstr "free from thought,"
+
+msgid "f57282a431654d42ac378feb40f542c9"
+msgstr "It is free from mind, mentality, and consciousness."
+
+msgid "ea2dde7808474da9b55acf4bbf5f6338"
+msgstr ""
+"With respect to all, he is the same, neutral, without concepts, and he does "
+"not make any distinctions."
+
+msgid "bfcd0dbb7c084919a6df5a89e901908e"
+msgstr "“It is as follows: Mañjuśrī,"
+
+msgid "24b618880089415cadfb9de1b42a7584"
+msgstr "space is everywhere the same,"
+
+msgid "c0f017f7cece46348d96ab64f1eb01e1"
+msgstr "free from concepts"
+
+msgid "87be7e10157c4c0a927e460951a2809b"
+msgstr "and distinctions."
+
+msgid "a5a74fcb83af457481cb4f74c9110420"
+msgstr "It is non-arisen"
+
+msgid "ac28a86b2ef74ab1aa55db2a26ca7d64"
+msgstr "and unceasing;"
+
+msgid "3a2024db80844b559561658ffc141c39"
+msgstr "it is not past, future, or present."
+
+msgid "9033754fea824300947afc0a7a757fbb"
+msgstr "It is indefinable,"
+
+msgid "38947d7ac21d46f4a949e85e26dc951e"
+msgstr "non-elaborate,"
+
+msgid "f0df6ccf8f6441d9a5e3899e4a4efe33"
+msgstr "and formless;"
+
+msgid "57ae9e912a2048c58ae200558a24c8fa"
+msgstr "it cannot be shown"
+
+msgid "8c7a4a0829f948dc836374f2180a1541"
+msgstr "or made known."
+
+msgid "8337e551edc0425ab7a887268bfe2cd9"
+msgstr "It is without contact,"
+
+msgid "a54f4c0b7e694a95b90752220c7e1c05"
+msgstr "without dwelling,"
+
+msgid "a82a273956174773a9850bd4fd89709c"
+msgstr "not comparable,"
+
+msgid "2b24cd0401db4835b5a3623c9bd73de7"
+msgstr "and beyond compare."
+
+msgid "4e2bfae0e09449d9be0be07fb522b0f3"
+msgstr "It has no simile"
+
+msgid "90ca19e5c89442ca965c77dc399a73f4"
+msgstr "and is beyond all similes."
+
+msgid "03bcad1c6a024841a9b119ea25037571"
+msgstr "It has no basis;"
+
+msgid "f51a017d72724553bdd42236ec6834ab"
+msgstr "it is ungraspable"
+
+msgid "e9178c9a0aa74bf0873eca5634882337"
+msgstr "and beyond visible range."
+
+msgid "6e9c53b1e8c349469af4e15dcfee103f"
+msgstr "It has no characteristic;"
+
+msgid "2080f32b23094dbf8c96197dc61207d0"
+msgstr "it is without syllables, voice, and mental engagement."
+
+msgid "81cea1261db14206aa9e4238a58fbcdd"
+msgstr ""
+"Mañjuśrī, sentient beings experience space as being low or high, according "
+"to whether the place is low, middling, or high."
+
+msgid "7fcb54a1954e46c88458df4ab27f8dfd"
+msgstr "It is beyond the realm of words."
+
+msgid "d5f50ea19a4f46e0abedfbebb7ba97d9"
+msgstr "It reaches and enters everywhere. And still,"
+
+msgid "2f6ba88e7a31412a9e1d28d9d33b2600"
+msgstr "It has no striving or giving up;"
+
+msgid "857dceefa7924f6ab0b34b6f24b703e1"
+msgstr "no removal,"
+
+msgid "f0ff0f00699340fe9a1dce76bc896571"
+msgstr "no addition."
+
+msgid "527baec9448e4bb98e91cedf9d95e64c"
+msgstr "He is without mental engagement,"
+
+msgid "dedea42aac914c05888a7a44f2e9701b"
+msgstr ""
+"“In the same way, Mañjuśrī, the Tathāgata, the Arhat, the Perfect and "
+"Complete Buddha is everywhere the same, free from concepts and distinctions."
+
+msgid "5194e0bc9d7e47888a96523a1880c452"
+msgstr ""
+"Mañjuśrī, sentient beings experience space as being low or high, according "
+"to whether the place is low, middling, or high."
+
+msgid "80e4eebdbaa54c9caa6a2b388f7d4acd"
+msgstr "He is non-arisen"
+
+msgid "69b648651b994e028f8bb569e19d1318"
+msgstr "and unceasing,"
+
+msgid "501ef537fca5438b96141c15a525bd70"
+msgstr "he is not past, future, or present."
+
+msgid "1ad88b6f7f0e406d8f7feb676f3dc43e"
+msgstr "He is indefinable,"
+
+msgid "26bdcc6456d44c1ca945d7df6055f318"
+msgstr "non-elaborate,"
+
+msgid "b4c630cbd71445349277d00b3850127d"
+msgstr "and formless;"
+
+msgid "baabf087157e4fbf891cfad4472a88bd"
+msgstr "he cannot be shown or made known."
+
+msgid "5b991bdaaa20473b897463a8966d6102"
+msgstr "He is without contact,"
+
+msgid "fad4b4126f6c4a449cf4d1fd7dab2149"
+msgstr "without dwelling,"
+
+msgid "9f2ca1e8183a407089a01c913b60d878"
+msgstr "not comparable,"
+
+msgid "2a80d880a839449ca4c9ca1890559323"
+msgstr "and beyond compare."
+
+msgid "bc6f8f0470ba4e15bfec0068085f23c7"
+msgstr "He has no simile"
+
+msgid "3642a40a7f6b493db62b5f3c31d61286"
+msgstr "and is beyond all similes."
+
+msgid "0633f2dcea444d23bef941968cd04230"
+msgstr "He has no basis,"
+
+msgid "e514ef2a3a0846499793a359e054c53c"
+msgstr "he is ungraspable"
+
+msgid "1fcb2d663da94295aa41e2431bb7401d"
+msgstr "and beyond visible range."
+
+msgid "39ff31fd658a4f79a3d86c52cb79c664"
+msgstr "He is free from mind, mentality, and consciousness."
+
+msgid "a79d389c238e46c2bd486b1348b01daa"
+msgstr "He has no characteristic;"
+
+msgid "6463a133a83346d08c9408ff05c7aa85"
+msgstr "he is without syllables, voice, and mental engagement."
+
+msgid "a6c0c362676349bba083b1a136c703df"
+msgstr "He reaches and enters everywhere."
+
+msgid "7d89c535d5664bd2b6aa772edcf05a2f"
+msgstr "He is beyond the realm of words."
+
+msgid "434cb2e5909c46868ce86a60ab295624"
+msgstr ""
+"And still, Mañjuśrī, according to whether sentient beings are low, middling,"
+" or high,"
+
+msgid "09ceca76ce9c40dd85bf7f1240af5e46"
+msgstr "they see the Tathāgata as low, middling, or high."
+
+msgid "7812e3eff84b4571af75f11717da1355"
+msgstr "“Mañjuśrī, the Tathāgata does not think,"
+
+msgid "ddbb41a0710f4cdbbbe12d077d8e104c"
+msgstr ""
+"‘This sentient being has low inclinations and beliefs, so I will show him a "
+"low perfection of the form body."
+
+msgid "22244815d506403f84629a0331e370b9"
+msgstr ""
+"This sentient being has middling inclinations and beliefs, so I will show "
+"him a middling perfection of the form body."
+
+msgid "4ecd467cf21042d79e36b88ae294b503"
+msgstr "This sentient being has vast inclinations and beliefs,"
+
+msgid "58b9b07054344c42adf138e5423a4a1a"
+msgstr "so I will show him a vast perfection of the form body.’"
+
+msgid "86e5a33cbeb54f3a8aa9e84ceaafbead"
+msgstr ""
+"“Mañjuśrī, this is also what you should understand regarding how the Dharma "
+"is taught."
+
+msgid "42f26ccc6c6045b9bdbe3d0b0497250b"
+msgstr "so for him I shall make a speech relating to the Hearers’ Vehicle."
+
+msgid "bb97e27100134b429466cea7603a6943"
+msgstr ""
+"Mañjuśrī, the Tathāgata does not think, ‘This sentient being has low "
+"beliefs,"
+
+msgid "92dc0ea3d3e54fc3925c4f1075888919"
+msgstr "This sentient being has middling beliefs,"
+
+msgid "c0919e6a2f95446a9743526928af9634"
+msgstr ""
+"so for him I shall make a speech relating to the Pratyekabuddha Vehicle."
+
+msgid "65cb0bfd6db34454a5005e862e8660cb"
+msgstr "no removal,"
+
+msgid "95447c123d744d45a658c4ff2621b897"
+msgstr "no addition."
+
+msgid "5c01f49da1994f9d9eec553816e3b38b"
+msgstr "He has no striving or giving up;"
+
+msgid "e30fb3bba9fb431d9c0b051560e73a88"
+msgstr ""
+"so for him I shall make a speech relating to the Pratyekabuddha Vehicle."
+
+msgid "f11fab9842ed41e6acde0aeec292b898"
+msgstr "This sentient being has vast beliefs,"
+
+msgid "1d50705ae3a74aac8909ef6498a95c8c"
+msgstr "so for him I shall make a speech relating to the Great Vehicle.’"
+
+msgid "5d27bdbfeddf431a91283b8debf3d6f6"
+msgstr ""
+"“Mañjuśrī, the Tathāgata does not think, ‘This sentient being has belief in "
+"giving,"
+
+msgid "854f0b76588048e1a794a358a2fd2bcb"
+msgstr "so for him I shall make a speech related to giving.’"
+
+msgid "0cae03126e84416c8ebd6b7fa35b837b"
+msgstr ""
+"Nor does he think so for discipline, forbearance, diligence, or "
+"concentration."
+
+msgid "291a6759c5b8429ca23376f804111c93"
+msgstr "Mañjuśrī, the Tathāgata is the dharmakāya."
+
+msgid "e8124aa382464b38934310a2b2d92424"
+msgstr "Mañjuśrī, the Tathāgata is utterly non-arisen."
+
+msgid "6f3f3b72b43c42608bc6746f8ae6675b"
+msgstr ""
+"“Mañjuśrī, for the Tathāgata, a consciousness chasing after names, forms, "
+"and etymological explanations does not occur."
+
+msgid "4a6c412e99f04581a079fa641735183c"
+msgstr "Mañjuśrī, the Tathāgata does not form mental constructs or concepts."
+
+msgid "4954974b2b7f4178a768089b1874b88c"
+msgstr "Mañjuśrī, the Tathāgata is momentary,"
+
+msgid "4a0d14bf015c45068a5159d315cc588d"
+msgstr ""
+"“Mañjuśrī, the Tathāgata does not think, ‘This sentient being has belief in "
+"the perfection of wisdom, so for him I shall make a speech related to the "
+"perfection of wisdom.’"
+
+msgid "3e5f4dc674d54710811b3b41867af09e"
+msgstr "Mañjuśrī, the Tathāgata does not think in that way."
+
+msgid "5de3c0109a6848f8b5c4708ad7a35cde"
+msgstr "and his characteristic is to be inexhaustible."
+
+msgid "16fcf05903e24f36aa2aa951142d83dc"
+msgstr ""
+"He is fixed at the pinnacle of non-exhaustion, the pinnacle of reality."
+
+msgid "8cb55360b6014857a0aafcec61b327f7"
+msgstr "Mañjuśrī, the Tathāgata, the Arhat, the Perfect and Complete Buddha"
+
+msgid "3c44bf54ac954756b4f2b552ea8d973c"
+msgstr ""
+"is the pinnacle of the sameness of all dharmas, the pinnacle of their non-"
+"duality, and the pinnacle of their utter non-arising."
+
+msgid "88d36af8d31142f384f3f33b3f032138"
+msgstr "He is not low, nor middling, nor high."
+
+msgid "fcd5e9a4962f4d8c937cdd56e6053bef"
+msgstr ""
+"In all regards he is the same, free from concepts, and free from "
+"distinctions."
+
+msgid "c9189820d4e04cd19df4b33c24a49ff8"
+msgstr "They are not low, nor middling, nor high."
+
+msgid "90ad9c2d422c48819f8c8eea57308a58"
+msgstr "It is because no dharmas are perceived."
+
+msgid "0fe962c52f894e448d84ad93bd8f9c85"
+msgstr ""
+"“Mañjuśrī, just in the same way, all dharmas are same free from concepts, "
+"and free from distinctions."
+
+msgid "2d106d99059448ddb96851750d46a382"
+msgstr "And why is that?"
+
+msgid "9ef3914e763f4f259fe38734bfcb41c8"
+msgstr "Mañjuśrī, this non-perception of all dharmas is their sameness."
+
+msgid "bfcfada2a20040cd873619adb020b42c"
+msgstr "Mañjuśrī, this non-perception of all dharmas is their sameness."
+
+msgid "e34514fa2a2d4b8795c9932959b738d6"
+msgstr "Their sameness is their remaining fixed."
+
+msgid "2fc4c80bbe99442a91800f6bfe40d456"
+msgstr "Remaining fixed means that they do not move;"
+
+msgid "ab4074ab33fa4f18bbc3aed915c77674"
+msgstr "not moving means being without any abode."
+
+msgid "e053a630aa7b4de395cdd325d789ca8c"
+msgstr ""
+"“For someone with no abode in any dharma, the mind has no place to stand."
+
+msgid "c342bb86c59549b098f7ee8ca30dd0c2"
+msgstr "For a mind that stands nowhere, there will be non-arising."
+
+msgid "d03107f28c8544bdab7ef4e118e26a58"
+msgstr ""
+"And for someone who sees in this way, no distorted mind and mental states "
+"come about;"
+
+msgid "da0e55123a9b40f6a4b39ac818fdce48"
+msgstr "someone whose mind is undistorted will have authentic attainment."
+
+msgid "dcbcb97a37424c9e924ba9e317ee6e56"
+msgstr "“Whoever has authentic attainment will not form elaborations."
+
+msgid "d69d76d85a1548d0bee37b6465b1dcfc"
+msgstr "Someone who does not form elaborations does not move about."
+
+msgid "6c6c77976b1b4434a3bc39fd59b237f2"
+msgstr "When one does not move about, one does not wander."
+
+msgid "97164ed27a2e4226a1698b576d4101c4"
+msgstr "When one does not wander, one does not become distracted."
+
+msgid "9cbd4a4252304a1eb6d84e9e8fbe76f6"
+msgstr "One who does not become distracted does not oppose the dharmatā."
+
+msgid "2f60e184fa0046958318f20502497782"
+msgstr ""
+"One who does not oppose the dharmatā is in conformity with everything."
+
+msgid "edeabc0293f94452b5c3914581dd2dc8"
+msgstr ""
+"One who is in conformity with everything does not move from the nature of "
+"the dharmas."
+
+msgid "457b89552a5740ef8aa6b1b3a09ef276"
+msgstr ""
+"One who does not move from the nature of the dharmas obtains the nature of "
+"the dharmas."
+
+msgid "7dab6dfefc014f4f975b21566c1b0fbe"
+msgstr ""
+"One who obtains the nature of the dharmas does not form any elaboration."
+
+msgid "0e056d1629ee4913a0e29497de4cc09b"
+msgstr "Why is that?"
+
+msgid "102abf8f2af34bf783d841f831f84841"
+msgstr "“Whoever is born from conditions and causes is utterly unborn."
+
+msgid "505500b089384d88a013975784e55380"
+msgstr "Someone utterly unborn has gained certainty."
+
+msgid "92987e0cf6dd49e28877cf3167b2e611"
+msgstr ""
+"Whoever has gained certainty does not dwell with any mental engagement in "
+"the dharmas."
+
+msgid "f5e522834cc84d85917605d2590c86ed"
+msgstr ""
+"When one does not dwell with any mental engagement in the dharmas, one does "
+"not dwell with the dharmas."
+
+msgid "a87b304a908f44379f9f51f0680ff7ce"
+msgstr ""
+"When one does not dwell with the dharmas, one does not come into existence "
+"or go out of existence."
+
+msgid "4a07fffae8ab4a308b0fa5f5c6b4c7f2"
+msgstr ""
+"When one does not come into existence or go out of existence, one becomes "
+"fixed and has obtained the Dharma."
+
+msgid "b7fde55ecc5c408dbc823676ee7ae4b1"
+msgstr ""
+"“When one becomes fixed and has obtained the Dharma, one applies oneself to "
+"the proper dharma."
+
+msgid "50b52943f868428ead67d61fd40a46e9"
+msgstr ""
+"When one applies oneself to the proper dharma, no dharma whatsoever is not a"
+" buddhadharma."
+
+msgid "488838cacbe8468f8dde42ce3825308c"
+msgstr "Due to the realization of emptiness."
+
+msgid "71ac5c78f856402db5a1df928f002917"
+msgstr "The realization of emptiness is awakening."
+
+msgid "dd876a6a5f234dbab0145b1185dee845"
+msgstr "no-sign,"
+
+msgid "c41013b78ba640b1b1221a4f4818ff00"
+msgstr "no-wish;"
+
+msgid "f098a342908f4fd994ca1c79cc44ce71"
+msgstr "no-dwelling,"
+
+msgid "24916341a4f44220a4cda4f8c5cbea17"
+msgstr "no-effort,"
+
+msgid "1c26146f790148b99e98f010a88d1ce8"
+msgstr ""
+"“It is awakening, because in this way one realizes emptiness, no-sign, no-"
+"wish; no-effort, no-dwelling, no coming about; no object of apprehension and"
+" no-abode."
+
+msgid "df58d561c3bc40a68736b2c58fd04d49"
+msgstr "Awakening is proper application."
+
+msgid "8242117fbfec4122bb6fadc4605baebf"
+msgstr "“What is called proper application is to neither remove nor add."
+
+msgid "9da9e48652de4f0fad593625b22c99e5"
+msgstr "And why?"
+
+msgid "6b96d2a9c8e941d4a7799084d09761b4"
+msgstr "and the application of what has yet to come."
+
+msgid "20c0b1cf6ab44058b95221cbec056fea"
+msgstr "This is proper application."
+
+msgid "49a24396faab49fc878ab2bf532c6cc3"
+msgstr "It is the non-liberated application,"
+
+msgid "6eec2a5e2d01431f863f44cd1c8ac4da"
+msgstr "and it is not connected."
+
+msgid "357331d0c58b4466afc347db4ca086c8"
+msgstr "It is the application of not doing and not changing,"
+
+msgid "9e42bc1e523e491990874dcf64672bff"
+msgstr "the application of neither oneness nor plurality,"
+
+msgid "695192f79d804b1bacf01f32b9d29cfe"
+msgstr "Because mind is by nature luminous."
+
+msgid "90885bc953ae404c977ce89589d12dd8"
+msgstr "“In that respect, there is no application,"
+
+msgid "8fe26a6535db47caa2a2b92ca2ab5fbc"
+msgstr "no measure"
+
+msgid "c14f03b8a7504f9a815c7cd9c0d15084"
+msgstr "and no direct realization of a result."
+
+msgid "16e2b8fbcbfb4537ae736ce834ee484f"
+msgstr "It is afflicted by adventitious afflictions,"
+
+msgid "cdd3cc91d98f4a3a84cb7e132ebebd26"
+msgstr "but its nature is not afflicted."
+
+msgid "ab8b75572a7a46b09fdf9c08744ca900"
+msgstr "“Luminosity by nature is non-affliction."
+
+msgid "c087b48ee9694d5b8891dde30fa8e94e"
+msgstr ""
+"With respect to non-affliction there is no counteragent—a counteragent by "
+"which the destruction of the afflictions may occur."
+
+msgid "9d20afe7f90946b1a4503c11f818bf79"
+msgstr "Because what is pure does not become pure; it just is pure."
+
+msgid "cdf8fa3356874d268e3a6756fda8557a"
+msgstr "“That which is pure is non-arising."
+
+msgid "32f501868c3141f4841045afab8bff0d"
+msgstr "Non-arising is faultless."
+
+msgid "f6507d01173f4ddeb342c3f8a774206b"
+msgstr "What is faultless is the destruction of joys,"
+
+msgid "822cb0420a3e420e8db1676096886146"
+msgstr "whereby all attachments cease."
+
+msgid "06378e83395346c89c477fa2ec0b262c"
+msgstr "Where all attachments cease, that is non-arising."
+
+msgid "ac586e4c992a40b6a031b4b63f79473a"
+msgstr "And non-arising is awakening."
+
+msgid "4c72832f9aa7414c814087aa199fe211"
+msgstr "“Awakening is sameness."
+
+msgid "91e275af78844258826ccc86ea9212d4"
+msgstr "Sameness is the tathatā."
+
+msgid "af2bcfa1a58542c99d7e499e4708eb16"
+msgstr "All dharmas, co-produced and unproduced, abide in the tathatā."
+
+msgid "734b1bcffe124536b33f849e1413589d"
+msgstr "there is no designation of duality."
+
+msgid "f0284423940f4407bfbc297b6e795569"
+msgstr "With respect to the tathatā there is neither something co-produced"
+
+msgid "50c06811b9ef4ad18d5eca794f8d9af4"
+msgstr ""
+"Where there is nothing co-produced or unproduced, and no designation of "
+"duality, that is the tathatā."
+
+msgid "054c4e6286cc4c659eaa9fdff601cbd2"
+msgstr "nor something unproduced;"
+
+msgid "48291da576954675a3fe43a812169eb8"
+msgstr "“The tathatā is nothing else but the tathatā."
+
+msgid "559e5973fe2d40c5a8c662559d484166"
+msgstr "Nothing else but the tathatā is the unchanging tathatā."
+
+msgid "a0603269defc43f3a6ff0b3eaa3dc0a2"
+msgstr "The unchanging tathatā is the non-coming tathatā."
+
+msgid "4ed3302111fb4b4fb28db03bb3ed3f13"
+msgstr "The unchanging tathatā is the non-coming tathatā."
+
+msgid "8d294b398cdb4094972cddedaeaf3260"
+msgstr "The non-coming tathatā is the tathatā that does not go."
+
+msgid "59616fd39b2f41b6b915ed4b74104bd6"
+msgstr "The tathatā that does not go is the authentic tathatā."
+
+msgid "c892e44914d4440a8199ff6a8d176e3c"
+msgstr "The authentic tathatā is the not-at-all-tathatā."
+
+msgid "cd80d09d40b747a2a3e524fe2d01d2cc"
+msgstr "The not-at-all-tathatā is not afflicted"
+
+msgid "3869ff56cf3d431e80db71b11861eb1e"
+msgstr "and is not purified."
+
+msgid "f205ab436a0644c8a889a6d41478eb40"
+msgstr ""
+"That which is neither afflicted nor purified neither arises nor ceases."
+
+msgid "517a59bad98043c6ba9e1d4c62f1c45c"
+msgstr "That which neither arises nor ceases is the same as nirvāṇa."
+
+msgid "9061a501dc8640d9a39cfc3091d0285c"
+msgstr ""
+"That which is the same as nirvāṇa neither roams within saṃsāra nor passes "
+"into complete nirvāṇa."
+
+msgid "906aa1baaf9943159aaf6aa4027857d8"
+msgstr ""
+"That which neither roams within saṃsāra nor passes into complete nirvāṇa is "
+"not past, future, or present."
+
+msgid "9ce93b5b6f7243a49b37fc08f7c9df9c"
+msgstr ""
+"That which is not past, future, or present is not low, middling, or high."
+
+msgid "feb44b7d53b74941a146e9200d603573"
+msgstr "That which is not low, middling, or high is the tathatā."
+
+msgid "ec2852dc1c4c4bb1939c70607c2b48be"
+msgstr "“What we call tathathā is an expression meaning tattva."
+
+msgid "e0972193087641c584dbd742c78b121c"
+msgstr "What we call tattva is tathatā itself."
+
+msgid "5c2ab0780f2b40d3a5ae547bcf5cf95f"
+msgstr "Tathatā being the same as tattva is called tathatva."
+
+msgid "690c06bd90ce4dc0b37b18dd659aab3b"
+msgstr "Thus, the tathatā and the self are not two, they are non-dual."
+
+msgid "11c0c7d82eee437191bc489b5c08d313"
+msgstr ""
+"The meaning of non-duality is awakening, in the sense of becoming awake."
+
+msgid "5891f3f8a2284af09fc7a40b28f8eeec"
+msgstr ""
+"The meaning is explained as the awareness that enters the three gates of "
+"liberation with respect to all the Dharma teachings."
+
+msgid "b6abdd2b643340a79e5fb4bd1d83acd1"
+msgstr ""
+"The awareness is explained as engaging in the sameness of the three times "
+"with respect to all dharmas."
+
+msgid "6987d191b1d04cb08d543ac1708f6765"
+msgstr ""
+"The meaning of the inseparability of all dharmas is what is explained as the"
+" meaning."
+
+msgid "cb305807c22a4145bd5ce45f2233a05b"
+msgstr "It is voiceless,"
+
+msgid "6135406111cc48039aa472334f28f492"
+msgstr "ineffable,"
+
+msgid "af3d9e085c4c4dad8cb2e052636b53e8"
+msgstr "inexpressible,"
+
+msgid "49069f9677d84c388fbba3453050905b"
+msgstr "and cut off from any expressions."
+
+msgid "fa8fb9c7edde46c2bee8d8582649ec5d"
+msgstr ""
+"Awareness is explained as the awareness that understands the meaning and "
+"understands consciousness;"
+
+msgid "957cd4f6f2d54f4d99439d3c9d2e23ec"
+msgstr "this is explained as awareness."
+
+msgid "836f2141a2b64dcda398f56884d5784e"
+msgstr ""
+"The meaning is explained as the meaning that is established by the awareness"
+" that understands the meaning of tattva, and by the awareness that "
+"understands consciousness."
+
+msgid "2648d24b168a4cec95f96c58d3a1fb69"
+msgstr "That itself is the dharmatā."
+
+msgid "4d90c456e6b64a938ca837b6dc748630"
+msgstr "And the dharmatā is the meaning."
+
+msgid "b3479171df6b4b82b8a7335031ca08ea"
+msgstr "Sameness is the meaning."
+
+msgid "1865f8c557644d59be7ba44a231c6cd7"
+msgstr ""
+"“Mañjuśrī, for those who have attachment to form, the eye is attachment."
+
+msgid "b8f105f164974ffeb3ff53ba69a8b699"
+msgstr "Knowing the nature of form and of the eye is non-attachment."
+
+msgid "a8dc0047916e43ea999b254d5010b278"
+msgstr ""
+"“For those who have attachment to views, one’s own body is attachment."
+
+msgid "ba0990f2f85a423ab3dccbb13ef2e17d"
+msgstr ""
+"For those who have done away with all views, the awareness of one’s body’s "
+"natural emptiness is non-attachment."
+
+msgid "38b2581e9176495a956750a801e23c71"
+msgstr ""
+"“For those who are stuck in their attachment to improper mental placement, "
+"the appearance of dharmas is attachment."
+
+msgid "4628331be54443e18449db5a1ecb04e3"
+msgstr ""
+"Discerning the dharmas through proper mental placement, the awareness of "
+"emptiness by nature and emptiness of essence is non-attachment."
+
+msgid "337a957a81c741fb8824f48c88c9e7fc"
+msgstr ""
+"“For those who are stuck in their attachment to the stain of doubt, "
+"liberation is attachment."
+
+msgid "c37a9269ef5f4537b02468b2ea32d55f"
+msgstr "The authentic awareness of belief and liberation is non-attachment."
+
+msgid "6f1a94cd462147c8913e2d199b9c326e"
+msgstr ""
+"“For those who are stuck in their attachment to the stain of laziness, "
+"having present diligence toward realization is attachment."
+
+msgid "fb13fb5ca22f49b1abc1025e2e645fa6"
+msgstr "The realization of dharmas as they are is non-attachment."
+
+msgid "eeb0721d18804186a367116a287b30af"
+msgstr "The realization of dharmas as they are is non-attachment."
+
+msgid "8dd24108dd504683b57f5af46097c302"
+msgstr ""
+"“For those who are stuck in their attachment to the hindrances, the limbs of"
+" awakening are attachment."
+
+msgid "4285537b7fce48f9bfb1559521146918"
+msgstr "Liberation through unobstructed awareness is non-attachment."
+
+msgid "d1a5a80c644b423e8dea726b0e9eaa49"
+msgstr ""
+"“Being by nature completely pure, all dharmas occur due to an assemblage of "
+"causes and conditions."
+
+msgid "ab20f4a534314346b238079fcb53aa56"
+msgstr ""
+"“The sameness of the interpretable meaning and the definitive meaning is "
+"their common meaning, which is emptiness."
+
+msgid "e56a5b58b5ee4a39b7e0d3d401bfc219"
+msgstr "Because he is born due to conditions and causes."
+
+msgid "90d609e48e65470ea635f4bc7bfe293f"
+msgstr ""
+"The sameness of liberation is the same as the sameness of the dharmas."
+
+msgid "8fae87dc6d204e518bd201261f53f8f5"
+msgstr "Realization according to the sameness of liberation is awakening."
+
+msgid "2beecf2d65a24132babc8e1f5d87a19e"
+msgstr "The sameness of the person is the same as the common meaning."
+
+msgid "53b3b2c16ea6482da82565bf37292bb4"
+msgstr "The sameness of the dharmas is the same as the sameness of persons."
+
+msgid "b52204ed06ee4ab3a751c22fb6a26e7e"
+msgstr ""
+"It is sameness according to the understanding of the meaning; it is the "
+"sameness of awareness, entering the gate of non-duality."
+
+msgid "46159c39fd5e4878896a35a752fa0e51"
+msgstr ""
+"The non-occurrence of the dharma and the sameness of meaning and expression "
+"are the same with respect to the non-dual meaning."
+
+msgid "38f6419c8cd3482cbcc7a58392b0d9a2"
+msgstr ""
+"With respect to that, a bodhisattva should understand well the cause of "
+"affliction and the cause of purification."
+
+msgid "5b4a6498919d43ef88522abe8c5b10ba"
+msgstr ""
+"He should neither abide with the purity of the cause of affliction, nor with"
+" the purity of the cause of purification."
+
+msgid "a9931143320342f8bddf09c1a03b42b3"
+msgstr "“Elevating self is a cause of affliction."
+
+msgid "a806bae8659e44b6be06484efa6bf687"
+msgstr ""
+"Forbearance in one’s engagement with the selflessness of dharmas is a cause "
+"of purification."
+
+msgid "e2def3de9abd465e82dc1d9e6729e408"
+msgstr "“The view of ‘I’ and ‘mine’ is a cause of affliction."
+
+msgid "6a396efead2741b4b253908f10a31f01"
+msgstr "Inner pacification and outer non-movement is a cause of purification."
+
+msgid "87f195b5085345c2a220e4224d7bae49"
+msgstr "“Thoughts of desire, ill will, and harm are a cause of affliction."
+
+msgid "604e7a884c384f849b72b1e8f9a605de"
+msgstr "emptiness,"
+
+msgid "1cd3f14bca7648aa9af2ab8707f81a86"
+msgstr ""
+"“It is awakening, because in this way one realizes emptiness, no-sign, no-"
+"wish; no-effort, no-dwelling, no coming about; no object of apprehension and"
+" no-abode."
+
+msgid "c058e9707a8e4a219972ff40cd49026b"
+msgstr ""
+"Forbearance in one’s dealings with impure things, in one’s practice of "
+"friendliness, compassion, rejoicing, equanimity, and with dependent dharmas,"
+" is a cause of purification."
+
+msgid "878cb88d3b5447f48181c84d287ba9ff"
+msgstr "“The four distortions are a cause of affliction."
+
+msgid "c7498e68df7948c3b58d75bc79dbd7d7"
+msgstr "The four placements of mindfulness are a cause of purification."
+
+msgid "faaf42fd3c10420f990fec7310893a91"
+msgstr "“The five hindrances are a cause of affliction."
+
+msgid "f276502659ce4dbeaa45e891da81fbfa"
+msgstr "The five faculties are a cause of purification."
+
+msgid "c9bd823a70ba4b20a3bc94ea2dde6b27"
+msgstr "“The six entrances are a cause of affliction."
+
+msgid "58414320010d4b7d94dedc6f4cb3d8a9"
+msgstr "The six remembrances are a cause of purification."
+
+msgid "b8242a2946b24588a158657e811f78ae"
+msgstr "“The seven false dharmas are a cause of affliction."
+
+msgid "3c03d95af9464db7a5d1efb95c7928d6"
+msgstr "The seven limbs of awakening are a cause of purification."
+
+msgid "5b956d5b2062467ab14480d49bbf9b9a"
+msgstr "“The eight wrong modes are a cause of affliction."
+
+msgid "bd778ff01b724ee68087ff7759e7bf5b"
+msgstr "The eight right modes are a cause of purification."
+
+msgid "bb9046160e2145ba84d37442909f769d"
+msgstr "“The nine causes of antagonism are a cause of affliction."
+
+msgid "a552e0bb2ccc44c783002101c9a1c8e6"
+msgstr ""
+"The absorptions into nine successive abodes are a cause of purification."
+
+msgid "1af0d334a21540dbb0ea8896ebff8298"
+msgstr "“The ten unwholesome courses of karma are a cause of affliction."
+
+msgid "45776f8d29144b8dae0ff1b90da24f65"
+msgstr "The ten wholesome courses of karma are a cause of purification."
+
+msgid "6f5bc82bbaa149f1a3c408ae9ba0b298"
+msgstr ""
+"“In brief, all unwholesome mental engagements are a cause of affliction;"
+
+msgid "b2a8d3fcb7ec43c1909e90fd0ecc6033"
+msgstr "all wholesome mental engagements are a cause of purification."
+
+msgid "7197001553cb43cc9cdf84443ce4ebf5"
+msgstr "without a sentient being,"
+
+msgid "2a66a4300935481599952f5b532ce146"
+msgstr "without a living being,"
+
+msgid "39de4eda841344d2a8c9051bd5b9d083"
+msgstr "without one who nourishes,"
+
+msgid "fa16fc4251494e93a7f4c17f5cda3613"
+msgstr "without a soul or a person,"
+
+msgid "8f9bd11fe9e5468693122fe90e701721"
+msgstr "without a master,"
+
+msgid "4795fb4c7772482aa7c3b89d7f426c82"
+msgstr "without activity,"
+
+msgid "12c0eaf6d0b1488c80f963be59ad86e1"
+msgstr "comparable to an illusion, without characteristics,"
+
+msgid "94995026edd941879f3cfd75cc5be5a5"
+msgstr "pacified from within."
+
+msgid "075fd8d53bd14223b415399bf864fad2"
+msgstr ""
+"“In that respect, whether causes of affliction or of purification, all "
+"dharmas are by nature empty,"
+
+msgid "a0624ca11a244512aa9f36d8261d2975"
+msgstr "pacified from within they are utterly pacified."
+
+msgid "6954ae1d0d2d44a380b61ce7d9c99952"
+msgstr "Utterly pacified, they are their intrinsic nature."
+
+msgid "9b99026332d241708d487084cf882ea9"
+msgstr "Their intrinsic nature is not being perceived."
+
+msgid "e2ec53104e2c4be7a4be76b580a1bfcb"
+msgstr "Not being perceived is to have no abode."
+
+msgid "40a7efed57b944f48cfcaebe4b06ade2"
+msgstr "That which has no abode is thatness."
+
+msgid "46f0407374274b6b9032877eb25e38d4"
+msgstr "Thatness is space."
+
+msgid "d3775dff32904d85b49760e4b321b9aa"
+msgstr "And why?"
+
+msgid "d92c6c03546b4114988ef54dead42a0c"
+msgstr ""
+"One cognizes all dharmas as the same as space. One engages conventionally in"
+" the purification of afflictions, yet does not abandon the dharmatā of "
+"space."
+
+msgid "c09f82556d054f89970a425ff4fdb21e"
+msgstr ""
+"Mañjuśrī, no dharma whatsoever can be found for which there may be arising "
+"or cessation.”"
+
+msgid "e1b900a4545043dc80ae11eee0dcb835"
+msgstr "Mañjuśrī inquired,"
+
+msgid "558f5474214b4fada1a8a367323703f5"
+msgstr "“How then, Bhagavat, did the Tathāgata obtain awakening?”"
+
+msgid "1d8be0dd919f42649c82d216cdb233dc"
+msgstr "The Bhagavat replied,"
+
+msgid "645948dfed03440fa70feb25f9c0bde0"
+msgstr ""
+"“Mañjuśrī, the Tathāgata obtained an awakening that has no root and no "
+"ground to stand upon.”"
+
+msgid "c810f2fa3bf24cd98a8213c3e1bf14e3"
+msgstr "Mañjuśrī asked,"
+
+msgid "bf65758c94a54a1bb7667b3d0b2cc9a3"
+msgstr "Bhagavat, what root would that be,"
+
+msgid "d363f2946129476d9aeafbb3ed77a57f"
+msgstr "and what ground to stand upon?”"
+
+msgid "0f41e9bfd30c4f9191042a9157353b0b"
+msgstr "“Mañjuśrī, that root would be the transitory collection,"
+
+msgid "2c4bf067f22e4ad4b071cfeeadcbfb8c"
+msgstr "and that ground to stand upon the imagination of what is not there."
+
+msgid "48fc730e4915403dbe51d21eb85c16e5"
+msgstr ""
+"Then, Mañjuśrī, the Tathāgata knows the sameness of all dharmas through the "
+"sameness of awakening."
+
+msgid "f01f246015b440e990f7ec6c88bbfc04"
+msgstr ""
+"Therefore it is said, Mañjuśrī, that ‘the Tathāgata realized an awakening "
+"that has no root and no ground to stand upon.’"
+
+msgid "e401610baf24477a84b7474dfc21c17e"
+msgstr "“Awakening, Mañjuśrī, is to be at peace, utterly at peace."
+
+msgid "b62dcd31338d43c2b4715302379272a9"
+msgstr "In that respect, what is peace,"
+
+msgid "f5e268314dc14717b0765ccbcfdd1b7d"
+msgstr "what is utter peace?"
+
+msgid "cb07cd0e65b44e5fbac4045926526e70"
+msgstr "Inside there is peace;"
+
+msgid "79e491c788084d82bad2d870a68ba357"
+msgstr "outside there is utter peace."
+
+msgid "8fc0ff017af84208951fb4888634517c"
+msgstr "Why is that?"
+
+msgid "7a5a52d36ab84e31b77c6f1b1ef04773"
+msgstr "“The eye, Mañjuśrī, is empty of a self and what belongs to a self;"
+
+msgid "e2af2b88aca740ae8b9a5eb58bb1060e"
+msgstr "such is its nature. This is called peace."
+
+msgid "d31921a9e6b6426bbe8cf487da851847"
+msgstr ""
+"Thoroughly understanding that the eye is empty, one does not run toward "
+"forms."
+
+msgid "734436858e3846f792110ee8a0f93681"
+msgstr "Thus it is called utter peace."
+
+msgid "f5064bb3c6bf4506a0b991379fc7f442"
+msgstr ""
+"“In the same way, the ear is empty of a self and what belongs to a self;"
+
+msgid "f973b8eddfe843f09703878938e1e350"
+msgstr ""
+"Thoroughly understanding that the ear is empty, one does not run toward "
+"sounds."
+
+msgid "7a66e70245f34681a2d77a451185c724"
+msgstr "“The nose is empty of a self and what belongs to a self;"
+
+msgid "cbd7b858f4d045e59a228d59d1b5b594"
+msgstr "Thoroughly understanding that the nose is empty,"
+
+msgid "d1748ed3eee6439faba10e7636af1ff2"
+msgstr "one does not run toward smells."
+
+msgid "ed7c7a94f761414097fd650018118e89"
+msgstr "“The tongue is empty of a self and what belongs to a self;"
+
+msgid "8387eaa878434c76a306308799cb4600"
+msgstr ""
+"Thoroughly understanding that the tongue is empty, one does not run toward "
+"flavors."
+
+msgid "2ba9c036b93841768a1343369d266d62"
+msgstr "“The body is empty of a self and what belongs to a self;"
+
+msgid "977b86660bff404e98c0c7997d7fb5e7"
+msgstr "Thoroughly understanding that the body is empty,"
+
+msgid "11d2dd33a6434de5877de2c7421eabdf"
+msgstr "one does not run toward touchable things."
+
+msgid "3b6c4a7ac83548d69aa6ad257e6cc85c"
+msgstr "“The mind, Mañjuśrī, is empty of a self and what belongs to a self;"
+
+msgid "9748065b33f3485597e01117422c98c0"
+msgstr "Thoroughly understanding that the mind is empty,"
+
+msgid "d8451168e63e4cfda11fdf3beb466980"
+msgstr "one does not run toward dharmas."
+
+msgid "73f497bf2a6b4fd6a2802653a5ccdd50"
+msgstr "The nature is not afflicted;"
+
+msgid "b5fddb82db3449628369b42987b2135f"
+msgstr ""
+"“Awakening, Mañjuśrī, is by nature luminous, because the mind is by nature "
+"luminous; that is why it is said to be luminous by nature."
+
+msgid "43071cabc8ee41ae921452ad4c786626"
+msgstr "it is the same as space,"
+
+msgid "6e7577cc0f2b4c4c8106987b99d080cf"
+msgstr "it has the nature of space,"
+
+msgid "a868e60afa554648bc4a2888fe4e5743"
+msgstr "it goes together with space,"
+
+msgid "f0e8092ef2ca426691e75f80e59cc259"
+msgstr "it is comparable to space."
+
+msgid "966286122cc4414da3b3355efaaa42bc"
+msgstr "The nature is utterly luminous."
+
+msgid "dbe8bcb065da4181a16ee8f177b4652b"
+msgstr "“Awakening, Mañjuśrī, is without striving or giving anything up."
+
+msgid "a901b6d05c0d4015b255d0874cc7f2eb"
+msgstr "In that respect, how is it without striving,"
+
+msgid "9275fc33fc674d4e894cc348b01b6293"
+msgstr "and how is it without giving anything up?"
+
+msgid "bd084baa8f804aa5b376787a645c7f47"
+msgstr "Without striving means not to grasp at any dharma."
+
+msgid "295fb3a5f2484d28a71c1c008817ee4e"
+msgstr "Without striving means not to grasp at any dharma."
+
+msgid "4c5adf44203c4cab846df9ea2df21400"
+msgstr "Without giving anything up means not to abandon any dharma."
+
+msgid "82f8df8d2f344e2e8e8417612dfcaffd"
+msgstr ""
+"In that respect, Mañjuśrī, the Tathāgata, without striving or giving "
+"anything up, crossed the stream."
+
+msgid "451570507cf24e2fb8ea2d67f7a26178"
+msgstr ""
+"He crossed it in such a way that he does not see this shore or the other "
+"shore of tathatā."
+
+msgid "70ec1e8f4de747c19639102225436b61"
+msgstr "Thus he is called the Tathāgata."
+
+msgid "b7990c0b5b8844469b8d087479bb8d5a"
+msgstr ""
+"Therefore, the Tathāgata realized all dharmas to be free from this shore or "
+"the other shore."
+
+msgid "1ea7ca110c5e499899819a2df0bc228c"
+msgstr "“Awakening, Mañjuśrī, is without sign or reference point."
+
+msgid "26879e0abe7d4fc8893a0debf55c134a"
+msgstr ""
+"In that respect, what is signlessness, and what is the lack of reference "
+"point?"
+
+msgid "a9978f7b4c414993a1023ca32aa43c4c"
+msgstr ""
+"“That the eye-consciousness does not perceive, Mañjuśrī, is signlessness."
+
+msgid "68b070cee08540969ac35a570117ff9b"
+msgstr "That form is not seen is the lack of reference point."
+
+msgid "8cc8c2abcd7e463c9fc5501f2b395cda"
+msgstr "“That the ear-consciousness does not perceive is signlessness."
+
+msgid "458a603776f94b6db3852e6e3011846a"
+msgstr "That sounds are not heard is the lack of reference point."
+
+msgid "02a54fe7d90d4b43aab4065a5fc28db4"
+msgstr "“That the nose-consciousness does not perceive is signlessness."
+
+msgid "30f29e90112d42738f161fedfa0f43a4"
+msgstr "That smells are not smelt is the lack of reference point."
+
+msgid "8c41fc5d51ce4f9388b0f21b5cd80d87"
+msgstr "“That the tongue-consciousness does not perceive is signlessness."
+
+msgid "c9da2c05b8f944b8813effeff9ec985d"
+msgstr "“That the body-consciousness does not perceive is signlessness."
+
+msgid "71c52f5c4c7740e8ae927cc29779175b"
+msgstr "That touchable things are not touched is the lack of reference point."
+
+msgid "630a6b0bc20941dfb3e6fa30c06604a8"
+msgstr "“That the mind-consciousness does not perceive is signlessness."
+
+msgid "a0694477dffd4b7b825708dac3e31ce3"
+msgstr "That dharmas are not cognized is the lack of reference point."
+
+msgid "0a918a91e6f942808531fd29c44366e0"
+msgstr "“This, Mañjuśrī, is the scope of the noble ones."
+
+msgid "2b83d7992a9c472ea7f4b286d38d2575"
+msgstr ""
+"That which is not the scope of the three realms, Mañjuśrī, is the scope of "
+"the noble ones."
+
+msgid "2588c058c7984bcab359a88f49422799"
+msgstr "“Awakening, Mañjuśrī, is not past, not future, not present."
+
+msgid "c4bb148241fb406e9bc4a6605ada0863"
+msgstr "That flavors are not tasted is the lack of reference point."
+
+msgid "3d5b6270926d464a895e9be21a4ad725"
+msgstr ""
+"It is the same in the three times, and is cut off from the three spheres."
+
+msgid "85fb4f859335488fbd7fef13ca3bd4ad"
+msgstr ""
+"In that respect, Mañjuśrī, what does it mean to be cut off from the three "
+"spheres?"
+
+msgid "48a9fad3f1e846719b6180a6395d6b18"
+msgstr "The mind in the past is not perceived."
+
+msgid "8238603094664742af2182309e2de911"
+msgstr "Consciousness does not run toward the future."
+
+msgid "b37d9dd575b24912bb769eedfec268c2"
+msgstr "Consciousness does not run toward the future."
+
+msgid "84928e85621e40d3a684f53a21a68119"
+msgstr "Mental placement does not occur in the present."
+
+msgid "8c13c6f278444487a35ad3446bd7299b"
+msgstr ""
+"One who does not abide in mind, mentality, and consciousness does not form "
+"mental constructs or concepts."
+
+msgid "a1271744ebac4cd09e85678dc0e5230b"
+msgstr "one does not elaborate about the present."
+
+msgid "133312e2f7a44ae9b65977e67a8e424c"
+msgstr ""
+"Not forming mental constructs or concepts, one does not create the past"
+
+msgid "5607e8ddd80e46a19b57921c9b7403f3"
+msgstr "does not think of the future;"
+
+msgid "404e9d0ab5c14d728d6c005354a88264"
+msgstr "“Awakening, Mañjuśrī, is bodiless and unproduced."
+
+msgid "49d51ecc532447f3837be06a7e7bdad4"
+msgstr ""
+"In that respect, Mañjuśrī, bodilessness is what cannot be cognized by the "
+"eye consciousness,"
+
+msgid "6b7dc557e505403591c514c2f5cab038"
+msgstr ""
+"what cannot be cognized by the ear, nose, tongue, body, or mind "
+"consciousness."
+
+msgid "05dcf1592222418d8a8059d3923b2a38"
+msgstr ""
+"Mañjuśrī, that which cannot be cognized by mind, mentality, and "
+"consciousness is unproduced."
+
+msgid "2b0edf9584a342dca655f4d05ae6ded1"
+msgstr "no abiding,"
+
+msgid "a3168e10b5d7440093539d313390c295"
+msgstr "The unproduced is explained this way: where there is no arising,"
+
+msgid "c8ac4bf95d4547d7afd97a08849cd682"
+msgstr "no passing away,"
+
+msgid "b50ec85458d2419284c41b844827638b"
+msgstr "that is called the unproduced purified of the three spheres."
+
+msgid "efcb302e837a43a2b75a2e38c92c38a9"
+msgstr "And why?"
+
+msgid "8617d4b9e079400083671234a6ae9959"
+msgstr "The co-produced should be understood just like the unproduced."
+
+msgid "29c9098dcb314d30b51483c9d2e2c8dc"
+msgstr "The essence of all dharmas is no-essence;"
+
+msgid "c945ab6e97b74e92a74d03df1403b760"
+msgstr "in that respect, there is no duality."
+
+msgid "55d92c39e8ef44dc9942ca59baae9065"
+msgstr "“Awakening, Mañjuśrī, is a basis of non-division."
+
+msgid "120ec21b74924e028c9a1450fe785bb9"
+msgstr "In that respect, what is non-division,"
+
+msgid "8c9d5c65e7e3402591cd438fb786175d"
+msgstr "hat is the basis?"
+
+msgid "ff66d417cfe740b8b5ba6e650bd3ac90"
+msgstr "No-notion is non-division."
+
+msgid "b449eeab077a49b4a4bbcd5751d13f84"
+msgstr "The tathatā is the basis."
+
+msgid "c0ce4d0cb5a44f62981b1b48d2b6b76c"
+msgstr "No-ground-to-stand-upon is non-division."
+
+msgid "7eda78d39a07409fa091db43c1f1844f"
+msgstr "The dharmadhātu is the basis."
+
+msgid "f440cce43966467fb6e596babe26d578"
+msgstr "Non-multiplicity is non-division."
+
+msgid "7b431eae5be943a48338ebe81141c33e"
+msgstr "Emptiness is non-division."
+
+msgid "6679098a7b2e40eb9cf7ffaffbbf1a54"
+msgstr "The true limit is the basis."
+
+msgid "b59b0227671f4fe6b6b40d36889f2177"
+msgstr "Non-apprehension is non-division."
+
+msgid "c31bd1844f184b9f9971342e125bf493"
+msgstr "Non-movement is the basis."
+
+msgid "0feb075806144f72a528ee834c302167"
+msgstr "No-sign is the basis."
+
+msgid "cbd530f2325f44659b5ac89d5ec12629"
+msgstr "Non-deliberation is non-division."
+
+msgid "7117ea78ad7e42f7b77bbcb3627fdde8"
+msgstr "No-wish is the basis."
+
+msgid "8c38d2fd3ed54313b1747fe866d56f57"
+msgstr "Being without a sentient being is the basis."
+
+msgid "5d44826fe3eb4ffa855a194f90026f30"
+msgstr "Non-essence of a sentient being is non-division."
+
+msgid "1b7d72a383fd4892836b6a24806af6f6"
+msgstr "Space is the basis."
+
+msgid "18c2ca4333f44d5c89201f988edbbd94"
+msgstr "Non-perception is non-division."
+
+msgid "049d74cd531c4ac3a63ed6672b0c99ed"
+msgstr "Non-arising is the basis."
+
+msgid "027d54b71fb14d63b500c4e5183c91e0"
+msgstr "Non-cessation is non-division."
+
+msgid "75baca3ac6154d5ebf063428e8528212"
+msgstr "The unproduced is the basis."
+
+msgid "b450c752498e4c999f35aaa11726069d"
+msgstr "The unproduced is the basis."
+
+msgid "0978f6edb0764b15afc3044a47c9c7fa"
+msgstr "No moving about is non-division."
+
+msgid "8890f699af584b99bc4ae74b7bbce855"
+msgstr "Awakening is the basis."
+
+msgid "4d93c4cec75d4f7fadae0bb951398554"
+msgstr "Pacification is non-division."
+
+msgid "f49cc7d7ffbf493bb9e1f87f532ea0a7"
+msgstr "Nirvāṇa is the basis."
+
+msgid "a285bcad74c04ab8a41b7b1efb3bfcff"
+msgstr "Non-development is non-division;"
+
+msgid "4e07cb32a8ae433e96802ec79dc9a152"
+msgstr "non-birth is the basis."
+
+msgid "da4df787216b48e5855e32b48097ae85"
+msgstr "And why?"
+
+msgid "c0be3932bac44b5e90cf4781139ef521"
+msgstr "“Awakening, Mañjuśrī, is not realized by the body"
+
+msgid "01215c9b593f468880697b9d3a9a8507"
+msgstr "nor by the mind."
+
+msgid "211562033ce449579ad6867134bc391b"
+msgstr "The body, Mañjuśrī, is inert, motionless, and insentient."
+
+msgid "4f1ecee9dd974d9bb262ee05ab18098a"
+msgstr "It is similar and comparable to grass, logs of wood, walls, or clay."
+
+msgid "14c1d7e0c59d4ae1a43d3aaa6014f0cb"
+msgstr "“The mind, on the other hand, can be compared to an illusion."
+
+msgid "eafc45ebdc1f4888932293aeb2e79c16"
+msgstr "It is hollow, void, unreal, and unproduced."
+
+msgid "ed781fe8c15543d288322b7422639200"
+msgstr ""
+"Mañjuśrī, to realize the body and mind in this manner is explained as "
+"awakening."
+
+msgid "78892822552840d8a026206ffbe1af98"
+msgstr ""
+"This is based on conventional usage, but it is not in the ultimate sense."
+
+msgid "012d6b2bf3594fffa0869d71462cbb6b"
+msgstr ""
+"Mañjuśrī, awakening cannot be explained in terms of the body, the mind, or "
+"dharma, non-dharma, real, unreal, truth, or falsity."
+
+msgid "5ea3eb37cc9a4b3eae5a2c39bc55aba8"
+msgstr "“Awakening, Mañjuśrī, cannot be expressed through any dharma."
+
+msgid "aa15e3ad12be4d1194b121e71d4c1b3f"
+msgstr ""
+"Mañjuśrī, awakening does not have the slightest location that allows it to "
+"enter conventional usage."
+
+msgid "d6b88561d73046569d0637e73fec9f43"
+msgstr "In the same way, Mañjuśrī, awakening has no location;"
+
+msgid "6df7014f3b8842b0a1d24fe6bfa91e07"
+msgstr "space has no location;"
+
+msgid "abc3dc39e61d41b5bf8efac78e3830f0"
+msgstr "it is unproduced,"
+
+msgid "4366ae8af1524b5a95cb23341992c567"
+msgstr "non-arisen,"
+
+msgid "0611cc3eb0bd498aaf9798ac2e8b1026"
+msgstr "unceasing,"
+
+msgid "b5b901d586d1483f9f615d1dc8057678"
+msgstr "cannot be expressed."
+
+msgid "34e09a8e763e479a8412fc98cc4b0d40"
+msgstr ""
+"Mañjuśrī, when searching for the real space, it cannot be explained through "
+"any dharma."
+
+msgid "f2eaf78911c144b586e4288897292caf"
+msgstr ""
+"Mañjuśrī, when searching for the real awakening, it cannot be explained "
+"through any dharma."
+
+msgid "8b8b00d454a24576993830af709c1071"
+msgstr ""
+"Mañjuśrī, with respect to what is real, no words can be found, because it is"
+" non-arisen and unceasing."
+
+msgid "f71d59dbeb93407eb8af83b29913b64c"
+msgstr "“Awakening, Mañjuśrī, means to be ungraspable and to have no abode."
+
+msgid "11c8e4fc922e49a58d41793360815f13"
+msgstr "In that respect, Mañjuśrī, what is it to be ungraspable,"
+
+msgid "9936780a6f8a4c748f20a7d9174813a2"
+msgstr "what is it to have no abode?"
+
+msgid "ac170de765314c21b9ac6e86eb2631da"
+msgstr "what is it to have no abode?"
+
+msgid "b93f5273205d4a928380cf069b62bf2c"
+msgstr "The thorough cognition of the eye, Mañjuśrī, is to be ungraspable."
+
+msgid "5d3293c61ceb4bb08de690a87ea827a2"
+msgstr "The non-perception of form is to have no abode."
+
+msgid "82f1aee1ba4f41e1b7ea5a33956adc87"
+msgstr "The thorough cognition of the ear is to be ungraspable."
+
+msgid "efd4d739be1442549a7be747ce4b7182"
+msgstr "The non-perception of sound is to have no abode."
+
+msgid "24e8d7fb5aa94af1a67b4d5a32929349"
+msgstr "The thorough cognition of the nose is to be ungraspable."
+
+msgid "81e953944a9c4e3ca4afaffe341f58c6"
+msgstr "The non-perception of smell is to have no abode."
+
+msgid "6ef08d4febde477f8909170a177db517"
+msgstr "The thorough cognition of the tongue is to be ungraspable."
+
+msgid "61c2703784a94ed0be9dbd050eb1e1d3"
+msgstr "The non-perception of flavor is to have no abode."
+
+msgid "cf53d48eb0064873a0ec55596f9d2fd4"
+msgstr "The thorough cognition of the body is to be ungraspable."
+
+msgid "971ef3f8a54a492499c348afba41b87c"
+msgstr "The non-perception of touchable things is to have no abode."
+
+msgid "78859c40d8b24dd2948483c1847f3efe"
+msgstr "The thorough cognition of the mind is to be ungraspable."
+
+msgid "bd07659aea1f4b8a8c9c7104b628c70a"
+msgstr "The non-perception of dharmas is to have no abode."
+
+msgid "db47dfe321054c4dae47eb8a8b062a67"
+msgstr ""
+"In this way, the Tathāgata has realized awakening, ungraspable and without "
+"abode."
+
+msgid "1ecc5ecc32e448a5aac3da3069d8e64a"
+msgstr "the eye-consciousness has no ground to stand upon."
+
+msgid "724a808698374efabe2558d38de01a63"
+msgstr "Not grasping at the ear and"
+
+msgid "57e3f69d872945e3bb3309a6a3b72f27"
+msgstr ""
+"not perceiving sounds, the ear-consciousness has no ground to stand upon."
+
+msgid "f62ce47fc19245f5bec4539b6d69b5f5"
+msgstr "Not grasping at the nose and"
+
+msgid "07f1da20a0334d4eb9cd2618a8b01b16"
+msgstr ""
+"not perceiving smells, the nose-consciousness has no ground to stand upon."
+
+msgid "3d287a3050aa41fd917f31c3fdac1e77"
+msgstr "Not grasping at the body and"
+
+msgid "c54c057287e645158e0e1d51533debcf"
+msgstr ""
+"not perceiving touchable things, the body-consciousness has no ground to "
+"stand upon."
+
+msgid "597e61509c594823a59c9b8bbe021c66"
+msgstr "Not grasping at the mind and"
+
+msgid "2512d93a9c814d8fa294ded5c3e571f1"
+msgstr ""
+"not perceiving dharmas, the mind-consciousness has no ground to stand upon."
+
+msgid "290d8919d839476b8fa48e465f549387"
+msgstr ""
+"Therefore, as his consciousness has no ground to stand upon, he comes to be "
+"counted as the Tathāgata, the Arhat, the Perfect and Complete Buddha."
+
+msgid "9e16d2710dfa4aa6807c6f6ee71b0a3f"
+msgstr ""
+"“Mañjuśrī, there are four grounds for the minds of sentient beings to stand "
+"upon."
+
+msgid "d7a372f5337e40ddacd03277342d2ff4"
+msgstr "Which four?"
+
+msgid "6127a133c5664bceb547af68201a0cfa"
+msgstr "Form is a ground for the mind of sentient beings to stand upon."
+
+msgid "024da48d42344224a7c841f86af24b33"
+msgstr "Similarly,"
+
+msgid "6e153a595eee40c4aaeb43f70911424a"
+msgstr ""
+"Mañjuśrī, feeling, notion, and co-producing factors are grounds for the "
+"minds of sentient beings to stand upon."
+
+msgid "80113da7335349b8a5984026d84ec12f"
+msgstr ""
+"Mañjuśrī, these four grounds for the mind to stand upon are known by the "
+"Tathāgata to be non-arisen and unceasing."
+
+msgid "8a6629b9a8b0400baeaaa73f4caae589"
+msgstr ""
+"Mañjuśrī, these four grounds for the mind to stand upon are known by the "
+"Tathāgata to be non-arisen and unceasing."
+
+msgid "1d787b5508c040d2a55648e710219ce1"
+msgstr "“Awakening, Mañjuśrī, is an appellation for emptiness."
+
+msgid "b48b499334eb464a939edc2add87ec80"
+msgstr ""
+"Mañjuśrī, the emptiness by which awakening is empty is also the emptiness by"
+" which all dharmas are empty."
+
+msgid "5d037630aef2422ca936109ad94d12b2"
+msgstr ""
+"And the Tathāgata realized them, precisely in the way in which they are "
+"empty."
+
+msgid "a0f6f342643e4fe58251410ae7f4b130"
+msgstr "Mañjuśrī, it is not that emptiness is realized through emptiness."
+
+msgid "d0ff3958a2a64400a03b99b5e73fb125"
+msgstr "there is one single method: emptiness, or awakening."
+
+msgid "89de2a0731e74b95b4976fc0d76ff3e5"
+msgstr "And why?"
+
+msgid "786359f474314b139160daab62ebea8f"
+msgstr "Mañjuśrī, where there is no emptiness, there is no awakening."
+
+msgid "8f5c283e6751461ebdb9f0ce0e2105a0"
+msgstr ""
+"In that respect, Mañjuśrī, there is no duality by which emptiness and "
+"awakening could be made into two."
+
+msgid "d90d931daed04cd6a005f17a43d98a93"
+msgstr "Mañjuśrī, all dharmas are non-dual,"
+
+msgid "109eaf29dcf1415cbed76d3bcb0440bb"
+msgstr "without characteristics, not made into two,"
+
+msgid "d5b36765de3c4705936e8d28573feb6e"
+msgstr "without names,"
+
+msgid "9d218e2aa675499ea359ae0654ddf82b"
+msgstr "without signs,"
+
+msgid "993727963bd54c65a60ffd3e72c68136"
+msgstr "free from mind, mentality, and consciousness,"
+
+msgid "c5aba2b06538491f9affa1b1cace3c83"
+msgstr "non-arisen"
+
+msgid "0251804a15ef4a3896bd6f060eb49e88"
+msgstr "unceasing,"
+
+msgid "5ff6033136284dcf8a43bf67c0dc3025"
+msgstr "not acting,"
+
+msgid "4f02abd06ca446229238904fe5a16c5a"
+msgstr "not moving forth,"
+
+msgid "0e250dfbce1f4806b18085c90603cb7a"
+msgstr "not occurring,"
+
+msgid "1e274abfb6f74017b053572f7566e70e"
+msgstr "without syllables,"
+
+msgid "43234b2a2bf04fa59838107b95832d9b"
+msgstr "without speech."
+
+msgid "b545564ee1114425b4a607ca03a5ccfa"
+msgstr ""
+"Mañjuśrī, that which is called empty is an appellation for no attachment and"
+" no grasping."
+
+msgid "177278070d6049fea8928ea326a42509"
+msgstr ""
+"On the other hand, Mañjuśrī, in the ultimate sense, no dharma called empty "
+"is there to be perceived."
+
+msgid "8886ccea09c54db4823cd247600b0b71"
+msgstr "On the other hand, Mañjuśrī,"
+
+msgid "33c1c36f93e441ccb3d7ce726207d594"
+msgstr "the sky is called sky, yet the sky cannot be expressed."
+
+msgid "149867cbd7824a979e6d88d143249232"
+msgstr ""
+"In the same way, Mañjuśrī, we say ‘empty, empty’ as an entrance to "
+"inexpressible, empty things."
+
+msgid "c7130ea0a11c4b0db5c818f378e090dd"
+msgstr "“All dharmas are nameless,"
+
+msgid "dbde430f32ff4ceea9643d8bc81e9fb8"
+msgstr "yet all dharmas are described through names."
+
+msgid "0fa929a1939f4805803f5c70c7f7c56f"
+msgstr ""
+"Mañjuśrī, a name is not placed in either a primary or an intermediate "
+"location."
+
+msgid "6bb69f5952fd4edd9f7974c4fb097e8f"
+msgstr "without characteristics,"
+
+msgid "8c1fccc9eefd4f94a84439a54f7f5fd6"
+msgstr ""
+"“Thus, Mañjuśrī, all the dharmas are known by the Tathāgata to be, from the "
+"very beginning, unborn, non-arisen,"
+
+msgid "7f5617c89c284cec9e026cea3461e8f2"
+msgstr "free from mind, mentality, and consciousness,"
+
+msgid "395b35534dbb4958ae2248b174439e8b"
+msgstr "without syllables,"
+
+msgid "8cd0a3c6ee084215bece7a1e1e9e6947"
+msgstr "without voice."
+
+msgid "97e6ffa67151471782f9b8bd20926b0d"
+msgstr "They are known to be just free."
+
+msgid "87f2b5c15815473182469740abd55359"
+msgstr "it is not that they are first bound and then freed."
+
+msgid "0561f575fdf14bb8b3d326709bcc2853"
+msgstr "“Awakening, Mañjuśrī, is the same as the sky."
+
+msgid "8a544fa6e3f844fe8e05c73e2fd0534f"
+msgstr "The sky is neither even nor uneven."
+
+msgid "0f94934f6f724f008b8928756797806d"
+msgstr "Awakening, too, is neither even nor uneven."
+
+msgid "0013b6b90a184ecd9b18073b5b55601f"
+msgstr "And why?"
+
+msgid "def2e577e59b4f4aa6c819f47a4fbfaf"
+msgstr ""
+"Mañjuśrī, a dharma with no real perfection cannot be spoken of as either "
+"even or uneven."
+
+msgid "f5136927e832425f90876f4c79a36fc0"
+msgstr ""
+"Therefore, Mañjuśrī, all dharmas are realized by the Tathāgata as neither "
+"even nor uneven."
+
+msgid "f3a0c9414cef4b7a857390c9b7666f1d"
+msgstr ""
+"They are realized in such a way that not even an atom is made even or "
+"uneven."
+
+msgid "ef38b571865a4cb1b28a665c4556e0db"
+msgstr "Dharmas are cognized just as they are."
+
+msgid "76ad84718a024c8783a24c2698190c26"
+msgstr "“And how does that accord with the awareness of reality?"
+
+msgid "7a08825d1a9846f5b64c628ee380e1af"
+msgstr ""
+"Mañjuśrī, all dharmas, non-arisen and unceasing, come into being after "
+"having not existed."
+
+msgid "0e87265c44284053970f039e1e735e6f"
+msgstr ""
+"Just like awakening, so also feeling, notion, co-producing factors, and "
+"consciousness do not swerve from the tathatā."
+
+msgid "ff4fc40853fa415ca9e7e17ad63173c3"
+msgstr "In that respect, Mañjuśrī, what is a consistent basis?"
+
+msgid "2e989456baf04c639c879e7b677f8160"
+msgstr ""
+"Mañjuśrī, just like awakening, so also form does not swerve from the "
+"tathatā."
+
+msgid "40d9c48fe89c4e29825372364d4e9fc0"
+msgstr ""
+"In this way, Mañjuśrī, they come into existence and go out of existence."
+
+msgid "3ae2a368b32e4f38972004e5bde459a7"
+msgstr ""
+"Thus it is said that the Tathāgata teaches the Dharma for the sake of "
+"cutting off the dharmas."
+
+msgid "41e7b9d4ee6941ec8f072a08b0570817"
+msgstr "“Awakening, Mañjuśrī, is a consistent basis."
+
+msgid "62a3a75fd28d468387cda2afe7120680"
+msgstr ""
+"Just like awakening, so also feeling, notion, co-producing factors, and "
+"consciousness do not swerve from the tathatā."
+
+msgid "b3661c76becf46c0a30a085b13af5f14"
+msgstr ""
+"Just like awakening, so also the earth element does not swerve from the "
+"tathatā."
+
+msgid "3d3e01ac329c4da2b63316bd4008da64"
+msgstr "Just like awakening, so also the water element,"
+
+msgid "f3c7fc99acf94b3d976befd856987d3c"
+msgstr "the heat element,"
+
+msgid "68ebd05af2b2447798bc8514f46aa056"
+msgstr "the wind element do not swerve from the tathatā."
+
+msgid "10f6f40253d244b9998f22510ea0d338"
+msgstr "“Just like awakening, so also the eye-base,"
+
+msgid "ae7868726c6b4306a1ec05fa0f3c1294"
+msgstr "the eye-consciousness-base do not swerve from the tathatā."
+
+msgid "4bf4c84cf4024930b0ac4a911500e461"
+msgstr "Just like awakening, Mañjuśrī, the ear-base,"
+
+msgid "9d0f4f76d6ce43088cb72493465cec57"
+msgstr "the sound-base,"
+
+msgid "a85c11d8c2ee497d8726ba25d0f2b284"
+msgstr "the ear-consciousness-base,"
+
+msgid "eb0171f52afa4f95ab1850596682b666"
+msgstr "the nose-base,"
+
+msgid "9509e523220c46d4b5c7fec297f58004"
+msgstr "the smell-base,"
+
+msgid "58353a1724f64aeab1f38da765baeec6"
+msgstr "the nose-consciousness-base,"
+
+msgid "5caf96aab44241ee88ba37d94e28e621"
+msgstr "the tongue-base,"
+
+msgid "c5d6ed461c944e5c831daa580c949ba0"
+msgstr "the flavor-base,"
+
+msgid "413abb1b03284d8ea774cb460a963541"
+msgstr "the tongue-consciousness-base,"
+
+msgid "a1e981d1e0894ee395a706085949d73f"
+msgstr "the body-base,"
+
+msgid "4f2c4a3d599d47dd8ae3b55652646982"
+msgstr "the touchable-base,"
+
+msgid "cdafc8537f8d4b11a697ed15ca7adc72"
+msgstr "the body-consciousness-base,"
+
+msgid "406eaf6d714f4effbbdb87a5428dafb5"
+msgstr "the mind-base,"
+
+msgid "0379fb21e96e41628d8980b600b7d81e"
+msgstr "the dharma-base,"
+
+msgid "64a69a7393b0407195bc7b6f2caa439e"
+msgstr "the mind-consciousness-base do not swerve from the tathatā."
+
+msgid "e0d8e802194a490ea17ef682884a92b3"
+msgstr "“And dharmas can be designated"
+
+msgid "1f670a6ca8814fef8876e61242814714"
+msgstr "just as this: the aggregates,"
+
+msgid "c299825286ef47f2afd8333db85165e9"
+msgstr "the bases, and"
+
+msgid "80cc9b67c5074c83bff22fb198cef630"
+msgstr "the entrances."
+
+msgid "da2aba3097ff49e28ec1fcb776249f58"
+msgstr "And this entire set has been realized by the Tathāgata as consistent:"
+
+msgid "0adc22e1429b4d4b8679e90608e2053e"
+msgstr "as it is before, so also is it later, and in between."
+
+msgid "8baf8563a3684b28be539af13cbfefc3"
+msgstr "It is unborn in the prior limit,"
+
+msgid "b1dccfe701864cdfb81af02e32a3c6c7"
+msgstr "not transferred at the later limit, and"
+
+msgid "fa547ef4d37a4b44b9a97997123721b2"
+msgstr "isolated in the middle."
+
+msgid "39fb75c66c1244baade2f829f9d7149d"
+msgstr "In this way, for all those things there is a ‘consistent basis.’"
+
+msgid "13afd754a48d40b89eb96adfe5261ea8"
+msgstr "Just as one is, so are all;"
+
+msgid "ad09fcd6513f48c5b73b35de7381be96"
+msgstr "just as all are, so is one."
+
+msgid "b2525c995c5d4ceab2ef9b3730e9258b"
+msgstr ""
+"And in this respect, Mañjuśrī, neither oneness nor plurality is perceived."
+
+msgid "973a025c6e154bc09732a0eff28cb38b"
+msgstr "“Awakening, Mañjuśrī, enters the aspect-less by entering an aspect."
+
+msgid "d43457210fbd4251b892a1f1caaca7b3"
+msgstr ""
+"In that respect, Mañjuśrī, what is an aspect, and what is the aspect-less?"
+
+msgid "05c6d043988a48f1b3439b73d5913d72"
+msgstr ""
+"The aspect, Mañjuśrī, is explained as taking up all wholesome dharmas."
+
+msgid "4387c027cd8a4770bf24b6ad6dd25da2"
+msgstr "The aspect-less is explained as the non-perception of any dharmas."
+
+msgid "f7096606dc814e1d93fda77de9890eac"
+msgstr "The aspect is explained as the stabilization of an unstable mind."
+
+msgid "b57746b0f4474e949f9d019b0595b21b"
+msgstr ""
+"The aspect-less is explained as the gate to liberation of the samādhi of no-"
+"sign."
+
+msgid "6be18ebc0a9247cfb9de76a94086ede2"
+msgstr ""
+"The aspect-less is explained as the gate to liberation of the samādhi of no-"
+"sign."
+
+msgid "61d92a9dd3ed45c881c9346b44469fae"
+msgstr ""
+"The aspect is explained as thinking, comparing, counting, and thorough "
+"consideration of all dharmas."
+
+msgid "ce0c64d7f4c04e23b91b24d60d01d372"
+msgstr "The aspect-less is explained as transcending comparison."
+
+msgid "4a5e369dc52841818618269cd53b0fe3"
+msgstr "What is transcending comparison?"
+
+msgid "5830c725c73b4e28891ca9720e1a6b1e"
+msgstr ""
+"It is that with respect to which there is no function of consciousness."
+
+msgid "53b1765476ca4aebbb04d2be604ad754"
+msgstr ""
+"The aspect is explained as the thorough consideration of the co-produced."
+
+msgid "8bdf289625114ea49afa73cf30f42460"
+msgstr ""
+"The aspect-less is explained as the thorough consideration of the "
+"unproduced."
+
+msgid "ae9f4158c3714878b17d696ac91ce3a9"
+msgstr "“Awakening, Mañjuśrī, is without outflows and without clinging."
+
+msgid "0264631e1cdc4925b131c08fce273185"
+msgstr ""
+"In that respect, Mañjuśrī, how is it without outflows, and how is it without"
+" clinging?"
+
+msgid "bb46fa2e32014d7bb09874f1ac5a832f"
+msgstr ""
+"Being without outflows, Mañjuśrī, is explained as the absence of the four "
+"outflows."
+
+msgid "60d97a72621d45d6bd47e6d51fd71658"
+msgstr "Which four?"
+
+msgid "30f96582b43f4816b19ae35217ea4b7a"
+msgstr "They are: the outflow of desire,"
+
+msgid "99974913d106497da95ec8896564c147"
+msgstr "the outflow of existence,"
+
+msgid "f585531ac62c46bb99195bb5a64b7376"
+msgstr "the outflow of views."
+
+msgid "087f353ca8cc4b4d839b90be602d8078"
+msgstr "the outflow of ignorance, and"
+
+msgid "487871621271446a87885e6226115af1"
+msgstr ""
+"“Being without clinging is explained as the absence of four types of "
+"clinging."
+
+msgid "b098ffad34264dc18d2c138b58ac9023"
+msgstr "They are: clinging to desire,"
+
+msgid "a8acc360872b4ea88d19c73515b7402b"
+msgstr "clinging to views,"
+
+msgid "9b89844642b649348d49385d6c93ac03"
+msgstr "clinging to positing a self."
+
+msgid "bc07843db04c45c6b0b27eb3d3aeeeed"
+msgstr "clinging to one’s attachment to discipline and vows, and"
+
+msgid "19ecfe9dd03b4bdcb24b80b5fdb5f52c"
+msgstr "“Beings are blinded by ignorance."
+
+msgid "659ab6b024884463b4d50940f1510634"
+msgstr "Craving disturbs them."
+
+msgid "201b9cfc6941470fa2b93087706df56b"
+msgstr "They develop mutual attachment and cling to each other."
+
+msgid "f14bb178f52f4c778598b3aaa198318c"
+msgstr ""
+"In that respect, Mañjuśrī, the Tathāgata thoroughly understands that the "
+"root of clinging is the position of a self."
+
+msgid "5a4e4c01372b4def8e7c35abd560e122"
+msgstr ""
+"Through self-purity, he understands the purity of all sentient beings."
+
+msgid "8957b63f8122403b974950e417b44650"
+msgstr ""
+"The purity of self is the purity of all sentient beings. The purity of all "
+"sentient beings is non-dual, not divided into two."
+
+msgid "916b50d302f14a06a27618b81e4be61e"
+msgstr "And the meaning of non-duality is non-arising and non-cessation."
+
+msgid "5c31d06ae9444b27842b7a9d1824a138"
+msgstr ""
+"“With respect to non-arising and non-cessation, Mañjuśrī, mind, mentality, "
+"and consciousness do not come about."
+
+msgid "a7d55af2ea6e4f28844e322d4efe064b"
+msgstr ""
+"In that respect there is no mental construct by which one may place the mind"
+" improperly."
+
+msgid "c8ec5c2ef5ac4f7093a9a341d27a0475"
+msgstr ""
+"In that respect there is no mental construct by which one may place the mind"
+" improperly."
+
+msgid "b6b8cc71fa134b5a9bc15965bca6e188"
+msgstr ""
+"Whosoever engages in proper mental placement does not give rise to "
+"ignorance."
+
+msgid "c0390f9fcaa34e2c852a74d86aadc1cb"
+msgstr ""
+"Not giving rise to ignorance means not giving rise to the twelve limbs of "
+"existence."
+
+msgid "b9436bc04a53476bb8c710fbf316591e"
+msgstr "Not giving rise to the twelve limbs of existence means no birth."
+
+msgid "43c94e32d97d477494d2c57eb4ca454c"
+msgstr "No birth is the fixed rule."
+
+msgid "4bb901c713fd4274a3ef71cdee338873"
+msgstr "The fixed rule is the definitive meaning."
+
+msgid "56eb804bedc94f538fd3a9e9aabe4346"
+msgstr "The definitive meaning is the ultimate meaning."
+
+msgid "8092b808fed048bf967cf4dcaf068bbb"
+msgstr "The ultimate meaning means to be devoid of a person."
+
+msgid "faffda80ef2a4c3fa5678796fa0caded"
+msgstr "The meaning of being devoid of a person is the ineffable meaning."
+
+msgid "db34269e8e7844cf8dea890d31a76763"
+msgstr "The ineffable meaning is the meaning of dependent arising."
+
+msgid "ad24ba69e216474c8846b9768f7e14c4"
+msgstr "The meaning of dependent arising is the meaning of the Dharma."
+
+msgid "3d95be59a9264dc9969ea423d9a2d6d8"
+msgstr "The meaning of the Dharma is the meaning of the Tathāgata."
+
+msgid "1f8a19c7f2f84dcfac6afcce2340db17"
+msgstr "Hence it is said, ‘One who sees dependent arising sees the Dharma;"
+
+msgid "a025afc0112f44cb91d8d64be646a6e2"
+msgstr "one who sees the Dharma sees the Tathāgata.’"
+
+msgid "7b4796d76c794eb7bc8e9c7de83820fe"
+msgstr ""
+"And he sees in such a way that, when he searches, he does not see anything "
+"whatsoever."
+
+msgid "63e4a7c4b5974490900916a334b6a98e"
+msgstr "“Awakening, Mañjuśrī, is pure, stainless, and without disturbance."
+
+msgid "83e1820ac2354c03ab5555caef477b60"
+msgstr ""
+"In that respect, Mañjuśrī, what is purity, what is meant by stainless, and "
+"what is non-disturbance?"
+
+msgid "6ee6e5732df74f1ebcfa8d7ec398bc2a"
+msgstr "Emptiness, Mañjuśrī, is purity;"
+
+msgid "98601eae5336495c875dcb24dbb7f9a1"
+msgstr "no-sign is stainless;"
+
+msgid "d0d8eaecb2104a78a1a5e2abf6ded5d1"
+msgstr "no-wish is non-disturbance."
+
+msgid "02969e1aca0b4ae4859ec45a6b8d40d9"
+msgstr "Non-birth is purity;"
+
+msgid "4d43e7ac7b11438489b6cef4981df1bd"
+msgstr "non-effort is stainless;"
+
+msgid "b42e8afae12a48deaec59b7185e1ec23"
+msgstr "non-arising is non-disturbance."
+
+msgid "2f04355057a24070b6dbd48ce65c08f7"
+msgstr "The nature is purity;"
+
+msgid "d4034fc34bef42cf8a4da7960c31087a"
+msgstr "complete purity is stainless;"
+
+msgid "960e8c58abe54646a6456850d1604982"
+msgstr "luminosity is non-disturbance."
+
+msgid "9a0a350427ca4ba8916cd6ec10a33e7b"
+msgstr "No elaboration is purity;"
+
+msgid "43dd9bc167ba471abb7a3e366584ed13"
+msgstr "freedom from elaboration is stainless;"
+
+msgid "07dc784bcba64a81b5a49b7a2f04c7f5"
+msgstr "the pacification of elaborations is non-disturbance."
+
+msgid "18c4e6269fd24317bcf0b23f90c8fadd"
+msgstr ""
+"In this way, the Tathāgata has realized, through their very sameness, that "
+"all these dharmas are equal."
+
+msgid "8734ee46312b4ac0b1ce764b5fc7c5eb"
+msgstr ""
+"When one does not see the mind and the point of reference, one then sees "
+"reality."
+
+msgid "458664d066de403b8f3fdd0f135dda0a"
+msgstr "the pacification of elaborations is non-disturbance."
+
+msgid "8f629f2f3715410fb8fe776509334979"
+msgstr "The tathatā is purity;"
+
+msgid "e1e4724acb9c40f3a25907a1fd5dccf5"
+msgstr "the dharmadhātu is stainless;"
+
+msgid "512691c51dd34aac95098539bddd5070"
+msgstr "the pinnacle of reality is non-disturbance."
+
+msgid "c767169ca8ac43e0b96ba470437f5117"
+msgstr "Space is purity;"
+
+msgid "c6b952716708457f8c1f3265be21a7e6"
+msgstr "the sky is stainless;"
+
+msgid "66f75131b3ee47fa941d8c696cd2039b"
+msgstr "the atmosphere is non-disturbance."
+
+msgid "8a2532cec6b3494c8c5c439070bca286"
+msgstr "“To thoroughly cognize inside is purity;"
+
+msgid "a32c07c4b9db4657a9663d9f4070d397"
+msgstr "not to move forth on the outside is stainless;"
+
+msgid "44f5103aac5843adad750001870fc370"
+msgstr "non-perception inside and outside is non-disturbance."
+
+msgid "5c46d6515810456a9e7d93d2ee8db3bf"
+msgstr "To thoroughly cognize the aggregates is purity;"
+
+msgid "8b17d2d9906147a89bc8190e3b6dc0ae"
+msgstr "the essencelessness of the bases is stainless;"
+
+msgid "d7fb10350fe847d8981364cbe8237422"
+msgstr "putting away the entrances is non-disturbance."
+
+msgid "a227e9a5603e4f2983bdde55dc957fbf"
+msgstr "To cognize past destruction is purity;"
+
+msgid "a88652fc2ad24fe5b62603445d78160d"
+msgstr "to cognize future non-arising is stainless;"
+
+msgid "f89130e5d2af46ada2ea0b49e319701f"
+msgstr "to cognize the present abiding of the dharmadhātu is non-disturbance."
+
+msgid "2f2b1d7c811b46a08cfeca45ae28d0ed"
+msgstr ""
+"“In this way, Mañjuśrī, purity, the stainless, and non-disturbance are "
+"collected within a single basis:"
+
+msgid "13c764f9a49c4ab99cd544aee002d426"
+msgstr "the peaceful basis."
+
+msgid "040271bd2f314ef580cccb8e40187a25"
+msgstr "That which is peaceful is very peaceful."
+
+msgid "a47b86ba380248bfafa056e9f1c6e18c"
+msgstr "That which is very peaceful is utterly peaceful."
+
+msgid "86144f03cdbe443c8f688cd9476d736e"
+msgstr "That which is utterly peaceful is utter pacification;"
+
+msgid "d8ef8c6ad8134aff9af8589dc46aafe4"
+msgstr "utter pacification is called the sage."
+
+msgid "427ada74d7734d69afa42828fcc72105"
+msgstr "Thus, Mañjuśrī, just like space, so is awakening."
+
+msgid "6c1b1dc01b3e42afb5ce7add22c6996b"
+msgstr "Just like awakening, so are the dharmas."
+
+msgid "ed9a7082bc164e3b9295699eb52fb674"
+msgstr "Just like the dharmas, so are sentient beings."
+
+msgid "ced5ed8c29be43edb31e327619e3d10d"
+msgstr "Just like sentient beings, so are the fields."
+
+msgid "4e886e50096749d68ecbe9430502ead9"
+msgstr "Just like the fields, so is nirvāṇa."
+
+msgid "2b557a5d0a4943e79fa4714c81257977"
+msgstr ""
+"Therefore, Mañjuśrī, it is said that all dharmas are the same as nirvāṇa."
+
+msgid "ff73701b47dd47bdbfe2e83a42d43511"
+msgstr "Since this is their ultimate mode, there is no counteragent."
+
+msgid "e85c719561e847cebd50de6c9e31bc29"
+msgstr "Because there is no counteragent, they are primordially pure,"
+
+msgid "c8749dce97734ccc9a48fa3f2bff1646"
+msgstr "primordially stainless, and"
+
+msgid "6094d29c84f042e0936033762f668bca"
+msgstr "primordially without disturbances."
+
+msgid "4af59856f6ba444584e063c2459aee89"
+msgstr ""
+"It is thus, Mañjuśrī, that the Tathāgata realized all dharmas to be; as he "
+"observes the sphere of sentient beings, a pure, great compassion that is "
+"free from disturbances, called play, comes about toward those sentient "
+"beings."
+
+msgid "e9ec4f3c03a94e4a9ec177ff5cd7dfdb"
+msgstr ""
+"“Mañjuśrī, how does a bodhisattva practice within the conduct of a "
+"bodhisattva?"
+
+msgid "51ff2c45d2354f0d9c45d2e1a4eb8be7"
+msgstr ""
+"“Mañjuśrī, how does a bodhisattva practice within the conduct of a "
+"bodhisattva?"
+
+msgid "cc5c815097454750826e7de07b18232a"
+msgstr "nor is he disturbed by utter non-arising."
+
+msgid "6e5bed3f0dad440fb67a3c8cc7478408"
+msgstr ""
+"Mañjuśrī, a bodhisattva does not think of destruction, arising, non-"
+"destruction, non-arising, and the utter destruction of destruction;"
+
+msgid "45b1b08ce28d466b88c4aea9c0b6063c"
+msgstr "And why?"
+
+msgid "32cf3a6c61244d929967eb8db70e7290"
+msgstr ""
+"“Mañjuśrī, a bodhisattva may practice thinking that ‘form is not empty’ and "
+"also ‘not non-empty.’"
+
+msgid "b79704dce58743dfa84e2e062ffd988e"
+msgstr "‘Form itself is empty of the essence of form."
+
+msgid "835776d5e4a748649184651d22ee410d"
+msgstr ""
+"Furthermore, Mañjuśrī, a bodhisattva does not practice by thinking, ‘The "
+"past mind is destroyed;’"
+
+msgid "f59f666decf943d39a9173fbd934809b"
+msgstr ""
+"Mañjuśrī, a bodhisattva practices within the conduct of a bodhisattva."
+
+msgid "47020174e3254d268a71d4e7bbf5d7ae"
+msgstr ""
+"“Mañjuśrī, giving, awakening, and sentient beings and, on the other hand, "
+"the Tathāgata: these are non-dual,"
+
+msgid "40609190861447b0abd0b9689d315b97"
+msgstr ""
+"they are not divided into two. Practicing in this way, a bodhisattva "
+"practices within the conduct of a bodhisattva."
+
+msgid "4f5d556016c6414dbd8208819135112b"
+msgstr ""
+"Mañjuśrī, discipline, awakening, and sentient beings and, on the other hand,"
+" the Tathāgata: these are non-dual, they are not divided into two. "
+"Practicing in this way, a bodhisattva practices within the conduct of a "
+"bodhisattva."
+
+msgid "347ad3f5afe044439af58f1b72c24396"
+msgstr ""
+"Practicing in this way, Mañjuśrī, that bodhisattva practices within the "
+"conduct of a bodhisattva."
+
+msgid "9094ddf5680d4e80b0717bd2673f6f1f"
+msgstr ""
+"n the same way, feeling, notion, co-producing factors, and consciousness are"
+" empty.’ He practices thinking in this way and also thinking that ‘they are "
+"not non-empty.’"
+
+msgid "a4d54487597b480e8e4e81fa739d88ca"
+msgstr ""
+"In the same way, feeling, notion, co-producing factors, and consciousness "
+"are empty.’ He practices thinking in this way and also thinking that ‘they "
+"are not non-empty.’"
+
+msgid "127d5ec8a68b4c7ea43e855a90f381fc"
+msgstr "And why?"
+
+msgid "7df420af399d49599b1d600404422c9a"
+msgstr ""
+"Because mind, mentality, and consciousness are not perceived. “Mañjuśrī, "
+"there is no dharma whatsoever that could be thoroughly cognized, dispelled, "
+"cultivated, or directly realized."
+
+msgid "64a288a9868a40e4b7570c0f73783985"
+msgstr ""
+"Mañjuśrī, that which is understood as destruction is simply the destruction "
+"of extremes."
+
+msgid "e573aa286ab14ead83f86f08b3faba60"
+msgstr "As it is indestructible and not destroyed, it is without destruction."
+
+msgid "6286305b25ee479891c55d091441b981"
+msgstr ""
+"And that which is completely destroyed is not something one should cause to "
+"be destroyed."
+
+msgid "d4afcfe61100470f8ce7dc147180b61b"
+msgstr "It conforms to destruction;"
+
+msgid "399d6900f22d46dca00b29e515202647"
+msgstr "conforming to destruction is the destruction of nothing whatsoever."
+
+msgid "4425b049e80744a09617881d9cadd892"
+msgstr ""
+"And that, wherein there is no destruction of anything whatsoever, is "
+"unproduced."
+
+msgid "44fd008841974c008ad46da0d9b7c563"
+msgstr "With respect to the unproduced, there is no arising"
+
+msgid "b699a0a4c81c4e17a068e45b64570962"
+msgstr "and no cessation."
+
+msgid "f2937ea589b848349efd332af6e8e8d3"
+msgstr "“Therefore it is said, ‘Whether the tathāgatas arise or not,"
+
+msgid "b927cbce44c64ba2a891233272f4d5ea"
+msgstr ""
+"this dharmatā is invariable; it is the invariability of the dharmas, the "
+"dharmadhātu.’"
+
+msgid "f98a07ab9ed749c6bf1703a09044107a"
+msgstr ""
+"Just like the invariability of the dharmadhātu, the Tathāgata’s awareness is"
+" neither occurring nor ceasing."
+
+msgid "952234a56c7b47b88fed7693cdea514a"
+msgstr ""
+"The destruction of the outflows, Mañjuśrī, is a conventional expression, "
+"speech, syllables, sign, and designation."
+
+msgid "273d4131232e40288bedb6d33e5b60ba"
+msgstr "Here no dharma whatsoever arises or ceases.”"
+
+msgid "22eaa1977a7844e09075ae8b419a35e2"
+msgstr "Then the youthful Mañjuśrī rose from his seat,"
+
+msgid "a3288b0820a6454d877ef52289cbe617"
+msgstr "folded his upper robe,"
+
+msgid "8bfe0cca18c94e428b3f6382184a7e7d"
+msgstr "placed his right knee on the ground."
+
+msgid "2e76ebc6cbff450bb30158fbf1d09c0d"
+msgstr "Folding his hands in the direction of the Bhagavat,"
+
+msgid "cb2b0c91ac8d4408a796fa1e7e828f84"
+msgstr "he praised him with these verses:"
+
+msgid "7b40eaddcb4544ccb2abd2f5eb1ebc85"
+msgstr "“You have no color, sign, or shape,"
+
+msgid "8a0a3b2e1b7d45c980dbffdca2ab778a"
+msgstr "you are free of any point of reference: I bow to you!"
+
+msgid "89016ed1b9f24822b5793cecdc75758e"
+msgstr "“You have no ground to stand upon,"
+
+msgid "0667aad2288242bebe8d0321b40832ad"
+msgstr "No striving or giving up;"
+
+msgid "a6f17711fd504f08b9ebd5cef7085b21"
+msgstr "“You are not situated in any dharma,"
+
+msgid "d8140a19ce0242f289ba53e1dd58b650"
+msgstr "Bereft of existence or non-existence."
+
+msgid "ff54e4bd92274f3eaa47570881d48ec0"
+msgstr "You obtained the sameness of co-producing factors,"
+
+msgid "a52068133da24a0bb9b357b555e159c0"
+msgstr "“Free from the three world spheres,"
+
+msgid "70ec12277a53477ab9f7f1ed8998de53"
+msgstr "You have attained the sky’s own sameness."
+
+msgid "f10a71ee180140a3bb7c66aab8a6333b"
+msgstr "You are not defiled by desires,"
+
+msgid "76130f3601754bee8c8b2d1a93be2822"
+msgstr "No root and no ground to stand upon,"
+
+msgid "1f6ce7824c91416b9e708053b7e318f5"
+msgstr "No cessation or origination,"
+
+msgid "73e4ee67768b4e79b3d55a55d655a1ae"
+msgstr ""
+"Entering the Dharma method in this way, the outflows do not arise and do not"
+" cease."
+
+msgid "4b665f05d7ac499692b56610e1486183"
+msgstr "he does not practice by thinking, ‘The present mind abides.’"
+
+msgid "078094a0ecd04996b8acbf3bde57da74"
+msgstr ""
+"he does not practice by thinking, ‘The future mind has yet to be obtained;’"
+
+msgid "208a9831aa7d4322a4f53de1d1c58f2a"
+msgstr ""
+"He is not stuck in the past, future, or present mind. As he practices in "
+"this way,"
+
+msgid "36f8533f4bd0422cbb703fa385abe41a"
+msgstr "the Tathāgata; diligence, awakening, and sentient beings, and,"
+
+msgid "995239cfb87f47c1825fa6f33bf0c776"
+msgstr "the Tathāgata;"
+
+msgid "f34dc4d381d84845a08d7f791b346964"
+msgstr "awakening, and sentient beings, and,"
+
+msgid "ebefdb8661284cd9b462ab4acff8f64e"
+msgstr "These are non-dual, they are not divided into two."
+
+msgid "0439bf0ab352405cbaf760c8129acd60"
+msgstr "“You always remain in samādhi,"
+
+msgid "29ccc3eae9d844d1a8e3939d8d41815a"
+msgstr "Whichever your posture may be."
+
+msgid "917035b860344a90bec1f3d771c953ed"
+msgstr "As you move, stand, or lie down—"
+
+msgid "42f7cf62edb046c89cf3098554f93ad0"
+msgstr "“You arrive evenly and go evenly,"
+
+msgid "bb765bba913246cb8acac30df2b55873"
+msgstr "Remaining well placed in sameness."
+
+msgid "a92d2ee60c8f4bcfaccfd7e1335fd0ab"
+msgstr "You are not disturbed at sameness,"
+
+msgid "4892958467164e1591cc91b15a93835d"
+msgstr "“You are absorbed in sameness,"
+
+msgid "30764d7a7e4d4569854c16195bd04063"
+msgstr "In samādhi within all dharmas."
+
+msgid "b42ede1bd28a45c08e75f38562183436"
+msgstr "Absorbed in the sign-less,"
+
+msgid "2e98a4776dfa425291964788bac31e01"
+msgstr "“Unplaced, without point of reference,"
+
+msgid "b8d9dd13aa634be18d63299cf70f268e"
+msgstr "Your samādhi is the peak of wisdom."
+
+msgid "3d90d0c89fb94ee6af1733c51f75bde8"
+msgstr "You have become the lord of Dharma,"
+
+msgid "efcb1b6d29604960b4f257c63a6c20c7"
+msgstr "you are free of any point of reference: I bow to you!"
+
+msgid "81b3824806d64a74b90eab1d0458230b"
+msgstr "free from the six entrances,"
+
+msgid "c6bc8e42c1cb401e9fe653e67651ea20"
+msgstr ""
+"“In one instant, you see The forms, voices, and postures Of all sentient "
+"beings."
+
+msgid "4e55ed499ae148dfa14b82349ad3aeaf"
+msgstr "“Free from name and form,"
+
+msgid "504592e6c6a44ccaa28d76ab81740203"
+msgstr "You cut off all causes and aggregates."
+
+msgid "34f11210812947f48e676760e3bc79df"
+msgstr "You are the entrance into the aspect-less,"
+
+msgid "4f1da421f1d44b8ebef7e277470cd3c9"
+msgstr "“You are free from signs"
+
+msgid "e78af99fe4a74035b56bf7ddb16fde10"
+msgstr "And bereft of their aspects."
+
+msgid "7762452fd4ed451d9549215d205b4825"
+msgstr "You are the entrance into the sign-less,"
+
+msgid "f8b1d054496940a1b30f801351930042"
+msgstr "“You do not form concepts,"
+
+msgid "55304d2361fc470ab9d024b8201a2d7f"
+msgstr "your mind has no ground to stand upon."
+
+msgid "b944ddcb1ac948019a47800e919c00b3"
+msgstr "You have no recollection or mental placement,"
+
+msgid "77dd7c0d5e4c4c3690bac0315beaedf0"
+msgstr "“Space is without abode;"
+
+msgid "d1a64976c10c4254b33406a007f28019"
+msgstr "It is free from elaboration and stainless."
+
+msgid "33f90d48936441029f8a2a9e88170634"
+msgstr "Your mind is the same as space,"
+
+msgid "cccf22fdafc04badad1945e84f9d717b"
+msgstr "“Space is without edge or center,"
+
+msgid "af78ed034700455d9a4d089f02fc57b2"
+msgstr "so, too, is the dharmatā of the buddhas."
+
+msgid "481c05567fa546e88edc51e430357060"
+msgstr "You have gone beyond the three times,"
+
+msgid "ca802a5703d74bc9874af5ccbc327ef7"
+msgstr "You have gone beyond the three times,"
+
+msgid "5c21fcbb738e4f2abd555af1d12f76a3"
+msgstr "“The buddhas have the characteristic of space,"
+
+msgid "37cad0e33df246a0ae358c052bd72911"
+msgstr "And space has no characteristics."
+
+msgid "e8681b105b484db1a33ef52e53122a10"
+msgstr "You are free from effect and cause,"
+
+msgid "b2cb7ce5858a430ea5cc1b12a384da3c"
+msgstr "you cannot be grasped:"
+
+msgid "54d7b717ad524d1d9ade8bd8c2688417"
+msgstr "“Like the moon in the water,"
+
+msgid "ee549be32cda43619dfad6ac326a4d99"
+msgstr "You are not placed in any dharma."
+
+msgid "cedf5e46f4294377b1500a3092a4b1e6"
+msgstr "“Free from the two extremes,"
+
+msgid "0f3751bd3ddd45778bf85511f6bf456e"
+msgstr "You cut off the view of ‘self.’"
+
+msgid "3ccd4e2adfaa4bfeaa422b899b9a39e0"
+msgstr "You obtained sameness with the dharmadhātu,"
+
+msgid "0e73fac2a7b04b2eba61e5adfac31f14"
+msgstr "“You are free from form and number,"
+
+msgid "5a87853bccf64206b6f6b2516e370fd8"
+msgstr "“You are not dwelling in the aggregates, The bases, or the entrances."
+
+msgid "3b206544158649759d00cf518b7b148c"
+msgstr "You are free from distortions,"
+
+msgid "cc33c8bdd0e6466a8ed077720c15ac63"
+msgstr "bereft of any false dharmas."
+
+msgid "8d600c6ebb9d491599075f7ea40e46bb"
+msgstr "You neither cling to, nor abandon,"
+
+msgid "6fa378eb4ed343afbd30eb88859cbf0b"
+msgstr "“You have gone beyond the faults of Māra"
+
+msgid "ff8b885fbe7447beb9549d3ae413bb33"
+msgstr "reached the path of the dharmadhātu."
+
+msgid "a50767ac927645c3896675d2557cc723"
+msgstr "You have the feature of non-obscuration,"
+
+msgid "e5f85f5f94b74c1aa47fd0a9d8d66e0c"
+msgstr ""
+"“Those who understand the meaning, Do not say ‘he exists’ or ‘he does not.’"
+
+msgid "58a9d875975049a598b8565b062ba282"
+msgstr "You are not in the realm of words,"
+
+msgid "f4651f4ddff14337b79cd6c9031d1e6c"
+msgstr "“Not relying on duality,"
+
+msgid "4b00b6bf7bc44b1d89a76fed3d21f16c"
+msgstr "You are free from duality and non-duality,"
+
+msgid "2204d8b555e64ff0b1a8e69d32349daa"
+msgstr "You cut down the banner of pride."
+
+msgid "a21ee9600b8349f289a811eefe21a274"
+msgstr "You are inconceivable, without compare,"
+
+msgid "db480f50c58a45e4a8b95b87c931f00a"
+msgstr "“You have subdued all mental flaws, And the four flaws of the body."
+
+msgid "fe1e553d72d544dcb27440af582ee999"
+msgstr "“You conduct yourself effortlessly,"
+
+msgid "9e3fc523bcf24fa9a864ee934fd39bee"
+msgstr "you are bereft of any flaws."
+
+msgid "0bf5e38d55be47d6a721c635f42370bf"
+msgstr "Awareness precedes all your actions,"
+
+msgid "a32c4da0d1a7441393d29ab2c3423727"
+msgstr "Your recollection has no outflows:"
+
+msgid "38678f07fa7e498c8ab800b419f93336"
+msgstr "It is subtle and conforms to what is real and unreal."
+
+msgid "39abd355b1bc4637a94a982242fc82d5"
+msgstr "You have no abode and no thoughts,"
+
+msgid "04c2a02db60f4c75b0071a8f1a54bd70"
+msgstr "“With your mind free of a point of reference,"
+
+msgid "f966aca3ccb44228a27bfd74c1b40c91"
+msgstr "You understand well the mind of all,"
+
+msgid "28171d869cd944cc859f9f983c55358c"
+msgstr "While having no notion of ‘self’ and ‘others.’"
+
+msgid "10a503d470654972b36a80ed835da19c"
+msgstr "You remain unobscured,"
+
+msgid "afe073a25d324593bad31e7cca2d87f2"
+msgstr "Makes everyone’s mind bewildered."
+
+msgid "04f0367a3ea140eea31cf2cc1a4867ce"
+msgstr "“Taking up points of reference"
+
+msgid "f2ee3620ed404dedba7e164539b0b8ac"
+msgstr "you are free of any point of reference: I bow to you!"
+
+msgid "95ac62354c964f59a2eba66212342cef"
+msgstr "a mind without point of reference"
+
+msgid "ad6565a66e874524b843e22799d5cd45"
+msgstr "Cannot essentially be found."
+
+msgid "63867ece2ddd465497729a4e05c929cb"
+msgstr "You obtained inconceivable sameness,"
+
+msgid "44afaee39104462e9b2af59a10901962"
+msgstr "“With your unplaced awareness,"
+
+msgid "4368fc9defb24215b433911557cf4936"
+msgstr "You see all the fields,"
+
+msgid "40399a8d9a6c49788c291bc866e6764d"
+msgstr "And the conduct of all beings."
+
+msgid "696e461811de416095a0c258a8c630a5"
+msgstr "you know everything about all dharmas."
+
+msgid "bda693ae705d40b6a6856c2350c80d3b"
+msgstr "“The buddhas do not apprehend the mind, In any way, ever;"
+
+msgid "c852bda8589d41fbad739bee1d9a7f16"
+msgstr "“Illusion-like are all dharmas,"
+
+msgid "ebaff15c34a84c87ad807f08cc1bb9fd"
+msgstr "Yet the illusion itself cannot be found."
+
+msgid "8cc3bfb1ad884e5a80bcbe16764dc38f"
+msgstr "You are free from the dharma of illusion,"
+
+msgid "c5ed78bd7a2247129d537eea4b0c4078"
+msgstr "“Perfect Buddha, you act in the world,"
+
+msgid "de0dc79aeed041308bb509fe410c9a94"
+msgstr "Not dwelling upon worldly dharmas,"
+
+msgid "f5e173ae6e024e5f9754a8c79882ce64"
+msgstr "you do not form concepts about the ‘world.’"
+
+msgid "09624b21f415427ca074872edb27ff42"
+msgstr "You declare what is empty as empty,"
+
+msgid "9ec8de6b261447078a9df50ca6a11f59"
+msgstr "You are absorbed into freedom from multiplicity,"
+
+msgid "01fa9edfbe9f4ea380fbbbe59df604b4"
+msgstr "“Through great powers and illusory samādhi, You perform miracles."
+
+msgid "475eef8374dd48ae99fa0a3f27a2dd4a"
+msgstr "“You are neither one, nor many,"
+
+msgid "918fe0139435454e988846057bd616df"
+msgstr "You are neither far, nor near."
+
+msgid "79b99408f0944e8dad55e66e97dd4122"
+msgstr "You neither remove, nor add,"
+
+msgid "efe8d8f0532a4911b60685f65ee09d02"
+msgstr "“Through the diamond-like samādhi,"
+
+msgid "bc007b938508495cb7a3f178976269db"
+msgstr "You obtained supreme awakening in one instant."
+
+msgid "1e16cfebb33b46058966e6216be702a1"
+msgstr "You are absorbed into non-appearance,"
+
+msgid "295b0f4633d84247b27555516aa4ad7f"
+msgstr "“You know nirvāṇa to be unmoving in the three times."
+
+msgid "64ddcd08e1a94118a3718909f190b631"
+msgstr "You are a guide endowed with many methods,"
+
+msgid "ff83303284c64d9694d85a62c7ddeb0a"
+msgstr "You know nirvāṇa to be unmoving,"
+
+msgid "36bb0ac85c1b45f8a20ce555321b7dd1"
+msgstr "“You are expert in understanding which methods,"
+
+msgid "e60604805e5244a98ed3463310aa058b"
+msgstr "“You are free from signs, effortless,"
+
+msgid "6f3b31a10e844c24826f214af52beb57"
+msgstr "Free from elaboration, and untainted."
+
+msgid "2aa704a6f86542c8bde38df6ee6eea4e"
+msgstr "Free from appearance, free from a ‘self,’"
+
+msgid "32eaf4b7097749129007e1523124aa04"
+msgstr "You are omniscient with respect to everything,"
+
+msgid "87fb13a3bdf046f08063395d4ba9bb33"
+msgstr "You yourself know the self as it is."
+
+msgid "c89023c313794a608d4a33c3b92d58cf"
+msgstr "“Free from concepts, free from what belongs to a self,"
+
+msgid "90787bd72a804f22a4fe325b94148346"
+msgstr "you are free of any point of reference: I bow to you!"
+
+msgid "dac54ac276ac4053871c4e7cee9756d8"
+msgstr "“I salute you, who have ten powers and have crossed the stream."
+
+msgid "bab546ce9e4d42f3a70bbfe56f9947ad"
+msgstr "I salute you, the fearless one who bestows fearlessness."
+
+msgid "e98a24b78f9b442996da651dcb248fde"
+msgstr "You obtained certainty in the unshared dharmas:"
+
+msgid "2a20ac0b885f423099aba7e2e4c38beb"
+msgstr "Guide for the entire world, I salute you."
+
+msgid "b734a512e7384cf5a1752482cc21d3f1"
+msgstr "“I salute you, who break the bondage of fetters,"
+
+msgid "e57ec690ead34720a32743cd32c6a716"
+msgstr "I salute you, who reached the other shore and remain on dry ground."
+
+msgid "4add3787aff241989c8a1070937eb3cf"
+msgstr "I salute you, guide for the exhausted world."
+
+msgid "f58f6db81e3743b79abe91203f56101f"
+msgstr "I salute you, who go to saṃsāra and remain unplaced."
+
+msgid "4f8751d0dfaf48b1a3284d0d29ac8a34"
+msgstr "Sage, Buddha, you practiced emptiness!"
+
+msgid "6cbce92737814941831263c878a553c5"
+msgstr "You are untainted, like a lotus by the waters it grows in;"
+
+msgid "a0a51c52f2274fb588231139f3383c6c"
+msgstr ""
+"I salute you, who are free from a point of reference and crossed the great "
+"stream."
+
+msgid "2f785fadc1574ff29c8c45ef581ae0b8"
+msgstr "“Isolation is the unexcelled state of the Teacher;"
+
+msgid "11cb7bfbaa1e434ab85b824664c86447"
+msgstr ""
+"“I salute the inconceivable Buddha of great power, Who is the same as space "
+"and without abode."
+
+msgid "e3d32bf0170b4a48b397e83093cb88d8"
+msgstr ""
+"You have thoroughly eliminated all signs, And you wish for nothing "
+"whatsoever."
+
+msgid "3f0fd5b132264e54a87d3f4eae2770b0"
+msgstr "I salute you, supreme holder of all good qualities."
+
+msgid "8b5b75cd2d1140b39a05c443b33a3389"
+msgstr "I salute you, whose glory rises up like Meru.”"
+
+msgid "f86c3c0cc5f141afa60d4f2e5e1c4677"
+msgstr "Then the Bhagavat praised the youthful Mañjuśrī:"
+
+msgid "40fe5379be5e4369865630d1f10dc2b8"
+msgstr "“Good, Mañjuśrī, that is good!"
+
+msgid "d587a461e5f147faaab842750348b9a1"
+msgstr "You have spoken well, Mañjuśrī."
+
+msgid "29dc9b172cba4d55aa590cbdad10aae8"
+msgstr "It is just as you said."
+
+msgid "fce6b3d5a6774cffb2e25ae2af2ece17"
+msgstr ""
+"Mañjuśrī, the buddhas should not be seen through form, through dharmas, "
+"through characteristics, or through the dharmadhātu."
+
+msgid "87677d65a75b4b328b6b70795f6d174b"
+msgstr "The buddhas do not stay by themselves"
+
+msgid "7adb6eacbe8243abbc03a6c3e60b5d8a"
+msgstr "nor do they reside among many people."
+
+msgid "192c43c4e392405691cd3a83b0042dbd"
+msgstr ""
+"The buddhas have not been seen by anyone, nor heard, nor worshipped, nor are"
+" they being worshipped now."
+
+msgid "4e1717bd5887427ca5d8420dc5a7d8e9"
+msgstr "“The buddhas did not obtain awakening."
+
+msgid "7edb4573d1634c649de08ce77efe0878"
+msgstr "The buddhas do not make oneness or plurality out of any dharma."
+
+msgid "68602ffb9aeb41339637dc071a5789d5"
+msgstr "The buddhas are not increased by any dharma."
+
+msgid "ba9124d47927431bac2ae4367d92eb2f"
+msgstr ""
+"No dharma has been seen by the buddhas, nor has it been heard, recollected, "
+"cognized, or known."
+
+msgid "0e4b4047215945cea19c4e8ed1662fda"
+msgstr ""
+"No dharma has been seen by the buddhas, nor has it been heard, recollected, "
+"cognized, or known."
+
+msgid "f591da136f40450c8843d04768a4ad5b"
+msgstr "The buddhas have not spoken or expressed anything."
+
+msgid "39506e6cf2704049bb4b05c0034675b8"
+msgstr "They do not speak or express anything."
+
+msgid "b712a9febe8b4c9d8aed58382ae47c5a"
+msgstr "They will not speak or express anything."
+
+msgid "61e30e1b73484089b2b658c16dbacba4"
+msgstr "The buddhas do not gain supreme realization."
+
+msgid "0dbb8a9ddf134d89a30e50a7e360090c"
+msgstr "The buddhas do not supremely realize any dharma."
+
+msgid "2b05c2007b724369b097e8f10fbe5c30"
+msgstr "The buddhas’ afflictions have not been destroyed."
+
+msgid "341fdb9cfc584493a6ef0a907d3be894"
+msgstr "Buddhas have not directly realized purification."
+
+msgid "c1f10b75d29a42c2ae14d432ae181efb"
+msgstr ""
+"Buddhas have not seen any dharma, nor heard it, smelt it, tasted it, touched"
+" it, or cognized it."
+
+msgid "65c8ae1cd7004c80859c7101dad81847"
+msgstr "And why?"
+
+msgid "a54cd7b77b584d7981da39a6f7177baa"
+msgstr "Because of the primordial purity of all dharmas."
+
+msgid "8af3f00af5b64d4685dc1b13bec420f0"
+msgstr "such a person engenders even more merit."
+
+msgid "c84a39b0b618443497bd5df3d0f9288f"
+msgstr ""
+"All the more so for one who writes down this Dharma teaching or makes others"
+" write it"
+
+msgid "05a4b8fd064b41f584587a349847b4e3"
+msgstr ""
+"“Mañjuśrī, there are many sentient beings to be found in the great "
+"trichiliocosm, whether born from an egg,"
+
+msgid "6588082b5f3d4a88b9a5f3c9dfae71ec"
+msgstr "born from a womb,"
+
+msgid "72cdadbdf5a14446ab9b973e1ee7dcb8"
+msgstr "born from moisture,"
+
+msgid "83a3082d08e546a6ac006280bb4f9e0d"
+msgstr "born suddenly;"
+
+msgid "6d603273f71648888db3f36c3da4c3b6"
+msgstr "some with form, others formless;"
+
+msgid "d522f9c172754a95b999ed92d194264e"
+msgstr "some with notions, others without notions;"
+
+msgid "67dd5081579547fdaf904b7e48c4296d"
+msgstr "some without feet, others with two feet,"
+
+msgid "e16aecb054334c449f444f20af63b910"
+msgstr ""
+"some with four feet, or with many feet. Now, imagine that all of them obtain"
+" a human body, without precedent, but not their last."
+
+msgid "e251870e7c1348df8058c0d95e4e137c"
+msgstr "Once they obtain a human body, they give rise to bodhicitta."
+
+msgid "7efa0767062a4f769df902fb042b88cd"
+msgstr "Having given rise to bodhicitta,"
+
+msgid "190cb6c88d4a4a65a1763a9d32809110"
+msgstr ""
+"each and every one of those bodhisattvas attends as many buddhas, together "
+"with bodhisattvas and hearers,"
+
+msgid "461901aadab64fb483809c29d9398588"
+msgstr ""
+"as there are atomic particles in buddhafields as numerous as the grains of "
+"sand in the Ganges."
+
+msgid "f4333db0b61742acb0ce9ba710df3f5e"
+msgstr "he collects all the necessities for their happiness."
+
+msgid "66b52b9431d04b0b9e97cc9ef6972965"
+msgstr ""
+"offers robes, alms-food, bedding, seats, herbs that counteract illness, and "
+"provisions,"
+
+msgid "5ddb4cc2cb14422983affaad05200a9d"
+msgstr "for as many eons as the number of grains of sand in the Ganges."
+
+msgid "d5aa339d0f6b4daab062543ff558e339"
+msgstr "pearls,"
+
+msgid "9ac17d4545134814b473b759c5b36851"
+msgstr "with raised umbrellas, standards, and flags,"
+
+msgid "e7ab3bb843fe453aa76c1aa5ea4fe070"
+msgstr ""
+"“Now imagine another bodhisattva, with the right inclination, who listens to"
+" this Dharma teaching, The Ornament of the Light of Awareness That Enters "
+"the Domain of All Buddhas, and then believes in it, engages with it, trusts "
+"it,"
+
+msgid "cb47bc7c2dff460196274648c28f3af6"
+msgstr ""
+"realizes it, or teaches at least one of its stanzas. Compared to the "
+"bodhisattvas first mentioned, he would engender even more uncountable merit "
+"that would lead him to follow the awareness of a buddha."
+
+msgid "8fcaededd053434980c5c3b28320feec"
+msgstr ""
+"Compared to the merit he would produce, the production of merit in the first"
+" instance, consisting of the bodhisattvas’ acts of giving, would not even "
+"amount to a hundredth part."
+
+msgid "ef1e1457436045e2b65f0d44b243dcc6"
+msgstr ""
+"It would not even count for one thousandth or one-billionth of it. It would "
+"not even count as any part, any number worthy of consideration, simile or "
+"approximation of any kind."
+
+msgid "9991586261164efda3f0d092e82f2984"
+msgstr ""
+"“Mañjuśrī, imagine a householder bodhisattva who attends as many buddhas and"
+" bodhisattvas,"
+
+msgid "b4b0432cde9f43be8c5e5944fcd66788"
+msgstr ""
+"together with their saṅgha of hearers, as there are grains of sand in the "
+"Ganges, for eons as numerous as the grains of sand in the Ganges."
+
+msgid "2c4b28f1885a40afaac1c832ffd6e230"
+msgstr ""
+"He would offer them robes, alms-food, bedding, seats, remedies for "
+"exhaustion, medicinal herbs, and provisions."
+
+msgid "186f18e10c194103a51c914534701282"
+msgstr ""
+"another ordained bodhisattva, disciplined and with the right inclination, "
+"may give a morsel of food to a single sentient being born as an animal."
+
+msgid "79bbb0c7632d4af9b2a0989258ced5c9"
+msgstr ""
+"another ordained bodhisattva, disciplined and with the right inclination, "
+"may give a morsel of food to a single sentient being born as an animal."
+
+msgid "6c4704a8078547a79924e7741b1d91a0"
+msgstr ""
+"Compared to the merit he would produce, the production of merit in the first"
+" instance would not even amount to a hundredth part."
+
+msgid "9735632a89034f1480d208be7eec4b8b"
+msgstr ""
+"together with their saṅgha of hearers, as there are grains of sand in the "
+"Ganges. He would offer robes, alms-food, bedding, seats, remedies for "
+"exhaustion, medicinal herbs, and provisions, for eons as numerous as the "
+"grains of sand in the Ganges."
+
+msgid "dbd227ac34594816bd2e205090955288"
+msgstr ""
+"“Mañjuśrī, imagine as many bodhisattvas as there are atomic particles in the"
+" great trichiliocosm, all of them ordained, disciplined, and pure in their "
+"inclinations. Each bodhisattva would attend as many buddhas and "
+"bodhisattvas,"
+
+msgid "7c582cebe0c64041b25ac167671e2c43"
+msgstr ""
+"Compared to the merit he would produce, the production of merit in the first"
+" instance, consisting of the bodhisattvas’ acts of giving, would not even "
+"amount to a hundredth part."
+
+msgid "048bc65f8f5d4503aa2aedbeb42700aa"
+msgstr "It would not even bear approximation of any kind."
+
+msgid "a7aaef7b2c9f47e79c3e489417049648"
+msgstr "It would not even count for one thousandth or one-billionth of it,"
+
+msgid "ebc88e540efe406db1a902c95b309d90"
+msgstr "It would not even count for one thousandth or one-billionth of it."
+
+msgid "fb52c36217bc4c77be82b6c129c11e62"
+msgstr "offer it as a gift to the buddhas, the bhagavats."
+
+msgid "882b4ddc3598474c9743e4477bb34edc"
+msgstr ""
+"“Mañjuśrī, imagine that a bodhisattva great being were to fill the great "
+"trichiliocosm with seven precious substances and"
+
+msgid "14ccf676d76b4088b4620dc044bd0b92"
+msgstr ""
+"But another bodhisattva may teach just a four-line stanza from this Dharma "
+"method to another bodhisattva."
+
+msgid "5cf7105d9e754208bb39822e92844aec"
+msgstr ""
+"Compared to the merit he would produce, the production of merit in the first"
+" instance would not even amount to a hundredth part."
+
+msgid "c75076bc673e44beb9812599d14c73c9"
+msgstr "It would not even count for one thousandth or one-billionth of it"
+
+msgid "36b1ebd5123f4f18b7dead3e3c2346d5"
+msgstr "It would not even bear approximation of any kind."
+
+msgid "4906f8bfe3b64b8d9dfc3f45f3308364"
+msgstr ""
+"“Mañjuśrī, consider that the production of merit of someone giving offerings"
+" were to continue for as many eons as there are atomic particles in a great "
+"trichiliocosm."
+
+msgid "a6297b2d160e44818aaae2491998420c"
+msgstr ""
+"Mañjuśrī, bodhisattvas as numerous as the grains of sand in the Ganges would"
+" be there;"
+
+msgid "75938a570e674d89973ed5e4c1464175"
+msgstr ""
+"each bodhisattva would cover as many golden buddhafields as the number of "
+"grains of sand in the Ganges,"
+
+msgid "190a63e942c649a2b34aa32972b03001"
+msgstr ""
+"all their trees, with divine clothes, and then cover them in nets of gems "
+"and jewels shining in all possible ways."
+
+msgid "4e6a23a200604ad0a8f81efbfd74d139"
+msgstr ""
+"He would then fill them with high palaces made of precious vaśirāja gems"
+
+msgid "ecce300696de4fae9e85c98f4757e43d"
+msgstr ""
+"surrounded with vedikās of the precious vidyutpradīpa gems. Once filled, he "
+"would give them as a gift, with raised parasols, standards, and flags, to as"
+" many buddhas as there are grains of sand in the Ganges, each and every day."
+
+msgid "8c4a1d0af1c64c98a9a94c863a61c188"
+msgstr ""
+"“It is as follows: Mañjuśrī, if all sentient beings included in the three "
+"world spheres were to be born in the hells, or as animals, or as pretas in "
+"the world of Yama,"
+
+msgid "c7ff17105d824efc8c9280e3e04b8e38"
+msgstr ""
+"“It is as follows: Mañjuśrī, if all sentient beings included in the three "
+"world spheres were to be born in the hells, or as animals, or as pretas in "
+"the world of Yama,"
+
+msgid "01eb35f8f01c49459637462b6b80f48c"
+msgstr ""
+"a householder bodhisattva may pull all of them out from those hells, the "
+"animal realm, and the preta world of Yama and establish them in the state of"
+" a pratyekabuddha."
+
+msgid "d227eda6762e46b38f1226830bdfcb08"
+msgstr ""
+"But another ordained bodhisattva may just give a morsel of food to one "
+"sentient being born as an animal."
+
+msgid "501bc8ef39a645b9aa753bb884f200a9"
+msgstr ""
+"Compared to the first, the second would engender a greater merit, an "
+"uncountably greater merit."
+
+msgid "b7e2ce02a8354253a50f96e671050096"
+msgstr "by not grasping at the eye and not perceiving form,"
+
+msgid "fec12742a20447568650a8a3efbf1198"
+msgstr "the form-base, and"
+
+msgid "9af5f95a10374505bf8f6c403597dad2"
+msgstr ""
+"Mañjuśrī, a bodhisattva may establish as many sentient beings as there are "
+"atomic particles in a great trichiliocosm into the state of a "
+"pratyekabuddha, but he may still have no belief in this Dharma teaching."
+
+msgid "55eee8eb803641b482da1f1946c31ec1"
+msgstr "Another bodhisattva, Mañjuśrī, who believes in this Dharma teaching"
+
+msgid "56e0f4246b874e62b60d5419fc3be037"
+msgstr "engenders much more merit than the first."
+
+msgid "d88426a737f84edf912b23ac65d7e32d"
+msgstr ""
+"All those bodhisattvas would thus produce merit through their acts of "
+"giving."
+
+msgid "97199e29df6d453db23bc2a5c3948ba2"
+msgstr ""
+"But another bodhisattva, pure in his inclinations and disciplined, whether "
+"householder or ordained,"
+
+msgid "444b8188814f4f0798c36eac53f4b26f"
+msgstr ""
+"Offering in this way, he would give this gift for as many eons as there are "
+"atomic particles of dust in a great trichiliocosm."
+
+msgid "4ae39ee5374c4cedb3ccb5c033883bda"
+msgstr ""
+"But another bodhisattva may teach just a four-line stanza from this Dharma "
+"method to another bodhisattva."
+
+msgid "ae8f106d73da4798b1419aae536b027e"
+msgstr ""
+"In this way, he would offer such gifts for eons as numerous as the grains of"
+" sand in the Ganges."
+
+msgid "fdeed2e06f944f8099f1cf947fe00954"
+msgstr "But another bodhisattva may believe in this Dharma teaching and"
+
+msgid "b23a9983b1b846ce9721528e4f9ea57f"
+msgstr "teach just a single four-foot stanza from it to another bodhisattva."
+
+msgid "503c43d1943741e29dcf6d1bccd3ea22"
+msgstr ""
+"Compared to the merit he would produce, the production of merit in the first"
+" instance, consisting of the bodhisattvas’ acts of giving, would not even "
+"amount to a hundredth part."
+
+msgid "75220b4409bc44a98fa0fdbd63d53edb"
+msgstr ""
+"He would then attend upon each tathāgata, and the corresponding bodhisattvas"
+" and hearers, for as many eons as there are atomic particles in "
+"inexpressibly numerous, tens of quintillions of buddhafields."
+
+msgid "4a4b5568c5de4b93936933181907d640"
+msgstr ""
+"He would offer robes, alms-food, bedding, seats, remedies for exhaustion, "
+"medicinal herbs, and provisions."
+
+msgid "55c564c0dd2f4f26864504fb1cda1193"
+msgstr ""
+"Compared to the merit he would produce, the production of merit in the first"
+" instance, consisting of the bodhisattvas’ acts of giving, would not even "
+"amount to a hundredth part."
+
+msgid "a5486aa48f8e48478f85fe4573f0b718"
+msgstr "And why?"
+
+msgid "9224c038cfaa45e891755288a0e26bfe"
+msgstr ""
+"It would not even count for one thousandth or one-billionth of it. It would "
+"not even count as any part, any number worthy of consideration, simile or "
+"approximation of any kind."
+
+msgid "87c9c3f166834d97b6794f650aa32024"
+msgstr ""
+"The seal of non-returning bodhisattvas is to hear this Dharma teaching."
+
+msgid "1f7f835e6e42485b8dd1e86c0aa7c1ff"
+msgstr ""
+"“Mañjuśrī, a bodhisattva might establish the sentient beings of all the "
+"world spheres in the ten directions in the state of one who follows out of "
+"conviction."
+
+msgid "d6003689e59d4c269e209d194ffe4586"
+msgstr ""
+"another bodhisattva might establish a single sentient being in the state of "
+"one who follows the meaning."
+
+msgid "d97f4c8784dc40ad87d944bc9eb07c37"
+msgstr "In that case, the latter would engender incalculably greater merit."
+
+msgid "57dcf54b62434ee2be62c5d3f14e81d6"
+msgstr ""
+"“Mañjuśrī, a bodhisattva might establish the sentient beings of all the "
+"world spheres in the ten directions in the state of one who follows the "
+"meaning."
+
+msgid "6b9d7326b8bd4c5d91e165d1c18cd205"
+msgstr ""
+"another bodhisattva might establish a single sentient being in the state of "
+"one who follows the Dharma."
+
+msgid "d91860273ac3445780781a8e7bfa55a9"
+msgstr ""
+"“Mañjuśrī, a bodhisattva might establish the sentient beings of all the "
+"world spheres in the ten directions in the state of one who follows the "
+"Dharma."
+
+msgid "0b71261b1f9a48a88ed97c0dd885e1ae"
+msgstr ""
+"another bodhisattva might establish a single sentient being in the result of"
+" attaining the stream."
+
+msgid "a578b348b481471c9731f093d045c215"
+msgstr ""
+"“Mañjuśrī, a bodhisattva might establish the sentient beings of all the "
+"world spheres in the ten directions in the result of attaining the stream."
+
+msgid "ef36e52268114eeeaae9fb629f6bc274"
+msgstr ""
+"another bodhisattva might establish a single sentient being in the result of"
+" a once-returner."
+
+msgid "925520a4673445af9a1a9975704ce521"
+msgstr ""
+"“Mañjuśrī, a bodhisattva might establish the sentient beings of all the "
+"world spheres in the ten directions in the result of a once-returner."
+
+msgid "6b336408494f4fb4a82eb8d8b52843b0"
+msgstr ""
+"another bodhisattva might establish a single sentient being in the result of"
+" a non-returner."
+
+msgid "c2996b632cc140c7b24e9d2975bce296"
+msgstr ""
+"“Mañjuśrī, a bodhisattva might establish the sentient beings of all the "
+"world spheres in the ten directions in the result of a non-returner."
+
+msgid "257a7cec4bba4c0da093a37cb149df9a"
+msgstr ""
+"another bodhisattva might establish a single sentient being in the result of"
+" an arhat."
+
+msgid "515fa8a55a0e4fb0bb41546a0e6a0e12"
+msgstr ""
+"another bodhisattva might establish a single sentient being in the result of"
+" an arhat."
+
+msgid "04c4d9e4d07b4c2690f39efa43d871e5"
+msgstr "In that case, the latter would engender incalculably greater merit."
+
+msgid "07332e1f279d4f27b0d8e3ca7930605e"
+msgstr ""
+"“Mañjuśrī, a bodhisattva might establish the sentient beings of all the "
+"world spheres in the ten directions in the result of an arhat."
+
+msgid "110c997330ef49bd8528ec944537dffd"
+msgstr ""
+"another bodhisattva might establish a single sentient being in the result of"
+" a pratyekabuddha."
+
+msgid "8085cedf15d84c1989e3b5c31d3e44c3"
+msgstr ""
+"“Mañjuśrī, a bodhisattva might establish the sentient beings of all the "
+"world spheres in the ten directions in the result of a pratyekabuddha."
+
+msgid "19e63b8d138c42448e32e99b651f8a5c"
+msgstr ""
+"another bodhisattva might establish a single sentient being in bodhicitta."
+
+msgid "9693e1205f30418b893689a223997d2e"
+msgstr ""
+"“Mañjuśrī, a bodhisattva might establish the sentient beings of all the "
+"world spheres in the ten directions in bodhicitta."
+
+msgid "5aa23fff1bca4b2580e88fd1cb1e9af6"
+msgstr ""
+"another bodhisattva might establish a single sentient being in the state of "
+"irreversibility."
+
+msgid "4d71704b28c542e598bc670a71a00e3d"
+msgstr ""
+"“Mañjuśrī, a bodhisattva might establish the sentient beings of all the "
+"world spheres in the ten directions in the state of irreversibility."
+
+msgid "6790ef72468b4a41b96095122d0195ec"
+msgstr ""
+"at least cause a single sentient being to engage with this Dharma teaching."
+
+msgid "f6ed20e374884468b95bb6eeca9c2e0f"
+msgstr ""
+"another bodhisattva, believing in this Dharma teaching, might make others "
+"write it down, might shed light on it,"
+
+msgid "f2326c9f6c71478d90d6495d5224635f"
+msgstr "Then, at that time, the Bhagavat spoke the following verses:"
+
+msgid "0a3a86a75c774fb2a1588b76e161ab17"
+msgstr "if another listens with reverence to this sūtra,"
+
+msgid "cee3d42492744c9d8f8894650dd22986"
+msgstr ""
+"“In the final times of decay, a bodhisattva May uphold the good Dharma of a "
+"hundred million buddhas."
+
+msgid "cf6d788125004794b0e6ff7620d786de"
+msgstr "His merit will be great, and exceed the former."
+
+msgid "f17ac3b5ae854919a38c2599cab37f25"
+msgstr "Eliciting compassion, not craving for any pleasure,"
+
+msgid "8dafad876b0e46848c6e5370e5fbe828"
+msgstr "He may then salute all of those sacred persons."
+
+msgid "8b2b8cc8160b4779bf71405582874379"
+msgstr "if for just a brief moment, Another teaches others this sūtra,"
+
+msgid "17981e18888b4831a8c665073dddf78d"
+msgstr "Will have sharp wisdom and great strength"
+
+msgid "b9e08cd5284240d1ba0eb292bf9d2ad7"
+msgstr "The fruit of his merit will exceed the former."
+
+msgid "574086a26e234896bbc5b92ee5795ce5"
+msgstr "keeps his mind well disposed toward the Sugata’s teaching,"
+
+msgid "c2b2cf46fa0b4085a9fa7b8b58eb1c2d"
+msgstr "quickly reach the level of the buddhas."
+
+msgid "ef44b020adb44f108bc4285962243830"
+msgstr "Have attained complete nirvāṇa, Without any remainder."
+
+msgid "3522365903e9433ba182979ebb75cd0a"
+msgstr ""
+"This was translated, edited, and finalized by the Indian scholar "
+"Surendrabodhi, the translator-editor Bhande Yeshe De, and others."
+
+msgid "52e7d221c61a43dbbb034f4b85878841"
+msgstr ""
+"“He may establish tall and beautiful stūpas, Beautified with fine gems to "
+"the summit of existence;"
+
+msgid "4a8df296d51548b58d7b350be752a1dd"
+msgstr "Thus spoke the Bhagavat"
+
+msgid "259edb70709d48c8a289abb3b377bb2f"
+msgstr ""
+"This completes the Noble Mahāyāna Sūtra The Ornament of the Light of "
+"Awareness That Enters the Domain of All Buddhas."
+
+msgid "7c7d03c517724d65b394387e45e67697"
+msgstr ""
+"Here the body of the tathāgatas, Like the space-element, is shown to all.”"
+
+msgid "bc5dd40f498f412a995bfc3187b516cf"
+msgstr ""
+"“This sūtra is extolled by the sugatas, And upheld by many bodhisattvas."
+
+msgid "a114a66f81c549a1aa0c77efc3a93692"
+msgstr ""
+"His merit will indeed be immeasurable, And he shall obtain awakening, in "
+"accordance with his wish."
+
+msgid "3fe0a66131484aafab32bfa4507f6b15"
+msgstr "Removing all stains of miserliness and being without fear,"
+
+msgid "a6c0f9a6284843eba5e8f9a2525e84fc"
+msgstr "“If a bodhisattva upholds this Dharma,"
+
+msgid "84acab96e0f54a2887d16ffb6be24496"
+msgstr "Then the fruit of his merit exceeds the former."
+
+msgid "5d2eec50902045c3a7bc88628a3c4101"
+msgstr ""
+"“Yet, when hearing this very sūtra, a bodhisattva May form the wish to "
+"establish it well, Either within his body or within a book."
+
+msgid "d38f4c64441e4246b3555554fc023104"
+msgstr ""
+"With parasols, standards, and the sound of bells, They would rise to the "
+"summit of existence."
+
+msgid "5e2fd41ae1df4b478ae627bdc4ad798d"
+msgstr "“The Sugata taught this sūtra, a lamp for gods and men:"
+
+msgid "f703efc039eb44d48075328ae0cdcf61"
+msgstr ""
+"Each bodhisattva, everywhere within the ten directions, would then see as "
+"many buddhas, as many bhagavats, as there are atomic particles in "
+"inexpressibly numerous, tens of quintillions of buddhafields."
+
+msgid "8be15232b68f4c8e98a4048806ebf02c"
+msgstr ""
+"To each tathāgata, each and every day, he would offer as many world spheres "
+"as there are atomic particles in inexpressibly numerous, tens of trillions "
+"of buddhafields, after filling them with the precious vaśirāja gems."
+
+msgid "41ae32aadaba4701a39317078a039c55"
+msgstr ""
+"But another bodhisattva, believing in this Dharma teaching, may give just "
+"one morsel of food to a sentient being born as an animal."
+
+msgid "fc365c5de14f485d9cb1dfd8a996a07f"
+msgstr ""
+"By using one’s own special powers, Someone may travel through the ten "
+"directions,"
+
+msgid "07584723730f493a9e54883ce096b1c7"
+msgstr "And worship a hundred million buddhas."
